@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import json
+import os
 import re
 import sys
 from datetime import datetime, timedelta, timezone
@@ -22,7 +23,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from fetchers import RSSFetcher, YouTubeFetcher  # noqa: E402
+from fetchers import RSSFetcher, YouTubeAPIFetcher, YouTubeFetcher  # noqa: E402
 from fetchers.base import FetchResult  # noqa: E402
 
 
@@ -43,7 +44,7 @@ def load_sources(root_yaml: Path) -> tuple[dict[str, Any], list[dict[str, Any]]]
     return doc, doc.get("sources", [])
 
 
-def select_fetcher(source: dict[str, Any], yt: YouTubeFetcher, rss: RSSFetcher):
+def select_fetcher(source: dict[str, Any], yt, rss: RSSFetcher):
     url = (source.get("url") or "") + " " + (source.get("handle") or "")
     handle = source.get("handle") or ""
     if "youtube.com" in url or handle.startswith("@"):
@@ -54,8 +55,17 @@ def select_fetcher(source: dict[str, Any], yt: YouTubeFetcher, rss: RSSFetcher):
 
 
 def crawl(sources: list[dict[str, Any]], since: datetime, cache_path: Path,
-          workers: int = 8) -> list[FetchResult]:
-    yt = YouTubeFetcher(cache_path=cache_path)
+          workers: int = 8, youtube_api_key: str | None = None) -> list[FetchResult]:
+    if youtube_api_key:
+        yt = YouTubeAPIFetcher(
+            api_key=youtube_api_key,
+            cache_path=cache_path.parent / "youtube_api.json",
+        )
+        print("using YouTube Data API v3 (full backfill enabled)", file=sys.stderr)
+    else:
+        yt = YouTubeFetcher(cache_path=cache_path)
+        print("no YOUTUBE_API_KEY set; falling back to RSS (15 videos/channel cap)",
+              file=sys.stderr)
     rss = RSSFetcher()
     results: list[FetchResult] = []
 
@@ -108,7 +118,11 @@ def main() -> int:
     date_str = args.date or now.strftime("%Y-%m-%d")
 
     print(f"crawling {len(sources)} sources since {since.isoformat()}", file=sys.stderr)
-    results = crawl(sources, since, args.cache, workers=args.workers)
+    results = crawl(
+        sources, since, args.cache,
+        workers=args.workers,
+        youtube_api_key=os.environ.get("YOUTUBE_API_KEY") or None,
+    )
 
     all_items = [item for r in results for item in r.items]
     all_items.sort(key=lambda i: i.published_at, reverse=True)

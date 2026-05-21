@@ -42,6 +42,8 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Crawl sources
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           ARGS=(--since "${{ github.event.inputs.since || '24h' }}")
           if [ -n "${{ github.event.inputs.only }}" ]; then
