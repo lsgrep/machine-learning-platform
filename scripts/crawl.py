@@ -26,10 +26,13 @@ from fetchers import RSSFetcher, YouTubeFetcher  # noqa: E402
 from fetchers.base import FetchResult  # noqa: E402
 
 
-def parse_since(spec: str) -> timedelta:
+def parse_since(spec: str) -> timedelta | None:
+    """Return the window length, or None for 'all' (no lower bound)."""
+    if spec.strip().lower() in {"all", "genesis", "*"}:
+        return None
     m = re.fullmatch(r"(\d+)([hdw])", spec.strip())
     if not m:
-        raise ValueError(f"invalid --since spec: {spec!r} (use e.g. 24h, 7d, 2w)")
+        raise ValueError(f"invalid --since spec: {spec!r} (use e.g. 24h, 7d, 2w, all)")
     n = int(m.group(1))
     unit = m.group(2)
     return {"h": timedelta(hours=n), "d": timedelta(days=n), "w": timedelta(weeks=n)}[unit]
@@ -95,7 +98,11 @@ def main() -> int:
             return 2
 
     now = datetime.now(timezone.utc)
-    since = now - parse_since(args.since)
+    window = parse_since(args.since)
+    if window is None:
+        since = datetime(1970, 1, 1, tzinfo=timezone.utc)
+    else:
+        since = now - window
     date_str = args.date or now.strftime("%Y-%m-%d")
 
     print(f"crawling {len(sources)} sources since {since.isoformat()}", file=sys.stderr)

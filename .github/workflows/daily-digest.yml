@@ -7,11 +7,15 @@ on:
   workflow_dispatch:
     inputs:
       since:
-        description: "Window (e.g. 24h, 7d, 2w)"
+        description: "Window (e.g. 24h, 7d, 2w, or 'all' for a genesis snapshot)"
         required: false
         default: "24h"
       only:
         description: "Comma-separated source ids to restrict the crawl (optional)"
+        required: false
+        default: ""
+      date:
+        description: "Output filename stem (defaults to today's date; use 'genesis' for the first all-content snapshot)"
         required: false
         default: ""
 
@@ -43,10 +47,18 @@ jobs:
           if [ -n "${{ github.event.inputs.only }}" ]; then
             ARGS+=(--only "${{ github.event.inputs.only }}")
           fi
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            ARGS+=(--date "${{ github.event.inputs.date }}")
+          fi
           python scripts/crawl.py "${ARGS[@]}"
 
       - name: Render Markdown digest
-        run: python scripts/render_digest.py
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python scripts/render_digest.py --date "${{ github.event.inputs.date }}"
+          else
+            python scripts/render_digest.py
+          fi
 
       - name: Commit & push if changed
         run: |
@@ -57,6 +69,7 @@ jobs:
             echo "no digest changes"
             exit 0
           fi
-          DATE=$(date -u +%Y-%m-%d)
-          git commit -m "chore(digest): ${DATE}"
+          STEM="${{ github.event.inputs.date }}"
+          if [ -z "$STEM" ]; then STEM=$(date -u +%Y-%m-%d); fi
+          git commit -m "chore(digest): ${STEM}"
           git push
