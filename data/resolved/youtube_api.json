@@ -9,6 +9,12 @@
     "title": "Advancing Analytics",
     "uploads_playlist": "UUmRI-X6XoeH2dQE4BShRU9Q"
   },
+  "@BrentOzar": {
+    "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+    "resolved_via": "search",
+    "title": "Brent Ozar Unlimited",
+    "uploads_playlist": "UU5B27ZdPle33KaQqsisR3mQ"
+  },
   "@ByteByteGo": {
     "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
     "title": "ByteByteGo",
@@ -23,6 +29,12 @@
     "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
     "title": "Confluent",
     "uploads_playlist": "UUmZz-Gj3caLLzEWBtbYUXaA"
+  },
+  "@ConfluentDevXTeam": {
+    "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+    "resolved_via": "search",
+    "title": "Confluent Developer",
+    "uploads_playlist": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
   },
   "@DarshilParmar": {
     "channel_id": "UCChmJrVa8kDg05JfCmxpLRw",
@@ -54,6 +66,12 @@
     "title": "MLOps.community",
     "uploads_playlist": "UUG6qpjVnBTTT8wLGBygANOQ"
   },
+  "@Redpanda-Data": {
+    "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+    "resolved_via": "search",
+    "title": "Redpanda Data",
+    "uploads_playlist": "UUMrqRNX9Og3wFjuI-qMbKHw"
+  },
   "@Reducible": {
     "channel_id": "UCK8XIGR5kRidIw2fWqwyHRA",
     "title": "Reducible",
@@ -78,6 +96,12 @@
     "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
     "title": "codebasics",
     "uploads_playlist": "UUh9nVJoWXmFb7sLApWGcLPQ"
+  },
+  "@decodableco": {
+    "channel_id": "UChRQwfRNURBcurHSut2pm9Q",
+    "resolved_via": "search",
+    "title": "Decodable",
+    "uploads_playlist": "UUhRQwfRNURBcurHSut2pm9Q"
   },
   "@hnasr": {
     "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
@@ -109,9 +133,51 @@
     "title": "mehdio debugs",
     "uploads_playlist": "UUiZxJB0xWfPBE2omVZeWPpQ"
   },
+  "@tecton-ai": {
+    "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+    "resolved_via": "search",
+    "title": "Tectone",
+    "uploads_playlist": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+  },
   "@thegeeknarrator": {
     "channel_id": "UC_mGuY4g0mggeUGM6V1osdA",
     "title": "The Geek Narrator",
     "uploads_playlist": "UU_mGuY4g0mggeUGM6V1osdA"
+  },
+  "name:Data with Baara": {
+    "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+    "resolved_via": "search",
+    "title": "Data with Baraa",
+    "uploads_playlist": "UU8_RSKwbU1OmZWNEoLV1tQg"
+  },
+  "name:DevMastersDb": {
+    "channel_id": "UCHvBERHG_LA1DxxnjU_bdAQ",
+    "resolved_via": "search",
+    "title": "Denis Magda",
+    "uploads_playlist": "UUHvBERHG_LA1DxxnjU_bdAQ"
+  },
+  "name:E-Learning Bridge": {
+    "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+    "resolved_via": "search",
+    "title": "E-Learning Bridge",
+    "uploads_playlist": "UUBGcs9XTL5U34oaSn_AsHqw"
+  },
+  "name:Practically Perfect PL/SQL": {
+    "channel_id": "UCpJpLMRm452kVcie3RpINPw",
+    "resolved_via": "search",
+    "title": "Practically Perfect PL/SQL with Steven Feuerstein",
+    "uploads_playlist": "UUpJpLMRm452kVcie3RpINPw"
+  },
+  "name:Theoretical Computer Science": {
+    "channel_id": "UCBlvrlD8V8I_JBSXm6cMXLw",
+    "resolved_via": "search",
+    "title": "Theoretical Computer Science",
+    "uploads_playlist": "UUBlvrlD8V8I_JBSXm6cMXLw"
+  },
+  "name:nullQueries": {
+    "channel_id": "UCtKKhu8MzKSde-X-xVH-Vpw",
+    "resolved_via": "search",
+    "title": "nullQueries",
+    "uploads_playlist": "UUtKKhu8MzKSde-X-xVH-Vpw"
   }
 }
