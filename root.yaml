@@ -629,23 +629,6 @@ sources:
       - performance-profiling
     verified: false
 
-  - id: theprimeagen
-    name: "ThePrimeagen"
-    type: youtube
-    host: "ThePrimeagen"
-    url: "https://www.youtube.com/@ThePrimeagen"
-    handle: "@ThePrimeagen"
-    feed: null
-    tier: 2
-    category: cs_foundations
-    focus: "Developer productivity, runtime optimization"
-    topics:
-      - productivity
-      - runtimes
-      - editor
-      - performance
-    verified: false
-
   - id: reducible
     name: "Reducible"
     type: youtube
