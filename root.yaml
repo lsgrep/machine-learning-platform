@@ -1,0 +1,699 @@
+# root.yaml
+# Source metadata catalog for crawling industry patterns and news from
+# specialized technical education platforms covering MLOps, stream processing,
+# database internals, and analytics engineering.
+#
+# Extracted from the survey: "High-Scale System Architectures, Stream
+# Processing, and Operational Machine Learning".
+#
+# Field reference:
+#   id            stable slug used as crawler key
+#   name          display name of the source
+#   type          youtube | podcast | academic | community
+#   host          primary creator(s) / owning organization
+#   url           canonical landing page (verify before automated fetch)
+#   handle        platform handle (e.g. @handle for YouTube)
+#   feed          RSS/Atom feed pattern when known; null if must be resolved
+#                 by the crawler (e.g. YouTube channel_id lookup)
+#   tier          1=Core Systems, 2=Infrastructure/Protocols,
+#                 3=Big Data/Analytics, 4=Career/Interview
+#   category      thematic grouping from the survey
+#   focus         one-line technical focus
+#   topics        keyword list to filter / tag fetched items
+#   verified      whether the URL/handle has been human-verified
+#                 (false = treat as candidate, crawler should confirm)
+
+version: 1
+updated: 2026-05-21
+
+defaults:
+  youtube_feed_pattern: "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+  youtube_handle_url: "https://www.youtube.com/{handle}"
+  crawl_interval_days: 7
+
+categories:
+  - id: mlops_feature_stores
+    label: "Enterprise ML Platforms & Feature Stores"
+  - id: stream_processing
+    label: "Stream Processing, Event Brokerage & Real-Time"
+  - id: db_internals
+    label: "Database Internals, Storage Engines & Consensus"
+  - id: big_data_analytics
+    label: "Big Data Systems, Analytics Engineering & Foundations"
+  - id: career_interview
+    label: "Career Development & Interview Strategy"
+  - id: cs_foundations
+    label: "CS Foundations, Visualization & Productivity"
+
+sources:
+
+  # ---------------------------------------------------------------
+  # MLOps & Feature Stores
+  # ---------------------------------------------------------------
+  - id: mlops_community
+    name: "MLOps Community"
+    type: youtube
+    host: "Demetrios Brinkmann"
+    url: "https://www.youtube.com/@MLOps"
+    handle: "@MLOps"
+    feed: null
+    tier: 2
+    category: mlops_feature_stores
+    focus: "Real-world MLOps pipelines, postmortems, agent/LLM ops"
+    topics:
+      - mlops
+      - agents
+      - tool-calling
+      - model-context-protocol
+      - durable-execution
+      - temporal
+      - context-engineering
+    verified: false
+
+  - id: tecton
+    name: "Tecton"
+    type: youtube
+    host: "Tecton (Mike Del Balso, Willem Pienaar)"
+    url: "https://www.youtube.com/@tecton-ai"
+    handle: "@tecton-ai"
+    feed: null
+    tier: 2
+    category: mlops_feature_stores
+    focus: "Declarative enterprise feature framework"
+    topics:
+      - feature-store
+      - feast
+      - point-in-time-join
+      - online-store
+      - redis
+      - dynamodb
+      - training-serving-skew
+    verified: false
+
+  - id: hopsworks
+    name: "Hopsworks"
+    type: youtube
+    host: "Hopsworks AI"
+    url: "https://www.youtube.com/@hopsworks"
+    handle: "@hopsworks"
+    feed: null
+    tier: 2
+    category: mlops_feature_stores
+    focus: "Decoupled three-pipeline ML paradigm with data validation"
+    topics:
+      - feature-store
+      - feature-pipeline
+      - great-expectations
+      - pandas
+      - feature-groups
+    verified: false
+
+  - id: iquantconsult
+    name: "iquantconsult"
+    type: youtube
+    host: "iquantconsult"
+    url: "https://www.youtube.com/@iquantconsult"
+    handle: "@iquantconsult"
+    feed: null
+    tier: 3
+    category: mlops_feature_stores
+    focus: "Project-oriented DevOps + MLOps end-to-end deployments"
+    topics:
+      - docker
+      - kubernetes
+      - ci-cd
+      - model-deployment
+    verified: false
+
+  # ---------------------------------------------------------------
+  # Stream Processing & Event Brokerage
+  # ---------------------------------------------------------------
+  - id: confluent_developer
+    name: "Confluent Developer"
+    type: youtube
+    host: "Confluent"
+    url: "https://www.youtube.com/@ConfluentDevXTeam"
+    handle: "@ConfluentDevXTeam"
+    feed: null
+    tier: 2
+    category: stream_processing
+    focus: "Kafka, Flink, ksqlDB, Schema Registry, Iceberg"
+    topics:
+      - kafka
+      - kafka-streams
+      - flink
+      - ksqldb
+      - kraft
+      - schema-registry
+      - iceberg
+      - watermarks
+    verified: false
+
+  - id: confluent
+    name: "Confluent"
+    type: youtube
+    host: "Confluent"
+    url: "https://www.youtube.com/@Confluent"
+    handle: "@Confluent"
+    feed: null
+    tier: 2
+    category: stream_processing
+    focus: "Enterprise event streaming, cluster scaling case studies"
+    topics:
+      - kafka
+      - event-streaming
+      - cluster-scaling
+      - telemetry
+    verified: false
+
+  - id: decodable
+    name: "Decodable"
+    type: youtube
+    host: "Decodable (Sharon Xie, Gunnar Morling)"
+    url: "https://www.youtube.com/@decodableco"
+    handle: "@decodableco"
+    feed: null
+    tier: 2
+    category: stream_processing
+    focus: "Serverless Flink SQL and Change Data Capture"
+    topics:
+      - flink-sql
+      - cdc
+      - debezium
+      - streaming-joins
+      - postgres
+      - mysql
+    verified: false
+
+  - id: advancing_analytics
+    name: "Advancing Analytics"
+    type: youtube
+    host: "Advancing Analytics"
+    url: "https://www.youtube.com/@AdvancingAnalytics"
+    handle: "@AdvancingAnalytics"
+    feed: null
+    tier: 3
+    category: stream_processing
+    focus: "Databricks, Spark Structured Streaming on Azure"
+    topics:
+      - databricks
+      - delta-live-tables
+      - structured-streaming
+      - unity-catalog
+      - automl
+      - ganglia
+    verified: false
+
+  - id: redpanda_university
+    name: "Redpanda University"
+    type: youtube
+    host: "Redpanda Data"
+    url: "https://www.youtube.com/@Redpanda-Data"
+    handle: "@Redpanda-Data"
+    feed: null
+    tier: 2
+    category: stream_processing
+    focus: "JVM-free low-latency stream brokerage"
+    topics:
+      - redpanda
+      - streaming
+      - partitioned-queues
+      - replication
+    verified: false
+
+  # ---------------------------------------------------------------
+  # Database Internals & Consensus
+  # ---------------------------------------------------------------
+  - id: cmu_db_group
+    name: "CMU Database Group"
+    type: academic
+    host: "Andy Pavlo / Carnegie Mellon University"
+    url: "https://www.youtube.com/@CMUDatabaseGroup"
+    handle: "@CMUDatabaseGroup"
+    feed: null
+    tier: 1
+    category: db_internals
+    focus: "Advanced OLAP internals, query compilation, columnar systems"
+    topics:
+      - olap
+      - columnar
+      - vectorization
+      - run-length-encoding
+      - duckdb
+      - cockroachdb
+      - redshift
+      - dbos
+      - cmu-15-721
+    verified: false
+
+  - id: martin_kleppmann
+    name: "Martin Kleppmann"
+    type: academic
+    host: "Martin Kleppmann (University of Cambridge)"
+    url: "https://www.youtube.com/@kleppmann"
+    handle: "@kleppmann"
+    feed: null
+    tier: 1
+    category: db_internals
+    focus: "Concurrent & distributed systems theory"
+    topics:
+      - paxos
+      - raft
+      - two-phase-commit
+      - lamport-clocks
+      - vector-clocks
+      - linearizability
+      - crdt
+      - automerge
+    verified: false
+
+  - id: geek_narrator
+    name: "The Geek Narrator"
+    type: youtube
+    host: "Kaivalya Apte"
+    url: "https://www.youtube.com/@thegeeknarrator"
+    handle: "@thegeeknarrator"
+    feed: null
+    tier: 1
+    category: db_internals
+    focus: "Decoupled storage engines, LSM on object storage, correctness"
+    topics:
+      - lsm-tree
+      - slatedb
+      - tigerbeetle
+      - s3-cas
+      - aurora-dsql
+      - assertion-density
+      - simulation-testing
+    verified: false
+
+  - id: hussein_nasser
+    name: "Hussein Nasser"
+    type: youtube
+    host: "Hussein Nasser"
+    url: "https://www.youtube.com/@hnasr"
+    handle: "@hnasr"
+    feed: null
+    tier: 2
+    category: db_internals
+    focus: "Backend infrastructure, networking, DB indexing internals"
+    topics:
+      - b-tree
+      - hash-index
+      - connection-pooling
+      - tcp
+      - udp
+      - http2
+      - http3
+      - postgres
+      - redis
+      - proxies
+    verified: false
+
+  - id: brent_ozar
+    name: "Brent Ozar Unlimited"
+    type: youtube
+    host: "Brent Ozar"
+    url: "https://www.youtube.com/@BrentOzar"
+    handle: "@BrentOzar"
+    feed: null
+    tier: 2
+    category: db_internals
+    focus: "SQL Server execution plans, index tuning"
+    topics:
+      - sql-server
+      - execution-plans
+      - index-tuning
+      - performance
+    verified: false
+
+  - id: erik_darling
+    name: "Erik Darling Data"
+    type: youtube
+    host: "Erik Darling"
+    url: "https://www.youtube.com/@ErikDarlingData"
+    handle: "@ErikDarlingData"
+    feed: null
+    tier: 2
+    category: db_internals
+    focus: "SQL Server performance profiling and query tuning"
+    topics:
+      - sql-server
+      - query-tuning
+      - performance-profiling
+    verified: false
+
+  - id: practically_perfect_plsql
+    name: "Practically Perfect PL/SQL"
+    type: youtube
+    host: "Steven Feuerstein"
+    url: null
+    handle: null
+    feed: null
+    tier: 2
+    category: db_internals
+    focus: "Oracle PL/SQL stored procedure architecture and patterns"
+    topics:
+      - oracle
+      - plsql
+      - stored-procedures
+    verified: false
+
+  - id: devmastersdb
+    name: "DevMastersDb"
+    type: youtube
+    host: "DevMastersDb"
+    url: null
+    handle: null
+    feed: null
+    tier: 3
+    category: db_internals
+    focus: "Database models, normalization, relational calculus"
+    topics:
+      - normalization
+      - relational-model
+      - schema-design
+    verified: false
+
+  - id: theoretical_cs
+    name: "Theoretical Computer Science"
+    type: youtube
+    host: "n/a"
+    url: null
+    handle: null
+    feed: null
+    tier: 1
+    category: db_internals
+    focus: "Foundational relational and CS theory"
+    topics:
+      - relational-calculus
+      - database-theory
+    verified: false
+
+  # ---------------------------------------------------------------
+  # Big Data Systems & Analytics Engineering
+  # ---------------------------------------------------------------
+  - id: datatalksclub
+    name: "DataTalksClub"
+    type: community
+    host: "Alexey Grigorev"
+    url: "https://www.youtube.com/@DataTalksClub"
+    handle: "@DataTalksClub"
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "End-to-end Zoomcamps: Data Engineering, MLOps, LLM"
+    topics:
+      - zoomcamp
+      - terraform
+      - kestra
+      - dbt
+      - bigquery
+      - spark
+      - kafka
+      - mlflow
+      - rag
+      - pgvector
+    verified: false
+
+  - id: data_with_zach
+    name: "Data with Zach"
+    type: youtube
+    host: "Zach Wilson (EcZachly)"
+    url: "https://www.youtube.com/@EczachlyInc"
+    handle: "@EczachlyInc"
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "High-scale data modeling and pipeline robustness"
+    topics:
+      - kimball
+      - one-big-table
+      - scd
+      - idempotency
+      - parquet
+      - iceberg
+      - run-length-encoding
+    verified: false
+
+  - id: seattle_data_guy
+    name: "Seattle Data Guy"
+    type: youtube
+    host: "Ben Rogojan"
+    url: "https://www.youtube.com/@SeattleDataGuy"
+    handle: "@SeattleDataGuy"
+    feed: null
+    tier: 4
+    category: big_data_analytics
+    focus: "Analytics engineering stacks, consulting, team scaling"
+    topics:
+      - dbt
+      - trino
+      - airflow
+      - consulting
+      - career
+    verified: false
+
+  - id: andreas_kretz
+    name: "Andreas Kretz / Plumbers of Data Science"
+    type: podcast
+    host: "Andreas Kretz"
+    url: "https://www.youtube.com/@andreaskayy"
+    handle: "@andreaskayy"
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "Real-world enterprise data architecture reviews"
+    topics:
+      - aws
+      - lambda
+      - sqs
+      - spark
+      - architecture-review
+    verified: false
+
+  - id: darshil_parmar
+    name: "Darshil Parmar"
+    type: youtube
+    host: "Darshil Parmar"
+    url: "https://www.youtube.com/@DarshilParmar"
+    handle: "@DarshilParmar"
+    feed: null
+    tier: 4
+    category: big_data_analytics
+    focus: "End-to-end portfolio DE projects on cloud"
+    topics:
+      - gcp
+      - serverless
+      - portfolio-project
+      - uber-analytics
+    verified: false
+
+  - id: elearning_bridge
+    name: "E-Learning Bridge"
+    type: youtube
+    host: "Shashank Mishra"
+    url: null
+    handle: null
+    feed: null
+    tier: 4
+    category: career_interview
+    focus: "SQL interview preparation for FAANG-level firms"
+    topics:
+      - sql-interview
+      - recursive-cte
+      - window-functions
+      - faang
+    verified: false
+
+  - id: mehdio
+    name: "mehdio debugs / Mehdio DataTv"
+    type: youtube
+    host: "Mehdi Ouazza"
+    url: "https://www.youtube.com/@mehdio"
+    handle: "@mehdio"
+    feed: null
+    tier: 4
+    category: big_data_analytics
+    focus: "Minimalist lakehouse, DuckDB/MotherDuck, Rust tooling"
+    topics:
+      - duckdb
+      - motherduck
+      - uv
+      - postgres
+      - lakehouse
+      - coalesce
+    verified: false
+
+  - id: codebasics
+    name: "Codebasics"
+    type: youtube
+    host: "Dhaval Patel"
+    url: "https://www.youtube.com/@codebasics"
+    handle: "@codebasics"
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "Snowflake, Databricks, PySpark walkthroughs"
+    topics:
+      - snowflake
+      - databricks
+      - pyspark
+      - data-warehouse
+    verified: false
+
+  - id: data_with_baara
+    name: "Data with Baara"
+    type: youtube
+    host: "Baara"
+    url: null
+    handle: null
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "Snowflake, Databricks, PySpark tutorials"
+    topics:
+      - snowflake
+      - databricks
+      - pyspark
+    verified: false
+
+  - id: karolina_sowinska
+    name: "Karolina Sowinska"
+    type: youtube
+    host: "Karolina Sowinska"
+    url: "https://www.youtube.com/@KarolinaSowinska"
+    handle: "@KarolinaSowinska"
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "Beginner-friendly pipelines (Spotify ETL on Airflow)"
+    topics:
+      - airflow
+      - etl
+      - spotify-api
+      - beginner
+    verified: false
+
+  - id: nullqueries
+    name: "nullQueries"
+    type: youtube
+    host: "nullQueries"
+    url: null
+    handle: null
+    feed: null
+    tier: 3
+    category: big_data_analytics
+    focus: "SQL history, schema design, Kimball methodology"
+    topics:
+      - sql-history
+      - schema-design
+      - kimball
+    verified: false
+
+  # ---------------------------------------------------------------
+  # CS Foundations, Visualization & Productivity
+  # ---------------------------------------------------------------
+  - id: bytebytego
+    name: "ByteByteGo"
+    type: youtube
+    host: "Alex Xu"
+    url: "https://www.youtube.com/@ByteByteGo"
+    handle: "@ByteByteGo"
+    feed: null
+    tier: 2
+    category: cs_foundations
+    focus: "System design fundamentals"
+    topics:
+      - system-design
+      - rate-limiting
+      - load-balancing
+      - consistent-hashing
+    verified: false
+
+  - id: jon_gjengset
+    name: "Jon Gjengset"
+    type: youtube
+    host: "Jon Gjengset"
+    url: "https://www.youtube.com/@jonhoo"
+    handle: "@jonhoo"
+    feed: null
+    tier: 1
+    category: cs_foundations
+    focus: "Live-coded low-level systems in Rust"
+    topics:
+      - rust
+      - hashmap
+      - tcp
+      - data-structures
+      - performance-profiling
+    verified: false
+
+  - id: theprimeagen
+    name: "ThePrimeagen"
+    type: youtube
+    host: "ThePrimeagen"
+    url: "https://www.youtube.com/@ThePrimeagen"
+    handle: "@ThePrimeagen"
+    feed: null
+    tier: 2
+    category: cs_foundations
+    focus: "Developer productivity, runtime optimization"
+    topics:
+      - productivity
+      - runtimes
+      - editor
+      - performance
+    verified: false
+
+  - id: reducible
+    name: "Reducible"
+    type: youtube
+    host: "Reducible"
+    url: "https://www.youtube.com/@Reducible"
+    handle: "@Reducible"
+    feed: null
+    tier: 1
+    category: cs_foundations
+    focus: "Animated CS algorithm and math breakdowns"
+    topics:
+      - algorithms
+      - visualization
+      - cs-theory
+    verified: false
+
+  - id: three_blue_one_brown
+    name: "3Blue1Brown"
+    type: youtube
+    host: "Grant Sanderson"
+    url: "https://www.youtube.com/@3blue1brown"
+    handle: "@3blue1brown"
+    feed: null
+    tier: 1
+    category: cs_foundations
+    focus: "Animated mathematics underpinning CS and ML"
+    topics:
+      - linear-algebra
+      - calculus
+      - neural-networks
+      - visualization
+    verified: false
+
+# ---------------------------------------------------------------
+# Crawl strategy notes
+# ---------------------------------------------------------------
+crawl_notes:
+  - "For YouTube sources where `feed: null`, the crawler must first resolve
+     the channel_id from the handle (HTML scrape of /@handle for
+     `externalId` or use YouTube Data API channels.list?forHandle=) and
+     then construct the feed via `youtube_feed_pattern`."
+  - "Entries marked `verified: false` are derived from the survey text and
+     widely-used handles; confirm the canonical URL on first fetch before
+     trusting downstream automation."
+  - "Sources without a URL/handle (e.g. Practically Perfect PL/SQL,
+     DevMastersDb, Theoretical Computer Science, Data with Baara,
+     nullQueries, E-Learning Bridge) require manual resolution before
+     adding to the active crawl set."
+  - "Podcasts (Plumbers of Data Science) may also publish via dedicated
+     RSS feeds outside YouTube; consider adding those endpoints once
+     resolved."
