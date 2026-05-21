@@ -45,7 +45,8 @@ def load_sources(root_yaml: Path) -> tuple[dict[str, Any], list[dict[str, Any]]]
 
 def select_fetcher(source: dict[str, Any], yt: YouTubeFetcher, rss: RSSFetcher):
     url = (source.get("url") or "") + " " + (source.get("handle") or "")
-    if "youtube.com" in url or source.get("handle", "").startswith("@"):
+    handle = source.get("handle") or ""
+    if "youtube.com" in url or handle.startswith("@"):
         return yt
     if source.get("feed") or source.get("url"):
         return rss
@@ -59,13 +60,14 @@ def crawl(sources: list[dict[str, Any]], since: datetime, cache_path: Path,
     results: list[FetchResult] = []
 
     def run_one(src: dict[str, Any]) -> FetchResult:
-        fetcher = select_fetcher(src, yt, rss)
-        if fetcher is None:
-            return FetchResult(source_id=src["id"], error="no fetcher (missing url/handle)")
+        sid = src.get("id", "<unknown>")
         try:
+            fetcher = select_fetcher(src, yt, rss)
+            if fetcher is None:
+                return FetchResult(source_id=sid, error="no fetcher (missing url/handle)")
             return fetcher.fetch(src, since=since)
-        except Exception as e:  # noqa: BLE001 - we want one bad source not to kill the run
-            return FetchResult(source_id=src["id"], error=f"unhandled: {type(e).__name__}: {e}")
+        except Exception as e:  # noqa: BLE001 - one bad source must not kill the run
+            return FetchResult(source_id=sid, error=f"unhandled: {type(e).__name__}: {e}")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
         for res in pool.map(run_one, sources):

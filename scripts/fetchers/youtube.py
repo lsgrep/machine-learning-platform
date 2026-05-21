@@ -21,9 +21,15 @@ ATOM_NS = {
 FEED_URL = "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
 WATCH_URL = "https://www.youtube.com/watch?v={video_id}"
 
-# externalId is the most stable channel-id field embedded in the channel HTML.
-_EXTERNAL_ID_RE = re.compile(r'"externalId":"(UC[\w-]{20,30})"')
-_BROWSE_ID_RE = re.compile(r'"browseId":"(UC[\w-]{20,30})"')
+_CID_PATTERNS = [
+    re.compile(r'"externalId":"(UC[\w-]{22})"'),
+    re.compile(r'"channelId":"(UC[\w-]{22})"'),
+    re.compile(r'"browseId":"(UC[\w-]{22})"'),
+    re.compile(r'<meta itemprop="(?:identifier|channelId)" content="(UC[\w-]{22})"'),
+    re.compile(r'<link rel="canonical" href="[^"]*/channel/(UC[\w-]{22})"'),
+    re.compile(r'og:url"\s+content="[^"]*/channel/(UC[\w-]{22})"'),
+    re.compile(r'/channel/(UC[\w-]{22})'),
+]
 
 UA = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -52,30 +58,42 @@ class YouTubeFetcher(Fetcher):
         self.cache_path.parent.mkdir(parents=True, exist_ok=True)
         self.cache_path.write_text(json.dumps(self._cache, indent=2, sort_keys=True))
 
-    def resolve_channel_id(self, handle_or_url: str) -> str | None:
+    def resolve_channel_id(self, handle_or_url: str) -> tuple[str | None, str | None]:
+        """Return (channel_id, error). Tries the channel home then /about."""
         if handle_or_url in self._cache:
-            return self._cache[handle_or_url]
+            return self._cache[handle_or_url], None
 
         if handle_or_url.startswith("http"):
-            page_url = handle_or_url
+            candidates = [handle_or_url, handle_or_url.rstrip("/") + "/about"]
         else:
             h = handle_or_url.lstrip("@")
-            page_url = f"https://www.youtube.com/@{h}"
+            candidates = [
+                f"https://www.youtube.com/@{h}",
+                f"https://www.youtube.com/@{h}/about",
+                f"https://www.youtube.com/c/{h}",
+            ]
 
-        try:
-            r = self.session.get(page_url, timeout=20)
-            r.raise_for_status()
-        except requests.RequestException:
-            return None
+        last_diag = "no candidates tried"
+        for page_url in candidates:
+            try:
+                r = self.session.get(page_url, timeout=20, allow_redirects=True)
+            except requests.RequestException as e:
+                last_diag = f"{page_url}: {type(e).__name__}"
+                continue
+            if r.status_code >= 400:
+                last_diag = f"{page_url}: HTTP {r.status_code}"
+                continue
+            html = r.text
+            for pat in _CID_PATTERNS:
+                m = pat.search(html)
+                if m:
+                    cid = m.group(1)
+                    self._cache[handle_or_url] = cid
+                    self._save_cache()
+                    return cid, None
+            last_diag = f"{page_url}: HTTP {r.status_code} {len(html)}B, no UC id matched"
 
-        html = r.text
-        m = _EXTERNAL_ID_RE.search(html) or _BROWSE_ID_RE.search(html)
-        if not m:
-            return None
-        cid = m.group(1)
-        self._cache[handle_or_url] = cid
-        self._save_cache()
-        return cid
+        return None, last_diag
 
     def fetch(self, source: dict[str, Any], since: datetime) -> FetchResult:
         sid = source["id"]
@@ -86,9 +104,9 @@ class YouTubeFetcher(Fetcher):
             result.error = "no handle/url"
             return result
 
-        channel_id = self.resolve_channel_id(key)
+        channel_id, diag = self.resolve_channel_id(key)
         if not channel_id:
-            result.error = f"could not resolve channel_id for {key}"
+            result.error = f"could not resolve channel_id for {key} ({diag})"
             return result
 
         try:
