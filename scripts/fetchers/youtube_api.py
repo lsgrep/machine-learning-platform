@@ -63,53 +63,94 @@ class YouTubeAPIFetcher(Fetcher):
             raise RuntimeError(f"{path} HTTP {r.status_code}: {err}")
         return r.json()
 
-    def resolve(self, handle_or_url: str) -> dict | None:
-        cached = self._cache.get(handle_or_url)
-        if cached and "uploads_playlist" in cached:
-            return cached
-
-        if handle_or_url.startswith("http"):
-            m = _CHANNEL_URL_RE.search(handle_or_url)
-            if m:
-                params = {"part": "contentDetails,snippet", "id": m.group(1)}
-            else:
-                m = _HANDLE_URL_RE.search(handle_or_url)
-                if not m:
-                    return None
-                params = {"part": "contentDetails,snippet", "forHandle": "@" + m.group(1)}
-        else:
-            params = {"part": "contentDetails,snippet",
-                      "forHandle": "@" + handle_or_url.lstrip("@")}
-
+    def _channels_first(self, params: dict[str, Any]) -> dict | None:
         data = self._get("channels", params)
         items = data.get("items") or []
         if not items:
             return None
         ch = items[0]
-        info = {
+        return {
             "channel_id": ch["id"],
             "uploads_playlist": ch["contentDetails"]["relatedPlaylists"]["uploads"],
             "title": ch["snippet"]["title"],
         }
-        self._cache[handle_or_url] = info
-        self._save_cache()
+
+    def _lookup_by_key(self, key: str) -> dict | None:
+        if key.startswith("http"):
+            m = _CHANNEL_URL_RE.search(key)
+            if m:
+                params = {"part": "contentDetails,snippet", "id": m.group(1)}
+            else:
+                m = _HANDLE_URL_RE.search(key)
+                if not m:
+                    return None
+                params = {"part": "contentDetails,snippet",
+                          "forHandle": "@" + m.group(1)}
+        else:
+            params = {"part": "contentDetails,snippet",
+                      "forHandle": "@" + key.lstrip("@")}
+        return self._channels_first(params)
+
+    def _lookup_by_search(self, q: str) -> dict | None:
+        # search.list costs 100 quota units — only used as a fallback when
+        # forHandle/forUsername resolution misses, and the result is cached.
+        data = self._get("search", {
+            "part": "snippet", "type": "channel", "q": q, "maxResults": 1,
+        })
+        items = data.get("items") or []
+        if not items:
+            return None
+        cid = (items[0].get("snippet") or {}).get("channelId") \
+            or (items[0].get("id") or {}).get("channelId")
+        if not cid:
+            return None
+        info = self._channels_first({"part": "contentDetails,snippet", "id": cid})
+        if info:
+            info["resolved_via"] = "search"
+        return info
+
+    def resolve(self, key: str | None, name: str | None = None) -> dict | None:
+        cache_key = key or (f"name:{name}" if name else None)
+        if not cache_key:
+            return None
+        cached = self._cache.get(cache_key)
+        if cached and "uploads_playlist" in cached:
+            return cached
+
+        info: dict | None = None
+        if key:
+            try:
+                info = self._lookup_by_key(key)
+            except Exception:
+                info = None
+        if info is None and name:
+            try:
+                info = self._lookup_by_search(name)
+            except Exception:
+                info = None
+
+        if info:
+            self._cache[cache_key] = info
+            self._save_cache()
         return info
 
     def fetch(self, source: dict[str, Any], since: datetime) -> FetchResult:
         sid = source["id"]
         result = FetchResult(source_id=sid)
         key = source.get("handle") or source.get("url")
-        if not key:
-            result.error = "no handle/url"
+        name = source.get("name")
+        if not key and not name:
+            result.error = "no handle/url/name"
             return result
 
         try:
-            info = self.resolve(key)
+            info = self.resolve(key, name=name)
         except Exception as e:  # noqa: BLE001
             result.error = f"resolve failed: {e}"
             return result
         if not info:
-            result.error = f"channel not found for {key}"
+            ident = key or f"name={name!r}"
+            result.error = f"channel not found for {ident}"
             return result
 
         playlist_id = info["uploads_playlist"]
