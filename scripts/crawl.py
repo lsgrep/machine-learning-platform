@@ -49,6 +49,9 @@ def select_fetcher(source: dict[str, Any], yt, rss: RSSFetcher):
     handle = source.get("handle") or ""
     if "youtube.com" in url or handle.startswith("@"):
         return yt
+    # API fetcher can resolve by name search when handle/url are missing.
+    if isinstance(yt, YouTubeAPIFetcher) and source.get("type") == "youtube":
+        return yt
     if source.get("feed") or source.get("url"):
         return rss
     return None
