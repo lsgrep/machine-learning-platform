@@ -108,26 +108,6 @@ sources:
       - feature-groups
     verified: false
 
-  - id: iquantconsult
-    name: "iquantconsult"
-    type: youtube
-    host: "iquantconsult"
-    url: "https://www.youtube.com/@iquantconsult"
-    handle: "@iquantconsult"
-    feed: null
-    tier: 3
-    category: mlops_feature_stores
-    focus: "Project-oriented DevOps + MLOps end-to-end deployments"
-    topics:
-      - docker
-      - kubernetes
-      - ci-cd
-      - model-deployment
-    verified: false
-
-  # ---------------------------------------------------------------
-  # Stream Processing & Event Brokerage
-  # ---------------------------------------------------------------
   - id: confluent_developer
     name: "Confluent Developer"
     type: youtube
@@ -359,22 +339,6 @@ sources:
       - stored-procedures
     verified: false
 
-  - id: devmastersdb
-    name: "DevMastersDb"
-    type: youtube
-    host: "DevMastersDb"
-    url: null
-    handle: null
-    feed: null
-    tier: 3
-    category: db_internals
-    focus: "Database models, normalization, relational calculus"
-    topics:
-      - normalization
-      - relational-model
-      - schema-design
-    verified: false
-
   - id: theoretical_cs
     name: "Theoretical Computer Science"
     type: youtube
@@ -472,40 +436,6 @@ sources:
       - architecture-review
     verified: false
 
-  - id: darshil_parmar
-    name: "Darshil Parmar"
-    type: youtube
-    host: "Darshil Parmar"
-    url: "https://www.youtube.com/@DarshilParmar"
-    handle: "@DarshilParmar"
-    feed: null
-    tier: 4
-    category: big_data_analytics
-    focus: "End-to-end portfolio DE projects on cloud"
-    topics:
-      - gcp
-      - serverless
-      - portfolio-project
-      - uber-analytics
-    verified: false
-
-  - id: elearning_bridge
-    name: "E-Learning Bridge"
-    type: youtube
-    host: "Shashank Mishra"
-    url: null
-    handle: null
-    feed: null
-    tier: 4
-    category: career_interview
-    focus: "SQL interview preparation for FAANG-level firms"
-    topics:
-      - sql-interview
-      - recursive-cte
-      - window-functions
-      - faang
-    verified: false
-
   - id: mehdio
     name: "mehdio debugs / Mehdio DataTv"
     type: youtube
@@ -523,56 +453,6 @@ sources:
       - postgres
       - lakehouse
       - coalesce
-    verified: false
-
-  - id: codebasics
-    name: "Codebasics"
-    type: youtube
-    host: "Dhaval Patel"
-    url: "https://www.youtube.com/@codebasics"
-    handle: "@codebasics"
-    feed: null
-    tier: 3
-    category: big_data_analytics
-    focus: "Snowflake, Databricks, PySpark walkthroughs"
-    topics:
-      - snowflake
-      - databricks
-      - pyspark
-      - data-warehouse
-    verified: false
-
-  - id: data_with_baara
-    name: "Data with Baara"
-    type: youtube
-    host: "Baara"
-    url: null
-    handle: null
-    feed: null
-    tier: 3
-    category: big_data_analytics
-    focus: "Snowflake, Databricks, PySpark tutorials"
-    topics:
-      - snowflake
-      - databricks
-      - pyspark
-    verified: false
-
-  - id: karolina_sowinska
-    name: "Karolina Sowinska"
-    type: youtube
-    host: "Karolina Sowinska"
-    url: "https://www.youtube.com/@KarolinaSowinska"
-    handle: "@KarolinaSowinska"
-    feed: null
-    tier: 3
-    category: big_data_analytics
-    focus: "Beginner-friendly pipelines (Spotify ETL on Airflow)"
-    topics:
-      - airflow
-      - etl
-      - spotify-api
-      - beginner
     verified: false
 
   - id: nullqueries
