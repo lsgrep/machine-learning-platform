@@ -1,0 +1,447 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-22T07:12:39.980788+00:00",
+  "window": {
+    "since": "2026-05-21T07:12:39.980788+00:00",
+    "until": "2026-05-22T07:12:39.980788+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 9,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 3,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 1,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:QEZVLVeKRUI",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "This Rat Finally got Arrested",
+      "url": "https://www.youtube.com/watch?v=QEZVLVeKRUI",
+      "published_at": "2026-05-22T02:00:12+00:00",
+      "author": "Tectone",
+      "summary": "Video by @dieselpatches    https://www.youtube.com/watch?v=VyR1U6YNwnU\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "QEZVLVeKRUI",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:g5XAO1vCWDA",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The Low IQ Stare is f*cking insane",
+      "url": "https://www.youtube.com/watch?v=g5XAO1vCWDA",
+      "published_at": "2026-05-21T22:00:42+00:00",
+      "author": "Tectone",
+      "summary": "Video by @JakeMunro \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "g5XAO1vCWDA",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:ZHXt0-_gSj4",
+      "source_id": "three_blue_one_brown",
+      "source_name": "3Blue1Brown",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 1,
+      "title": "Tie random ends: How many loops?",
+      "url": "https://www.youtube.com/watch?v=ZHXt0-_gSj4",
+      "published_at": "2026-05-21T21:49:47+00:00",
+      "author": "3Blue1Brown",
+      "summary": "Recent puzzle solutions on Patreon:\nhttps://members.3blue1brown.com/posts/158885046?pr=true",
+      "duration_seconds": null,
+      "tags": [
+        "linear-algebra",
+        "calculus",
+        "neural-networks",
+        "visualization"
+      ],
+      "raw": {
+        "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+        "video_id": "ZHXt0-_gSj4",
+        "playlist_id": "UUYO_jab_esuFRV4b17AJtAw"
+      }
+    },
+    {
+      "id": "yt:THUHOLLDwH0",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Reasons Against AI",
+      "url": "https://www.youtube.com/watch?v=THUHOLLDwH0",
+      "published_at": "2026-05-21T20:04:48+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n00:52 chris: After your time at SQLBits you’d posted about the number of SQL Server consultants who were very opposed to AI.  What was the feedback you were getting on why folks are against this technology?\nReasons Against AI",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "THUHOLLDwH0",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:wt1qknjPFJU",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Length Matters",
+      "url": "https://www.youtube.com/watch?v=wt1qknjPFJU",
+      "published_at": "2026-05-21T20:01:18+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "wt1qknjPFJU",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:BKQXv0QU8kE",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Mtashed Just Went Off The Deep End",
+      "url": "https://www.youtube.com/watch?v=BKQXv0QU8kE",
+      "published_at": "2026-05-21T20:00:13+00:00",
+      "author": "Tectone",
+      "summary": "Earn cash by playing games with Freecash! Use the link to sign up and start earning today! 💰 https://pnl.link/22pfSUG 💰\n\n\n0:00 Intro \n0:47 Ad break\n1:53 Were back\n\nVideo by @MTashed \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "BKQXv0QU8kE",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:PWjSXz-5nys",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Learn T SQL With Erik Controlling Memory Grants",
+      "url": "https://www.youtube.com/watch?v=PWjSXz-5nys",
+      "published_at": "2026-05-21T16:00:30+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I dive into the world of controlling memory grants in SQL Server queries, a topic that's crucial not just for optimizing individual queries but also for managing workloads effectively. I explore various strategies to tame these memory grants, including indexing techniques to align data with query requirements, separating informational columns from relational ones to minimize sorting needs, and leveraging cross-apply to perform multiple smaller sorts instead of one large sort. By walking through practical examples and detailed query plans, I aim to provide you with actionable insights that can help reduce memory grant sizes and improve overall SQL Server performance. Whether you're a seasoned DBA or just starting out, this video offers valuable tips and tricks for mastering memory grants in your SQL Server environment.\n\nCHAPTERS\n\n00:00:00 - Introduction to Controlling Memory Grants\n00:03:45 - Example Query and Indexing for Order\n00:07:24 - Exploring Query Plans and Sort Operators\n00:10:00 - Separating Informational from Relational Columns\n00:11:47 - Using Cross-Apply for Smaller Sorts\n00:12:09 - Summary of Key Points",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "PWjSXz-5nys",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:3_zUFQS52PY",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How to learn Python for AI",
+      "url": "https://www.youtube.com/watch?v=3_zUFQS52PY",
+      "published_at": "2026-05-21T12:35:37+00:00",
+      "author": "Data with Baraa",
+      "summary": "The core Python topics that actually matter for AI, pulled from three real projects (a simple AI app, a company chatbot, and a RAG document system).\n► DataCamp | Python Data Fundamentals https://datacamp.pxf.io/jRyQ3n\n► DataCamp | AI Engineer for Developers https://datacamp.pxf.io/enEeMg\n► Get 25% OFF DataCamp's Here https://datacamp.pxf.io/bOEe66\n\nGitHub Repo: Python AI Projects https://github.com/DataWithBaraa/python-ai-projects\nPython Roadmap for Ai: https://mm.tt/map/4005206613?t=0qPPPdUxv8\n\n*Want More?* 👇\n- *Free Python materials* https://www.datawithbaraa.com/wiki/python\n- *Full free Python course* https://youtu.be/Rq5gJVxz55Q\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\nHey friends, the hardest part of learning Python for AI is not the syntax, it is knowing what you can safely skip.\nSo I pulled the exact topics you need straight from real AI projects I have built, nothing extra.\n\n📖 *Table of Content*\n0:00 Do you still need Python?\n1:15 App 1: simplest AI app\n2:00 Python topics behind App 1\n5:14 Python topics behind App 2\n8:43 DataCamp\n10:24 Python topics behind App 3\n10:54 What RAG actually is\n11:31 Building the RAG pipeline\n14:23 Roadmap\n17:22 Wrap-up\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#python #pythonforai #aiengineer #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "3_zUFQS52PY",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:g2hMAUnn8KI",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Why All Data Starts as a Stream (And How We Break It)",
+      "url": "https://www.youtube.com/watch?v=g2hMAUnn8KI",
+      "published_at": "2026-05-21T11:00:50+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | Every second, businesses generate millions of events: customer clicks, sensor readings, financial transactions. Yet most organizations immediately convert that real-time data into static files or database tables, silently introducing hours or days of artificial latency before anyone can use it.\n\nData doesn't start as \"data at rest.\" It's born as a stream. But the moment it lands in a traditional database or file system, most organizations lose that real-time advantage permanently. This video reveals why all operational data naturally takes the form of streaming events, how storage choices silently break that streaming nature, and what it takes to preserve real-time data flow from the moment it's created.\n\nYou'll discover how the shift from monolithic to microservices architectures changed how data is generated, why writing to static stores creates artificial batching and latency, and how Apache Kafka preserves the streaming nature of your data throughout the entire pipeline. We'll also explore the real organizational challenges data engineers face when they don't own the source systems, and how to demonstrate the value of streaming data to the teams and executives who control those systems.\n\nTechnologies covered: Apache Kafka, OLTP Databases, Change Data Capture (CDC), Event-Driven Architectures, Message Queues\n\n📚 CHAPTERS:\n00:00-00:20 Intro\n00:20-00:38 What is Data Generation?\n00:38-01:26 Real-time events\n01:26-03:16 Building Event-driven Systems\n03:16-03:52 Being in Charge of Data\n03:52-04:37 Storing Generated Data\n04:37-06:54 Data Generation Examples\n06:54-07:24 Conclusion\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "g2hMAUnn8KI",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
