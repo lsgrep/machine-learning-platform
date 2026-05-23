@@ -1,0 +1,499 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-23T06:54:30.823844+00:00",
+  "window": {
+    "since": "2026-05-22T06:54:30.823844+00:00",
+    "until": "2026-05-23T06:54:30.823844+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 11,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 5,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:cH1xsUCHGgE",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The Masculine Urge To Bleed Out In The Snow",
+      "url": "https://www.youtube.com/watch?v=cH1xsUCHGgE",
+      "published_at": "2026-05-22T22:00:34+00:00",
+      "author": "Tectone",
+      "summary": "Video by @TemplarKhan \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "cH1xsUCHGgE",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:eALOFoNfs9g",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "This Video Is Pissing Women Off",
+      "url": "https://www.youtube.com/watch?v=eALOFoNfs9g",
+      "published_at": "2026-05-22T20:00:32+00:00",
+      "author": "Tectone",
+      "summary": "If you or someone you know experienced serious mental health struggles as a result of social media use, you may be entitled to a potential recovery of over $1,000. Visit https://pnl.link/O8zcS30 to submit a claim now.\n\n0:00 Intro\n1:50 Ad Break\n2:40 Were back\n\nVideo by @kaylen.marissa \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "eALOFoNfs9g",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:YJRTPm2PxS8",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "god bless his soul 👏😭",
+      "url": "https://www.youtube.com/watch?v=YJRTPm2PxS8",
+      "published_at": "2026-05-22T16:56:58+00:00",
+      "author": "Tectone",
+      "summary": "Video by \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "YJRTPm2PxS8",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:rwCIfzhw2Dk",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "AI Agent Conference 2026: Alex Gallego presents the Agentic Data Plane",
+      "url": "https://www.youtube.com/watch?v=rwCIfzhw2Dk",
+      "published_at": "2026-05-22T16:15:47+00:00",
+      "author": "Redpanda Data",
+      "summary": "Agentic Data Plane\n2026-05-04 | 14:25 – 14:45 EDT\n\nAs AI agents move from prototypes to production systems, they need something traditional data platforms were never built for: a unified plane where agents can observe, reason over, and act on enterprise data with strict guarantees around latency, safety, and auditability. \n\nThis talk introduces the technical foundations of a new systems category — the Agentic Data Plane (ADP) — and breaks down the core primitives engineers need to support autonomous, data-driven agents in real environments. \n\nWe’ll walk through the key pillars of an ADP: Unified Data Surface: a single logical plane that exposes streaming data, historical data, and system state through a consistent programmable interface, eliminating fragmentation between OLTP, OLAP, and event systems. \n\nDeterministic, Low-Latency Eventing: sub-10ms ingestion → processing → propagation pipelines that allow agents to react to real-world conditions with predictable timing. \n\nContext Compute Layer: a query/compute engine capable of joining live streams with large historical datasets, shaping agent context on demand without ETL hops or offline preprocessing. \n\nGovernance as a System Primitive: identity-aware access, per-agent authorization, isolation boundaries, and immutable audit trails built into the runtime rather than bolted on afterward. \n\nAction & Side-Effect Control: a safe execution path for agent-initiated writes, workflows, or external system calls, complete with policy gates, replayability, and observability. \n\nBy the end, engineers will understand the architectural requirements for building an ADP, how it compares to familiar categories (streaming engines, data warehouses, service meshes), and how these primitives enable reliable, inspectable, production-grade agentic applications.",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "rwCIfzhw2Dk",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:2mcIDyLb9Jg",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Huge Chud the Builder Lawsuit Update",
+      "url": "https://www.youtube.com/watch?v=2mcIDyLb9Jg",
+      "published_at": "2026-05-22T14:00:11+00:00",
+      "author": "Tectone",
+      "summary": "https://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "2mcIDyLb9Jg",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:Ca-BkMeRJ74",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI tools Landscape in 2026 | Free Tools vs Paid Tools",
+      "url": "https://www.youtube.com/watch?v=Ca-BkMeRJ74",
+      "published_at": "2026-05-22T13:30:22+00:00",
+      "author": "codebasics",
+      "summary": "There are over 17,000 AI tools out there. Most of them are noise. In this video, I break down the entire AI tools landscape for 2026 into 4 simple categories, show you exactly what's free vs paid, and tell you which ONE $20 subscription replaces most of them.\n\nCheck out OpenRouter: https://openrouter.plug.dev/5CCdxrk \n\nThis video gives you the landscape. Codebasics AI Pro keeps you ahead of it: weekly tool tests, live build sessions, and AI you can actually apply at work: https://codebasics.io/ai-learning-for-professionals\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#️⃣ Social Media #️⃣\n\n🧑‍🤝‍🧑 Discord for Community Support:  https://discord.gg/r42Kbuk\n📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n📝 Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n📱 Dhaval's X handle : https://x.com/dpcodebasics\n\n------\n\n📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalcodebasics\n\n🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "Ca-BkMeRJ74",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:lCK9LHB4RhA",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "AWS Streaming Data Platform Architecture | Senior Data Engineer #shorts",
+      "url": "https://www.youtube.com/watch?v=lCK9LHB4RhA",
+      "published_at": "2026-05-22T13:26:29+00:00",
+      "author": "E-Learning Bridge",
+      "summary": "✅ AWS Guide - https://drive.google.com/file/d/1onX7PXiFywlvvNZsnVJ6mveTTjzXQ-op/view?usp=sharing\n🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#aws #interview #cloud",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "lCK9LHB4RhA",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    },
+    {
+      "id": "yt:vXWP1XuuaFA",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Your AI App Should NOT Depend on One Model",
+      "url": "https://www.youtube.com/watch?v=vXWP1XuuaFA",
+      "published_at": "2026-05-22T12:10:52+00:00",
+      "author": "codebasics",
+      "summary": "AI apps are becoming more powerful… but also more dependent on tools and models.\n\nWhat if your AI app could access 8,000+ tools through a single connection?\n\nAnd what if you could switch between GPT, Claude, Gemini, or other models anytime without rebuilding your app?\n\nThat’s exactly what we covered in our latest video.\n\nWe also talk about:\n• Why MCP is becoming important for AI systems\n• How Zapier simplifies integrations\n• Why vendor lock-in can become a real problem\n• How to build your own MCP client using Python\n\nA very practical topic for anyone building AI products or automations.\n\nFull video link - https://youtu.be/eP1SY86QmrI?si=CVLjYnyCDdYKCwj5\nExplore the Zapier MCP - https://bit.ly/3PlsbfI\n\n#AI #Python #MCP #Zapier #Automation #LLM #Tech #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "vXWP1XuuaFA",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:zUcXzD4E2JM",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "The Money Model I Wish I Knew",
+      "url": "https://www.youtube.com/watch?v=zUcXzD4E2JM",
+      "published_at": "2026-05-22T12:01:25+00:00",
+      "author": "Data with Baraa",
+      "summary": "This is the money model that worked for me. Stability first, then freedom. I wish I knew this at 20.\n👉 Support & Subscribe to channel for more Content https://www.youtube.com/@UC8_RSKwbU1OmZWNEoLV1tQg\nThis is not financial advice. Please consult an expert. This is simply what worked for me.\n━━━━━\n\n*MY COURSES*\nTo get certified, better clean structure & progress, support me:\n🏅SQL https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n🏅Tableau https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*MY UDEMY COURSES*\nSQL: https://bit.ly/4hH947P\nTableau: https://bit.ly/3xFiDDk\n\n━━━━━\n\n*CONNECT WITH ME*\n📬 Newsletter https://www.blog.datawithbaraa.com/subscribe\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🌍 Website https://www.datawithbaraa.com/\n💬 Discord https://discord.gg/gsVJbMxKcA\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n⭐ Favorite Books/Gear https://candle-gosling-511.notion.site/My-Favorite-Books-Gear-Apps-28334b251f1281e58a52cf7aa594e0e9?source=copy_link\n📩 Sponsorships baraa@datawithbaraa.com\n\n━━━━━\n\n*MY FREE COURSES*\n*SQL* https://youtu.be/SSKVgrwhzus\n*Python*  https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn\n*Tableau* https://youtu.be/UcGF09Awm4Y\n*Real World Data Projects* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7\n*Data Career Roadmaps* https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "zUcXzD4E2JM",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:uqG8Kp3t9B0",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "This Should Be Taught in School",
+      "url": "https://www.youtube.com/watch?v=uqG8Kp3t9B0",
+      "published_at": "2026-05-22T12:01:20+00:00",
+      "author": "Data with Baraa",
+      "summary": "We learn math and history, but no one teaches us how money actually works.\n👉 Support & Subscribe to channel for more Content https://www.youtube.com/@UC8_RSKwbU1OmZWNEoLV1tQg\n\n━━━━━\n\n*MY COURSES*\nTo get certified, better clean structure & progress, support me:\n🏅SQL https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n🏅Tableau https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*MY UDEMY COURSES*\nSQL: https://bit.ly/4hH947P\nTableau: https://bit.ly/3xFiDDk\n\n━━━━━\n\n*CONNECT WITH ME*\n📬 Newsletter https://www.blog.datawithbaraa.com/subscribe\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🌍 Website https://www.datawithbaraa.com/\n💬 Discord https://discord.gg/gsVJbMxKcA\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n⭐ Favorite Books/Gear https://candle-gosling-511.notion.site/My-Favorite-Books-Gear-Apps-28334b251f1281e58a52cf7aa594e0e9?source=copy_link\n📩 Sponsorships baraa@datawithbaraa.com\n\n━━━━━\n\n*MY FREE COURSES*\n*SQL* https://youtu.be/SSKVgrwhzus\n*Python*  https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn\n*Tableau* https://youtu.be/UcGF09Awm4Y\n*Real World Data Projects* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7\n*Data Career Roadmaps* https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "uqG8Kp3t9B0",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:EUdcN4BPa2E",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Frogan Just Lost the Lawsuit.. MILLIONS in Debt",
+      "url": "https://www.youtube.com/watch?v=EUdcN4BPa2E",
+      "published_at": "2026-05-22T12:00:30+00:00",
+      "author": "Tectone",
+      "summary": "Video by @LegalMindset    https://www.youtube.com/watch?v=OERevTb04Lk\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "EUdcN4BPa2E",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    }
+  ]
+}
