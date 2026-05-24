@@ -1,0 +1,454 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-24T07:05:32.883342+00:00",
+  "window": {
+    "since": "2026-05-23T07:05:32.883342+00:00",
+    "until": "2026-05-24T07:05:32.883342+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 9,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 6,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:4d-H1yM0xfo",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "BREAKING NEWS: THE GOVERNMENT IS AFTER HASAN",
+      "url": "https://www.youtube.com/watch?v=4d-H1yM0xfo",
+      "published_at": "2026-05-24T02:26:23+00:00",
+      "author": "Tectone",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "4d-H1yM0xfo",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:XYtNZYY3A0s",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The Overworked and Underpaid Epidemic.",
+      "url": "https://www.youtube.com/watch?v=XYtNZYY3A0s",
+      "published_at": "2026-05-24T00:00:32+00:00",
+      "author": "Tectone",
+      "summary": "Video by @BladedAngel \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "XYtNZYY3A0s",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:zoicHmbSnCk",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Charlie Kirk Warned Us This Would Happen",
+      "url": "https://www.youtube.com/watch?v=zoicHmbSnCk",
+      "published_at": "2026-05-23T22:00:43+00:00",
+      "author": "Tectone",
+      "summary": "https://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "zoicHmbSnCk",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:dyYBPbb0VdM",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Feminist Tries Male Jobs and Instantly Regret It",
+      "url": "https://www.youtube.com/watch?v=dyYBPbb0VdM",
+      "published_at": "2026-05-23T20:00:30+00:00",
+      "author": "Tectone",
+      "summary": "Earn cash by playing games with Freecash! Use the link to sign up and start earning today! 💰 https://pnl.link/22pfSUG 💰\n\nVideo by @The_Modern_King \n\n0:00 Intro\n2:29 Ad break\n3:35 Were back\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "dyYBPbb0VdM",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:CSWFa_fmsKI",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "You Can't Go Back",
+      "url": "https://www.youtube.com/watch?v=CSWFa_fmsKI",
+      "published_at": "2026-05-23T14:10:22+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n03:50 DBAInAction: Hi Brent, what’s your recommended rollback policy for SQL upgrades while maintaining same compatibility? how do you address the data gap that may occur after the go-live and if we need to rollback ? If Leadership requests a formal strategy, how do you structure your response?\nYou Can't Go Back",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "CSWFa_fmsKI",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:jGHAi-Y5l1g",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Please Don't",
+      "url": "https://www.youtube.com/watch?v=jGHAi-Y5l1g",
+      "published_at": "2026-05-23T14:01:31+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "jGHAi-Y5l1g",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:puXIsyPWS5Q",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Henry Nowak is what they pretended George Floyd was...",
+      "url": "https://www.youtube.com/watch?v=puXIsyPWS5Q",
+      "published_at": "2026-05-23T14:00:55+00:00",
+      "author": "Tectone",
+      "summary": "Video by @PrisonPlanetLive    https://www.youtube.com/watch?v=zVSGc-gB6fQ\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "puXIsyPWS5Q",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:D74el9mvNak",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Agentic AI Crash Course using LangChain | LangChain Crash Course",
+      "url": "https://www.youtube.com/watch?v=D74el9mvNak",
+      "published_at": "2026-05-23T13:40:32+00:00",
+      "author": "codebasics",
+      "summary": "A complete crash course on agentic ai using langchain. This is also a course on generative AI. In this video, we will discuss theoratical foundations of generative AI and agentic AI. Langchain will be used for hands on programming. We will then build two projects (1) shopping agent (2) telecom RAG chatbot using langchain, chromadb, llama vision model, Qwen, gemini LLMs, streamlit, sqlite, huggingface and sentence transformers.\n\nDownload the resources here: https://codebasics.io/resources/agentic-ai-crash-course\n\nNo code agents: https://codebasics.io/ - Check \"Our Live Cohorts\" section\n\nLanggraph tutorial: https://youtu.be/CnXdddeZ4tQ\nCustomer care support: https://youtu.be/Jekzc6BM5_w\nWorkflow automation: https://youtu.be/QBI5bmbgL38\n\nCheck out OpenRouter: https://openrouter.plug.dev/6QpCcgh\n\nCodebasics AI Pro keeps you ahead of it: weekly tool tests, live build sessions, and AI you can actually apply at work: https://codebasics.io/ai-learning-for-professionals\n\n⭐️ Timestamps ⭐️\n\n0:00:00 Intro\n\r 0:01:53 What is Gen AI\n\r 0:03:10 Traditional AI\n\r 0:05:41 Transformer Architecture\n\r 0:11:13 LLM Parameters\n\r 0:13:28 LLM Analogy Based Explanation\n\r 0:18:41 API Key Setup\n\r 0:21:01 Simple LLM call using LangChain\n\r 0:41:50 RAG Theory\n\r 0:47:52 Vector DB - Hands On\n\r 0:53:50 Rag - Hands On\n\r 1:02:54 AI Agent Intro\n\r 1:03:31 What is an AI Agent\n\r 1:10:18 ReAct Loop\n\r 1:10:49 AI Agent Hands on\n\r 1:21:28 Multi-Agent system\n\r 1:21:48 Multi-Model Agent theory\n\r 1:23:31 Multi-modal agent – hands on\n\r 1:29:28 Evaluation\n\r 1:34:07 Guardrails\n\r 1:36:41 Project 1 – Shopping Agent\n\r 2:06:57 Project 2 – Telecom RAG\n\r 2:22:46 No Code Agents\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#️⃣ Social Media #️⃣\n\n🧑‍🤝‍🧑 Discord for Community Support:  https://discord.gg/r42Kbuk\n📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n📝 Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n📱 Dhaval's X handle : https://x.com/dpcodebasics\n\n------\n\n📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalcodebasics\n\n🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "D74el9mvNak",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:eHv96ejH7SI",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "They Tried To Kill This Grandma While She Was Live.",
+      "url": "https://www.youtube.com/watch?v=eHv96ejH7SI",
+      "published_at": "2026-05-23T12:00:48+00:00",
+      "author": "Tectone",
+      "summary": "Video by @GrammaCrackers  https://www.youtube.com/watch?v=IeHxr14qStY\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "eHv96ejH7SI",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    }
+  ]
+}
