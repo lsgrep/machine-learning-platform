@@ -1,0 +1,454 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-25T07:32:44.232301+00:00",
+  "window": {
+    "since": "2026-05-24T07:32:44.232301+00:00",
+    "until": "2026-05-25T07:32:44.232301+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 9,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 6,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:p0_nl3-ylJo",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Feminists try to survive without men and almost died.",
+      "url": "https://www.youtube.com/watch?v=p0_nl3-ylJo",
+      "published_at": "2026-05-25T01:00:21+00:00",
+      "author": "Tectone",
+      "summary": "Video by @The_Modern_King \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "p0_nl3-ylJo",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:_3g5BgmDMUs",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The Government Just FINISHED In HASAN",
+      "url": "https://www.youtube.com/watch?v=_3g5BgmDMUs",
+      "published_at": "2026-05-24T22:32:12+00:00",
+      "author": "Tectone",
+      "summary": "https://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "_3g5BgmDMUs",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:7YPM-wJLHDk",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Man Takes House After Leaving Toxic Wife",
+      "url": "https://www.youtube.com/watch?v=7YPM-wJLHDk",
+      "published_at": "2026-05-24T21:00:04+00:00",
+      "author": "Tectone",
+      "summary": "Video by @The_Modern_King \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "7YPM-wJLHDk",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:Zff_poIIzV0",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "HOLY F***KING SH*T THEY GOT HIM LMAOOO",
+      "url": "https://www.youtube.com/watch?v=Zff_poIIzV0",
+      "published_at": "2026-05-24T17:10:08+00:00",
+      "author": "Tectone",
+      "summary": "Earn cash by playing games with Freecash! Use the link to sign up and start earning today! 💰 https://pnl.link/22pfSUG 💰\n\n\n0:00 Intro\n1:36 Ad break\n2:41 Were back\n\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "Zff_poIIzV0",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:9Gdqp1SYdKE",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Any Day Now",
+      "url": "https://www.youtube.com/watch?v=9Gdqp1SYdKE",
+      "published_at": "2026-05-24T15:44:30+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "9Gdqp1SYdKE",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:fy-6sDcCX0c",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "Adobe SQL Interview Question | 20/100 SQL Interview Tips #shorts",
+      "url": "https://www.youtube.com/watch?v=fy-6sDcCX0c",
+      "published_at": "2026-05-24T14:46:33+00:00",
+      "author": "E-Learning Bridge",
+      "summary": "🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#sql #skills #interview",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "fy-6sDcCX0c",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    },
+    {
+      "id": "yt:YsPlLNpIVMg",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "dumb and dumber 😭",
+      "url": "https://www.youtube.com/watch?v=YsPlLNpIVMg",
+      "published_at": "2026-05-24T14:12:52+00:00",
+      "author": "Tectone",
+      "summary": "Video by \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "YsPlLNpIVMg",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:MGs7p_kfdzc",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Trans People are Killing Tomboys",
+      "url": "https://www.youtube.com/watch?v=MGs7p_kfdzc",
+      "published_at": "2026-05-24T14:00:30+00:00",
+      "author": "Tectone",
+      "summary": "Video by @HeroHei   https://www.youtube.com/watch?v=t0KcjOfe5AE\n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "MGs7p_kfdzc",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:RmugzY84iL4",
+      "source_id": "darshil_parmar",
+      "source_name": "Darshil Parmar",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 4,
+      "title": "Design Uber's Data Model from Scratch | Complete Data Modeling Masterclass",
+      "url": "https://www.youtube.com/watch?v=RmugzY84iL4",
+      "published_at": "2026-05-24T13:30:02+00:00",
+      "author": "Darshil Parmar",
+      "summary": "Learn Data Engineering and Crack Interview - https://datavidhya.com\n\nPractice here - https://datavidhya.com/data-modeling/ride-sharing-cab-booking/\n\nThe skill that separates Mid-level Data Engineers from Seniors in 2026 isn't writing SQL or knowing Spark: It's data modelling. \n\nIn this free 3 Hour masterclass, I walk through all 5 paradigms every Data Engineer needs to know (3NF, Star Schema, Data Vault, One Big Table, Document/NoSQL), when each one wins, and the anti-patterns that fail senior interviews. \n\nThen we design Uber's data model from scratch live, covering physical modeling, partitioning, and cost trade-offs. This is the masterclass I wish I had before my own \n\n👦🏻 My Linkedin - https://www.linkedin.com/in/darshil-parmar/\n 📷 Instagram - https://www.instagram.com/datawithdarshil\n🎯Twitter - https://twitter.com/parmardarshil07\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨\n#datamodel #dataengineering #database",
+      "duration_seconds": null,
+      "tags": [
+        "gcp",
+        "serverless",
+        "portfolio-project",
+        "uber-analytics"
+      ],
+      "raw": {
+        "channel_id": "UCChmJrVa8kDg05JfCmxpLRw",
+        "video_id": "RmugzY84iL4",
+        "playlist_id": "UUChmJrVa8kDg05JfCmxpLRw"
+      }
+    }
+  ]
+}
