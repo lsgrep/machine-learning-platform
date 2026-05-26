@@ -1,0 +1,482 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-26T07:11:34.006519+00:00",
+  "window": {
+    "since": "2026-05-25T07:11:34.006519+00:00",
+    "until": "2026-05-26T07:11:34.006519+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 10,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 6,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:uSDS1p65AGA",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Hasan f*cked Around With Elon Musk And Found Out",
+      "url": "https://www.youtube.com/watch?v=uSDS1p65AGA",
+      "published_at": "2026-05-26T00:00:36+00:00",
+      "author": "Tectone",
+      "summary": "Made by @decoy \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "uSDS1p65AGA",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:eQ6QmXaT7Zg",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "BREAKING: Nick Fuentes Calls for the JAILING Of Hasan Piker",
+      "url": "https://www.youtube.com/watch?v=eQ6QmXaT7Zg",
+      "published_at": "2026-05-25T21:00:20+00:00",
+      "author": "Tectone",
+      "summary": "https://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "eQ6QmXaT7Zg",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:vwTRVFfwBA0",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Asmongold F***ED and FINISHED In HASAN",
+      "url": "https://www.youtube.com/watch?v=vwTRVFfwBA0",
+      "published_at": "2026-05-25T17:01:27+00:00",
+      "author": "Tectone",
+      "summary": "https://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "vwTRVFfwBA0",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:dDwxJtVb0qo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Don't Do This",
+      "url": "https://www.youtube.com/watch?v=dDwxJtVb0qo",
+      "published_at": "2026-05-25T16:40:35+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "dDwxJtVb0qo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:KRSSg27N210",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Things Clients Say",
+      "url": "https://www.youtube.com/watch?v=KRSSg27N210",
+      "published_at": "2026-05-25T16:27:57+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n05:43 Michael J Swart: You linked to a Tested Q&A: The number of times I've shown a client a gray spray painted piece And I've said this is not for color it's only for form Then the first thing the client says is yeah I just don't like the color What questions like that do you hear too often?\nThings Clients Say",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "KRSSg27N210",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:9p8s_1EXzcQ",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Bro was terrified 😭",
+      "url": "https://www.youtube.com/watch?v=9p8s_1EXzcQ",
+      "published_at": "2026-05-25T14:40:43+00:00",
+      "author": "Tectone",
+      "summary": "Video by \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "9p8s_1EXzcQ",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:hzDto0VLlvM",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Frogan Responded. It's awful.",
+      "url": "https://www.youtube.com/watch?v=hzDto0VLlvM",
+      "published_at": "2026-05-25T14:00:49+00:00",
+      "author": "Tectone",
+      "summary": "If you or someone you know experienced serious mental health struggles as a result of social media use, you may be entitled to a potential recovery of over $1,000. Visit https://pnl.link/O8zcS30 to submit a claim now.\n\n0:00 Intro\n2:36 Ad Break\n3:25 Were back\n\nVideo by @SENZ15 \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "hzDto0VLlvM",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:psC2-iEvXCg",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Scaling Meta's Multi-Agent Systems to a Billion Videos",
+      "url": "https://www.youtube.com/watch?v=psC2-iEvXCg",
+      "published_at": "2026-05-25T14:00:06+00:00",
+      "author": "MLOps.community",
+      "summary": "Aditya Gautam (Generative AI, Meta) breaks down how Meta tackles two of the hardest problems in short-form video at the scale of hundreds of millions to a billion reads per day: modality misalignment and original content theft. He's spent years on Facebook Reels integrity and recommendations, and in this talk he gets practical about why a single giant LLM is the wrong tool for the job, and what to build instead.\n\nThis is the application-layer view of multi-agent systems. Not infra, not orchestration theory, just what actually works when your input is messy user-generated video and your budget is a fraction of a cent per inference.\n\nWhat you'll learn:\n\n- The two problems Meta is solving: Modality misalignment (text says one thing, video shows another, sometimes only for a few frames) and content theft in the copycat creator economy.\n- Why a single big LLM falls over: Cost at 100M+ daily inferences, modality bias in VLMs, and the inability to bring in external context like the rest of the video corpus.\n- The 3-agent architecture: Perceiver (signal acquisition, scene boundaries, VLM embeddings, OCR), Retriever (KNN over vector DBs, similarity matrices, creator-to-creator graphs), and Reasoner (chain-of-thought, confidence scores, can request more context).\n- Why small specialized models win: 3B to 11B fine-tuned LLMs per agent beat a 200B generalist on both quality and cost, and let each agent ship on its own CI/CD like a microservice.\n- The evaluation stack: Precision/recall/F1, isolated retrieval evaluation, reasoning quality via LLM-as-judge plus human-in-the-loop, hallucination rate, and full system efficiency logging at every hop.\n- Four real optimizations that drop cost 10x: Spatial and temporal frame merging (don't send 300 similar cloud frames to a VLM), semantic hashing of viral content, dynamic routing that skips reasoning for obvious copies, and metadata pruning based on creator reputation and topic safety.\n- The honest hard parts: Inference latency stacks across hops, labeling inconsistency at scale, GPU OOM on video frames, and constant retuning as data drifts.\n\nIf you're building agentic systems for any high-volume multimodal problem, recommendation integrity, ad review, UGC moderation, or copyright detection, this is the talk that tells you where to spend your tokens and where to skip processing entirely.\n\nLinks and Resources:\n\n- Aditya Gautam on LinkedIn: https://www.linkedin.com/in/aditya-gautam-68233a30/\n- MLOps Community: https://mlops.community\n- Aditya's earlier talk on evaluating agentic systems: https://home.mlops.community/public/videos/evaluation-of-agentic-system-aditya-gautam-agent-hour-2025-04-22\n- Related research, Filter-And-Refine cascade for industrial video moderation: https://arxiv.org/pdf/2507.17204\n- VLM as Policy, common-law moderation for short video: https://arxiv.org/html/2504.14904v1\n\nTimestamps:\n\n00:00 Intro to Aditya and the short-form video problem\n01:30 Why short-form video is uniquely hard (UGC, copycats, dynamic patterns)\n03:00 Problem 1: Modality misalignment and intra-modality intrusion\n04:30 Problem 2: Original attribution in the copycat creator economy\n05:30 Why a single LLM is the wrong tool (cost, bias, no external context)\n07:00 The Perceiver agent: scene boundaries, VLM embeddings, OCR, vector DB\n09:00 The Retriever agent: KNN, similarity matrices, creator graphs\n11:00 The Reasoner agent: chain-of-thought, confidence, requesting more context\n13:00 Why multi-agent: specialization, smaller fine-tuned models, microservice CI/CD\n15:00 Components, tool discovery, no central orchestrator, tight schemas\n17:00 Evaluation: precision/recall, retrieval, reasoning, robustness, system efficiency, LLM-as-judge\n20:00 Optimization 1: spatial and temporal frame merging\n22:30 Optimization 2: semantic hashing of viral content\n24:00 Optimization 3: dynamic routing and reasoning budgets\n25:30 Optimization 4: metadata pruning by creator and topic\n27:30 Takeaways: decomposability, practicality, context\n28:30 Q&A: extending the architecture to other policy problems\n\n#MultiAgentSystems #VisionLanguageModels #ContentModeration",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "psC2-iEvXCg",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:xt75n1z2yd4",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "What is Amazon Bedrock Agent Core?",
+      "url": "https://www.youtube.com/watch?v=xt75n1z2yd4",
+      "published_at": "2026-05-25T12:02:09+00:00",
+      "author": "codebasics",
+      "summary": "Building AI agents is easy. Getting them to production is not. \n\nAmazon Bedrock Agent Core is built to close that gap, letting you build, deploy, and operate agents securely at scale. \n\nThis tutorial covers building a customer care agent with LangChain and LangGraph and deploying it on Bedrock Agent Core end-to-end.\n\n#AIAgents #AmazonBedrock #AIEngineering #LangChain #MachineLearning #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "xt75n1z2yd4",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:v9q3D4EkhT0",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "There's no f***ing way..",
+      "url": "https://www.youtube.com/watch?v=v9q3D4EkhT0",
+      "published_at": "2026-05-25T12:01:08+00:00",
+      "author": "Tectone",
+      "summary": "Video by @SecretScholars \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "v9q3D4EkhT0",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    }
+  ]
+}
