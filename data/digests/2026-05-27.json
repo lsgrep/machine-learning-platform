@@ -1,0 +1,479 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-27T07:25:43.382186+00:00",
+  "window": {
+    "since": "2026-05-26T07:25:43.382186+00:00",
+    "until": "2026-05-27T07:25:43.382186+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 10,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 3,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:RAqLWJsLZb4",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "From RAG to AI Agents: Function Calling and Tool Use - Alexey Grigorev",
+      "url": "https://www.youtube.com/watch?v=RAqLWJsLZb4",
+      "published_at": "2026-05-26T23:30:14+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n- Course: https://github.com/DataTalksClub/llm-zoomcamp/\n- Module 1 Part 2: https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-agentic-rag\n- Guardrails: https://aishippinglabs.com/workshops/2026-05-26-agent-with-guardrails\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "RAqLWJsLZb4",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:DmBqR2WgkTQ",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Top AI trends shaping analytics in 2026 (preview)",
+      "url": "https://www.youtube.com/watch?v=DmBqR2WgkTQ",
+      "published_at": "2026-05-26T17:41:09+00:00",
+      "author": "Redpanda Data",
+      "summary": "AI agents are moving faster than most governance models can keep up with. Gartner called in their \"Predicts 2026 report\" — and so did we.  \n\nIn this tech talk, Peter Corless unpacks the Gartner report and shares:\n\n- The AI trends reshaping analytics teams right now\n- The skills analysts will need in an agentic world\n- How the Redpanda Agentic Data Plane helps you run and govern agentic systems without sacrificing control\n\nWatch the full talk on demand: https://www.redpanda.com/events/predicts2026-tech-talk?utm_source=youtube&utm_medium=organic_social&utm_campaign=2026_mar_predict26ai_social",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "DmBqR2WgkTQ",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:6Py5LOIJ2tg",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "every womans morning routine ⭐",
+      "url": "https://www.youtube.com/watch?v=6Py5LOIJ2tg",
+      "published_at": "2026-05-26T16:06:27+00:00",
+      "author": "Tectone",
+      "summary": "Video by \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "6Py5LOIJ2tg",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:YbamaLlbh7I",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "How to Tune Queries Fast",
+      "url": "https://www.youtube.com/watch?v=YbamaLlbh7I",
+      "published_at": "2026-05-26T16:00:19+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Brent Ozar will show you how to use the latest features of sp_BlitzCache to rapidly improve performance on an existing server. He'll show you how to find your server's top bottleneck, find the queries causing that bottleneck, and then demonstrate how to get advice from AI on how to tune them in seconds.",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "YbamaLlbh7I",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:-4e1xYujBug",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "SQL Server Performance Office Hours Episode 66",
+      "url": "https://www.youtube.com/watch?v=-4e1xYujBug",
+      "published_at": "2026-05-26T16:00:13+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I dive into a variety of SQL Server topics during our office hours session. We tackled questions ranging from adding 'created' and 'last updated' columns to transactional tables using triggers or temporal tables, to troubleshooting performance issues that only occur once a week for 10 minutes. I also discussed why indexing foreign keys can significantly improve delete operations and when dynamic SQL might be worse than static SQL in terms of performance. If you're looking to dive deeper into these topics or need help with your own SQL Server challenges, check out the links in the video description where you can hire me for consulting or purchase my training. Whether youâ€™re a seasoned professional or just starting out, thereâ€™s always something new to learn!\n\nCHAPTERS\n\n00:00:00 - Introduction to Performance Troubleshooting\n00:02:34 - Why Does a Big Machine Suddenly Start Choosing Serial Plans?\n00:06:27 - Troubleshooting Weekly Performance Issues\n00:10:27 - When Does Dynamic SQL Become Worse Than Static SQL?\n00:11:28 - Indexing Foreign Keys and Delete Performance",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "-4e1xYujBug",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:H1Gcon4mDp8",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "I stored an embedding vector inside my SQL table",
+      "url": "https://www.youtube.com/watch?v=H1Gcon4mDp8",
+      "published_at": "2026-05-26T14:00:24+00:00",
+      "author": "Andreas Kretz",
+      "summary": "SQL + vector search in one database!",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "H1Gcon4mDp8",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    },
+    {
+      "id": "yt:IY2ZonE6ses",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "She stole millions..",
+      "url": "https://www.youtube.com/watch?v=IY2ZonE6ses",
+      "published_at": "2026-05-26T14:00:09+00:00",
+      "author": "Tectone",
+      "summary": "If you or someone you know experienced serious mental health struggles as a result of social media use, you may be entitled to a potential recovery of over $1,000. Visit https://pnl.link/O8zcS30 to submit a claim now.\n\n0:00 Intro\n2:16 Ad break\n3:05 Were back\n\nVideo by @Wonnylol \n\nhttps://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "IY2ZonE6ses",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:TtxfKIe0HuQ",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "BI Data Modeling Explained: Star Schema, Snowflake & Galaxy | #Power BI Course 16",
+      "url": "https://www.youtube.com/watch?v=TtxfKIe0HuQ",
+      "published_at": "2026-05-26T12:06:36+00:00",
+      "author": "Data with Baraa",
+      "summary": "Learn BI data modeling: facts, dimensions, star schema, snowflake schema, and galaxy schema explained simply using sketches.\n\n*Want More?* 👇\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\nHey friends, data modeling sounds complex, but it is really just three things: tables, relationships, and calculations.\nHere we keep it simple with facts, dimensions, and the star schema, so the whole model finally clicks.\n\n📖 *Table of Content*\n0:00 What is data modeling\n1:31 Tables, relationships, calculations\n2:13 Table roles\n3:01 Fact tables explained\n4:21 Dimension tables explained\n5:54 Facts vs dimensions\n6:44 Star schema\n9:18 Snowflake schema\n11:12 Galaxy schema\n12:47 Dataset vs semantic model\n13:27 Quick recap\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "TtxfKIe0HuQ",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:jUWbQLMo25c",
+      "source_id": "tecton",
+      "source_name": "Tecton",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "We need to talk about this..",
+      "url": "https://www.youtube.com/watch?v=jUWbQLMo25c",
+      "published_at": "2026-05-26T12:00:44+00:00",
+      "author": "Tectone",
+      "summary": "https://rumble.com/tectone | https://kick.com/tectone | https://www.twitch.tv/tectone |  https://twitter.com/Tectone\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCPnSoX7NkOBcOX0Gfw_yjAw/join\n\nJoin my Patreon for Exclusive Anime Reacts, VODS and MORE https://www.patreon.com/TectoneReacts\nSUBSCRIBE PLEASE & LIKE PLEASE\nOTHER CHANNEL FOR MORE VARIETY & CLIPS https://www.youtube.com/@MoreTectoneClips\n\nGET GAMER SUPPS NOW USE CODE \"BALDY\" FOR 10% OFF\nhttps://gamersupps.gg/collections/new-coming-soon/products/happy-juice-gg-100-servings\n#Tectone\n\n\n\n-------------------------------------------------------------------------------------------------------------------------------------\nTectone\nTectone React",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feast",
+        "point-in-time-join",
+        "online-store",
+        "redis",
+        "dynamodb",
+        "training-serving-skew"
+      ],
+      "raw": {
+        "channel_id": "UCPnSoX7NkOBcOX0Gfw_yjAw",
+        "video_id": "jUWbQLMo25c",
+        "playlist_id": "UUPnSoX7NkOBcOX0Gfw_yjAw"
+      }
+    },
+    {
+      "id": "yt:lePgrOiX11U",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Apache Kafka 4.3 | 25 KIPs, Kafka Streams, Share Group Controls, Broker Isolation, and more",
+      "url": "https://www.youtube.com/watch?v=lePgrOiX11U",
+      "published_at": "2026-05-26T11:00:24+00:00",
+      "author": "Confluent Developer",
+      "summary": "Blog: https://kafka.apache.org/blog/2026/05/22/apache-kafka-4.3.0-release-announcement/ | Sandon Jacobs (Senior Developer Advocate, Confluent) highlights the key features in Apache Kafka 4.3, a release powered by 25 new KIPs. Apache Kafka 4.3 includes first-class support for preserving record headers in Kafka Streams (KIPs 1271, 1285), new production tuning controls for share groups (KIP-1240), and a new broker and log directory cordoning mechanism to simplify maintenance workflows (KIP-1066). The release also brings improvements to Kafka Streams state management, local state cleanup, and global table exception handling (KIPs 1035, 1259, 1270), plus broader enhancements to metrics, storage, operations, and the path toward Apache Kafka 5.0. For a comprehensive overview, view the release notes: https://downloads.apache.org/kafka/4.3.0/RELEASE_NOTES.html\n\nLEARN MORE\n► Queues for Kafka Lightboard: https://youtu.be/Wb0xyqgaIqw\n► Apache Release notes: https://kafka.apache.org/downloads\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "lePgrOiX11U",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
