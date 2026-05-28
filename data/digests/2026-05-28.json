@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-28T07:19:19.401641+00:00",
+  "window": {
+    "since": "2026-05-27T07:19:19.401641+00:00",
+    "until": "2026-05-28T07:19:19.401641+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 9,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:kDAlW3vRQzI",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Architecting Modern AI Systems",
+      "url": "https://www.youtube.com/watch?v=kDAlW3vRQzI",
+      "published_at": "2026-05-28T05:46:11+00:00",
+      "author": "MLOps.community",
+      "summary": "As AI systems evolve into more autonomous, agent-driven architectures, the way we design platforms, tools, and infrastructure is rapidly changing. In this session with BuzzHPC, we’ll explore the shifting boundary between platforms and tools, what developers expect platform providers to handle versus what they want to control and build themselves. \n\nWe’ll unpack what modern agentic stacks look like today, how teams are structuring them in production, and where these architectures are heading as systems become more complex and distributed. A key focus will also be on agent interoperability, how different agents communicate, coordinate, and operate within shared environments.\n\nFinally, we’ll share insights and lessons from a recent AI hackathon delivered in partnership with Bell, Buzz, Mila, and KHP, highlighting how these concepts are being tested and applied by builders in real-world scenarios.",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "kDAlW3vRQzI",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:hWYhSF6kYEs",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Architecting Modern AI Systems",
+      "url": "https://www.youtube.com/watch?v=hWYhSF6kYEs",
+      "published_at": "2026-05-28T05:37:14+00:00",
+      "author": "MLOps.community",
+      "summary": "As AI systems evolve into more autonomous, agent-driven architectures, the way we design platforms, tools, and infrastructure is rapidly changing. In this session with BuzzHPC, we’ll explore the shifting boundary between platforms and tools, what developers expect platform providers to handle versus what they want to control and build themselves. \n\nWe’ll unpack what modern agentic stacks look like today, how teams are structuring them in production, and where these architectures are heading as systems become more complex and distributed. A key focus will also be on agent interoperability, how different agents communicate, coordinate, and operate within shared environments.\n\nFinally, we’ll share insights and lessons from a recent AI hackathon delivered in partnership with Bell, Buzz, Mila, and KHP, highlighting how these concepts are being tested and applied by builders in real-world scenarios.",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "hWYhSF6kYEs",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:lU9NzbCcAtM",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Favorite Travel Foods",
+      "url": "https://www.youtube.com/watch?v=lU9NzbCcAtM",
+      "published_at": "2026-05-27T19:47:49+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n14:04 TipsyManager: Hola Brent!   You do a good amount of traveling;  any local food (and booze!) that you've particularly enjoyed?   Or particularly hated?\nFavorite Travel Foods",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "lU9NzbCcAtM",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:B5MdTHg4-28",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "My Big Customers",
+      "url": "https://www.youtube.com/watch?v=B5MdTHg4-28",
+      "published_at": "2026-05-27T19:29:07+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n11:30 Hany: Hello Brent, In your website (the Anniversary Sale page) I noticed Google is one of your customers, just wondering, Google doesn`t have a professional database team to fix their issues themselves? \nMy Big Customers",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "B5MdTHg4-28",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:X5jjokmHXsQ",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Learn T-SQL With Erik: Aligning Queries and Indexes Part 1",
+      "url": "https://www.youtube.com/watch?v=X5jjokmHXsQ",
+      "published_at": "2026-05-27T16:00:37+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I delve into optimizing SQL Server queries by better aligning them with existing indexes to enhance performance. We explore various techniques such as changing join types and using derived joins versus cross applies to leverage index benefits more effectively. By rewriting the query in different ways, we demonstrate how these changes can significantly reduce execution timeâ€\"from 3 seconds down to just 15 milliseconds in some casesâ€\"highlighting the importance of understanding your indexes and how they interact with your queries. Whether you're a seasoned SQL Server professional or new to T-SQL tuning, there's plenty to learn from this practical walkthrough that will help you write more efficient code.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:01:01 - Helpful Links and Services\n00:02:01 - Free SQL Server Performance Tool\n00:03:43 - Current Indexes Overview\n00:05:04 - Query Analysis and Challenges\n00:06:12 - Index Seek Improvements\n00:07:22 - Cross Apply for Better Performance\n00:08:13 - Execution Plan Breakdown\n00:10:04 - Final Optimization Steps",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "X5jjokmHXsQ",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:ivA3rL7Oxtg",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "This AI agent debugs your entire data pipeline 🤯",
+      "url": "https://www.youtube.com/watch?v=ivA3rL7Oxtg",
+      "published_at": "2026-05-27T14:00:32+00:00",
+      "author": "Andreas Kretz",
+      "summary": "Built an AI agent that debugs your data pipelines. Relational + RAG in one db!\nFull tutorial on my channel 👆",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "ivA3rL7Oxtg",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    },
+    {
+      "id": "yt:k_ay0x5Dplc",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "Meta SQL Interview Question | 21/100 SQL Interview Tips #shorts",
+      "url": "https://www.youtube.com/watch?v=k_ay0x5Dplc",
+      "published_at": "2026-05-27T12:26:05+00:00",
+      "author": "E-Learning Bridge",
+      "summary": "🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#sql #skills #interview",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "k_ay0x5Dplc",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    },
+    {
+      "id": "yt:rFfYYWuph8c",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI Survival Guide for Software Engineers",
+      "url": "https://www.youtube.com/watch?v=rFfYYWuph8c",
+      "published_at": "2026-05-27T12:02:28+00:00",
+      "author": "codebasics",
+      "summary": "The honest Survive and Thrive guide for software engineers in the AI era. \n\nBuilt from real experience, not influencer takes. \n\nCheck the pinned comment for the full video.\n\n#AIEngineering #SoftwareEngineering #TechCareers #AITools #CareerGrowth #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "rFfYYWuph8c",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:4eZWk7yY26E",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "How Many Kafka Partitions?",
+      "url": "https://www.youtube.com/watch?v=4eZWk7yY26E",
+      "published_at": "2026-05-27T10:00:30+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | Use Math — Not Guessing\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "4eZWk7yY26E",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
