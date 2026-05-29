@@ -1,0 +1,389 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-29T07:19:15.685643+00:00",
+  "window": {
+    "since": "2026-05-28T07:19:15.685643+00:00",
+    "until": "2026-05-29T07:19:15.685643+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:G0_fRwy9T7I",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Learn T-SQL With Erik: Aligning Queries and Indexes Part 2",
+      "url": "https://www.youtube.com/watch?v=G0_fRwy9T7I",
+      "published_at": "2026-05-28T16:00:02+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I delve into the nuances of query and index alignment in SQL Server, specifically focusing on how to optimize queries using indexes more effectively. We explore a scenario where we have multiple indexes on related tables but need to rewrite our queries to better leverage these indexes. By experimenting with different query hints and techniques, such as using temporary tables and outer applies, I demonstrate practical methods to improve performance. The goal is not just to show you how to fix the issue at hand, but also to provide insights that can be applied to similar situations in your own database environments. Whether you're a seasoned SQL Server professional or just starting out, there's always something new to learn from these detailed walkthroughs.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:02:45 - Problematic Query Analysis\n00:06:38 - Index and Predicate Issues\n00:09:21 - Optimizing the Query with Outer Apply\n00:11:24 - Improved Performance Explanation\n00:12:55 - Conclusion",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "G0_fRwy9T7I",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:y-LBmAeUVG4",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Don’t Let Your Data Monster Destroy Your Momentum",
+      "url": "https://www.youtube.com/watch?v=y-LBmAeUVG4",
+      "published_at": "2026-05-28T13:52:04+00:00",
+      "author": "Confluent",
+      "summary": "Every enterprise has a data monster. And a way to take control. From AI to analytics, Confluent supercharges innovation across every organization with reusable, reliable, real-time data. \n\nSo don’t let your data monster hold you back. Unlock value and unleash business impact with freeflowing, real-time data on The World’s Data Streaming Platform.\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit www.confluent.io\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "y-LBmAeUVG4",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:VCeQcIlJscE",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI Engineering for Data Engineers (Closer Than You Think)",
+      "url": "https://www.youtube.com/watch?v=VCeQcIlJscE",
+      "published_at": "2026-05-28T13:19:33+00:00",
+      "author": "Data with Baraa",
+      "summary": "Why AI engineering is not a separate world from data engineering.\n► DataCamp | AI Engineer for Developers https://datacamp.pxf.io/dyVxgq\n► DataCamp | AI Engineer for Data Scientists https://datacamp.pxf.io/n4Eaxo\n► Get 25% OFF DataCamp's Here https://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\nHey friends, two or three years ago I thought AI engineering had nothing to do with my job as a data engineer.\nI was wrong, and here I show you why we are already closer to it than most people think.\n\n📖 *Table of Content*\n0:00 Why it matters now\n1:32 Data eng vs AI\n2:21 The classical data pipeline\n3:01 The AI pipeline (RAG)\n5:04 DataCamp\n7:55 Where AI engineers fit\n10:07 The role keeps evolving\n11:37 Wrap-up\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#dataengineering #aiengineering #rag #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "VCeQcIlJscE",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:X9H2CPGhN3k",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Ep. 3 - Durable execution, reliability engineering, and the future of agentic AI with Jeremy Edberg",
+      "url": "https://www.youtube.com/watch?v=X9H2CPGhN3k",
+      "published_at": "2026-05-28T13:01:30+00:00",
+      "author": "Redpanda Data",
+      "summary": "Durable execution has been solving reliability problems for decades. Now it's the missing primitive for agentic AI systems.\n\nWe're joined by Jeremy Edberg, C-Suite Advisor* at DBOS, Inc., to explore how durable execution works, why it matters for building production-ready AI agents, and what lessons from Netflix-scale reliability engineering apply directly to the age of agentic coding.\n\nRESOURCES MENTIONED:\nDBOS, Inc https://www.dbos.dev\nTransact library https://www.dbos.dev/dbos-transact\nCockroachDB https://www.cockroachlabs.com\nDosu https://dosu.dev/\n\nThanks for listening to “Hello Agent!: The podcast at the intersection of data & agents.” If you loved this episode, let us know with a 5-star review! Remember to subscribe so you don’t miss an episode. To learn more about Redpanda, visit redpanda.com/\n\n#RealTimeData #DataStreaming #Redpanda",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "X9H2CPGhN3k",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:jYTYn9TNf4g",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Your AI Can Now Read Your Company's Files",
+      "url": "https://www.youtube.com/watch?v=jYTYn9TNf4g",
+      "published_at": "2026-05-28T12:00:39+00:00",
+      "author": "codebasics",
+      "summary": "What if your AI could actually understand your company's documents, PDFs, videos, spreadsheets, all of it?\n \nProgress Agentic RAG automatically indexes your files and lets you ask questions using any LLM. \n \nThink of it as giving your AI a brain that knows YOUR data. No coding needed.\n \n🔗 Try it: https://www.progress.com/agentic-rag/?utm_medium=paid-social&utm_source=CodeBasics  \n \n#AI #RAG #AgenticRAG #DataScience #codebasic",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "jYTYn9TNf4g",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:bJOlsFLoQGQ",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Stop Waiting for Your Data: How to Take Control",
+      "url": "https://www.youtube.com/watch?v=bJOlsFLoQGQ",
+      "published_at": "2026-05-28T11:00:18+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | Most organizations treat data ingestion as a passive activity, waiting for data to arrive on someone else's schedule, in someone else's format, with no control over quality or timing. The result? Data that exists but isn't accessible when and where it's needed.\n\nData ingestion is the bridge between where data is created and where it delivers value, but the way you build that bridge determines how much control you actually have. This video reveals the four critical dimensions of ingestion control: quality, format, timing, and access, and shows why the choice between batch and streaming ingestion determines whether you're driving your pipeline or waiting on it.\n\nWe'll follow the transformation of a hospital's data systems from paper records in filing cabinets to real-time patient data streaming to every workstation, and show you how to apply that same transformation to your own data systems. You'll explore traditional batch ingestion methods and their limitations, streaming alternatives like event-driven CDC and Kafka Connect, and when to skip ingestion entirely when your data is already flowing through a streaming platform. We'll also cover a key design principle: even if your sources are batch today, build your pipeline for streaming, so you're ready when they catch up.\n\nTechnologies covered: Apache Kafka, Kafka Connect, Debezium, Change Data Capture (CDC), Data Pipelines\n\n📚 CHAPTERS:\n00:00-00:35 Intro\n00:35-01:30 Transformation to real-time data\n01:30-03:04 Before Data Ingestion\n03:04-03:48 After Data Ingestion\n03:48-07:02 Ingestion Methods\n07:02-07:56 Conclusion\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "bJOlsFLoQGQ",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:CYZIVRbiMcw",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "From Modern Data Stack to the Coding Data Stack (CDS): Hopsworks 5.0",
+      "url": "https://www.youtube.com/watch?v=CYZIVRbiMcw",
+      "published_at": "2026-05-28T09:04:24+00:00",
+      "author": "Hopsworks",
+      "summary": "In this webinar, we introduced the Coding Data Stack (CDS) in Hopsworks 5.0 and demonstrated how coding agents like Claude Code are changing the way teams build ML pipelines, real-time AI systems, dashboards, and data applications. These new capabilities will soon be available in Hopsworks.\n\nWe also walked through a live demo using a Football World Cup prediction use case, showing how coding agents inside a terminal can be used to build and run ML pipelines to predict the tournament winner.\n\nWatch the demo to see how production-ready Data/AI pipelines can be built and deployed faster with a coding-agent-first workflow.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "CYZIVRbiMcw",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    }
+  ]
+}
