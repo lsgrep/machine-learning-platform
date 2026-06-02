@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-02T07:37:26.874620+00:00",
+  "window": {
+    "since": "2026-06-01T07:37:26.874620+00:00",
+    "until": "2026-06-02T07:37:26.874620+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 5,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:1LhvqZvDT5w",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "From GenAI Pilots to Production - Nikita Kozodoi",
+      "url": "https://www.youtube.com/watch?v=1LhvqZvDT5w",
+      "published_at": "2026-06-02T00:10:11+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "1LhvqZvDT5w",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:MUWAbpg1xLo",
+      "source_id": "bytebytego",
+      "source_name": "ByteByteGo",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 2,
+      "title": "CPU vs GPU vs TPU",
+      "url": "https://www.youtube.com/watch?v=MUWAbpg1xLo",
+      "published_at": "2026-06-01T15:30:22+00:00",
+      "author": "ByteByteGo",
+      "summary": "Start building a Data Lakehouse on Apache Iceberg in minutes: https://go.bytebytego.com/4cy8F77",
+      "duration_seconds": null,
+      "tags": [
+        "system-design",
+        "rate-limiting",
+        "load-balancing",
+        "consistent-hashing"
+      ],
+      "raw": {
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "video_id": "MUWAbpg1xLo",
+        "playlist_id": "UUZgt6AzoyjslHTC9dz0UoTw"
+      }
+    },
+    {
+      "id": "yt:cpApQQfd-NE",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Unboxing Exasol Merch (New Course Is Coming!)",
+      "url": "https://www.youtube.com/watch?v=cpApQQfd-NE",
+      "published_at": "2026-06-01T15:00:14+00:00",
+      "author": "Andreas Kretz",
+      "summary": "Got a package from Exasol in the mail and had to open it right away.\nThe merch is for the video lessons I'm recording for an Exasol course that's launching soon, and I'm pretty excited about it.\nStay tuned! More details coming 👀",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "cpApQQfd-NE",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    },
+    {
+      "id": "yt:CVmKOoJIVLI",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "MCP Explained Simply: The Evolution of AI Apps",
+      "url": "https://www.youtube.com/watch?v=CVmKOoJIVLI",
+      "published_at": "2026-06-01T12:00:59+00:00",
+      "author": "codebasics",
+      "summary": "Model Context Protocol has a lot of hype around it. \n\nThis video cuts through that with a simple explanation and enough technical depth to actually help if you are building AI applications. \n\nThe evolution goes from standalone LLMs to agentic frameworks to standardized tool interaction. \nMCP is that third step.\n\n#MCP #AIEngineering #LLM #MachineLearning #AITools #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "CVmKOoJIVLI",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:9Ov0Cn_ArHE",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Gunnar Morling Built a New Parquet Engine with AI | Ep. 31 | Confluent Developer Podcast",
+      "url": "https://www.youtube.com/watch?v=9Ov0Cn_ArHE",
+      "published_at": "2026-06-01T11:00:30+00:00",
+      "author": "Confluent Developer",
+      "summary": "Listen: https://confluent.buzzsprout.com | Tim Berglund talks to Gunnar Mörling (Confluent) about his career in open source Java and data infrastructure. Gunnar’s first job: a student PHP developer in AMD’s e-learning group. His challenge: building Hardwood, a fast, multi-threaded Parquet engine for Java with minimal dependencies.\n\n► The One Billion Row Challenge blog post: https://www.morling.dev/blog/one-billion-row-challenge/\n\n🎧 Subscribe to Confluent Developer wherever you listen to podcasts: https://confluent.buzzsprout.com\n▶️ Subscribe on YouTube, and hit the 🔔 to catch new episodes: https://youtube.com/@ConfluentDeveloper?sub_confirmation=1\n👍 If you enjoyed this, please like it and leave us a comment\n🎧 Confluent also has a podcast for tech leaders: \"Life Is But A Stream\" hosted by our friend, Joseph Morais: https://www.confluent.io/life-is-but-a-stream-show\n\nCREDITS\nHosted by Tim Berglund, Adi Polak and Viktor Gamov\nProduced and Edited by Noelle Gallagher, Peter Furia and Nurie Mohamed\nMusic by Coastal Kites\nArtwork by Phil Vo\n\nABOUT THE PODCAST \nHi, we’re Tim Berglund, Adi Polak, and Viktor Gamov and we’re excited to bring you the Confluent Developer podcast (formerly “Streaming Audio.”) Our hand-crafted weekly episodes feature in-depth interviews with our community of software developers (actual human beings - not AI) talking about some of the most interesting challenges they’ve faced in their careers. We aim to explore the conditions that gave rise to each person’s technical hurdles, as well as how their experiences transformed their understanding and approach to building systems. \n\nWhether you’re a seasoned open source data streaming engineer, or just someone who’s interested in learning more about Apache Kafka®,  Apache Flink® and real-time data, we hope you’ll appreciate the stories, the discussion, and our effort to bring you a high-quality show worth your time.\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#confluentdeveloper #podcast #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "9Ov0Cn_ArHE",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
