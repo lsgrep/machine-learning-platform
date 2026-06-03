@@ -1,0 +1,397 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-03T07:40:23.144186+00:00",
+  "window": {
+    "since": "2026-06-02T07:40:23.144186+00:00",
+    "until": "2026-06-03T07:40:23.144186+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:RspWoRtittU",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 2026 Pre-Course Live Q&A - Alexey Grigorev",
+      "url": "https://www.youtube.com/watch?v=RspWoRtittU",
+      "published_at": "2026-06-02T16:42:08+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Course: https://github.com/DataTalksClub/llm-zoomcamp\n- AI Shipping Labs: https://aishippinglabs.com/\n- AI Engineering Field Guide: https://github.com/alexeygrigorev/ai-engineering-field-guide\n- AI Shipping labs workshops: https://aishippinglabs.com/workshops\n- AI usage policy: https://datatalks.club/docs/courses/zoomcamp-logistics/ai-usage/\n- Docker intro: https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform\n- Launch stream: https://luma.com/yqpx18b5\n- Prior project examples: https://courses.datatalks.club/llm-zoomcamp-2025/projects\n- AI Hero course: https://aishippinglabs.com/courses/aihero\n\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "RspWoRtittU",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:QdQiRbYr500",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Back in Vegas Edition",
+      "url": "https://www.youtube.com/watch?v=QdQiRbYr500",
+      "published_at": "2026-06-02T16:15:39+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Let's go through your top-voted questions from https://pollgab.com/room/brento. Here's what we covered:\n\n00:00 Start\n00:52 chris: After your time at SQLBits you’d posted about the number of SQL Server consultants who were very opposed to AI.  What was the feedback you were getting on why folks are against this technology?\n03:50 DBAInAction: Hi Brent, what’s your recommended rollback policy for SQL upgrades while maintaining same compatibility? how do you address the data gap that may occur after the go-live and if we need to rollback ? If Leadership requests a formal strategy, how do you structure your response?\n05:43 Michael J Swart: You linked to a Tested Q&A: The number of times I've shown a client a gray spray painted piece And I've said this is not for color it's only for form Then the first thing the client says is yeah I just don't like the color What questions like that do you hear too often?\n10:35 Niktrs: Hi Bent. Thank you for the spring training. Because time zone difference, I would appreciate it, if you could leave the video recordings available for one day. Thanks in advance\n11:30 Hany: Hello Brent, In your website (the Anniversary Sale page) I noticed Google is one of your customers, just wondering, Google doesn`t have a professional database team to fix their issues themselves? \n14:04 TipsyManager: Hola Brent!   You do a good amount of traveling;  any local food (and booze!) that you've particularly enjoyed?   Or particularly hated?\n16:05 Will: I know you've stated in the past that you dont like current microsoft SQL certifications, such as the dp-300. Are there any non-microsoft SQL certifications that are respected by employers and actually help certify your knowledge vs just being a marketing gimmick?\n17:35 benlinuxguy: Hi Brent. Are you planning to do any Day of Data (former SQL Saturday) at any point in the future, or was last year the last time you did these?\n20:42 Luca Carraro (DBA - Doing Business As): Hi Brent, have you ever experienced any performance issues related to the proliferation of DB objects, especially Stored Procedures?",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "QdQiRbYr500",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:9B0tkuMDEFs",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "SQL Server Performance Office Hours Episode 67",
+      "url": "https://www.youtube.com/watch?v=9B0tkuMDEFs",
+      "published_at": "2026-06-02T16:00:29+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I had the pleasure of diving into some SQL Server questions submitted by viewers during our Office Hours For You session. Erik Darling from Darling Data tackled five intriguing queries ranging from deciding between stored procedures and functions to understanding sorts in SQL Server. We also discussed when batch mode might not be the best choice for your workload. The discussion was engaging, and I hope you found it as enlightening as I did. If you have any more questions or just want to know more about me, feel free to ask away! And if you're interested in my consulting services, training, or becoming a supporting member of the channel, all the necessary links are right there in the video description. Don't forget to like, subscribe, and share with your friends to help grow our community.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:04:08 - Memory Grants and Sorts\n00:07:59 - Suspicious Plan Operators\n00:10:26 - Batch Mode vs Row Mode\n00:12:19 - Conclusion",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "9B0tkuMDEFs",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:-0GctLQhcjY",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Power BI Relationships Explained (Cardinality, Filter Direction) | #Power BI Course 17",
+      "url": "https://www.youtube.com/watch?v=-0GctLQhcjY",
+      "published_at": "2026-06-02T12:08:55+00:00",
+      "author": "Data with Baraa",
+      "summary": "In this one we go through Power BI relationships, cardinality and filter direction step by step, so your model actually behaves.\n\n*Want More?* 👇\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n00:00 Introduction\n00:51 Model layer vs visual layer\n03:02 Merge or build a relationship\n03:46 What is a relationship?\n04:10 When does data combine?\n05:37 The 3 things to define\n05:59 Cardinality explained\n06:42 One-to-one relationship\n07:11 One-to-many & many-to-one\n08:00 Many-to-many relationship\n08:50 Filter direction: single vs both\n10:45 Recap: the 3 rules\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "-0GctLQhcjY",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:E_oR6VcSyk4",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "5-Day AI Challenge for Data Engineering",
+      "url": "https://www.youtube.com/watch?v=E_oR6VcSyk4",
+      "published_at": "2026-06-02T11:28:50+00:00",
+      "author": "Data with Baraa",
+      "summary": "▶ https://www.linkedin.com/learning/ai-in-the-flow-of-data-engineering-5-days-to-build-data-pipelines-with-databricks-genie-code/day-1-set-up-databricks-free-edition-and-meet-genie-code?u=104\n\nFree 5-day challenge: AI agents build a full data engineering project in Databricks Genie Code\n\n#Databricks #DataEngineering #AI #GenieCode #DataWithBaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "E_oR6VcSyk4",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:flEMIcVAv3s",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Deduplication | Design Patterns for Apache Flink SQL",
+      "url": "https://www.youtube.com/watch?v=flEMIcVAv3s",
+      "published_at": "2026-06-02T11:00:05+00:00",
+      "author": "Confluent Developer",
+      "summary": "Get Started: https://cnfl.io/apache-flink-sql-module-1 | Join Dan and David as they discuss why some stream processing jobs need to do deduplication, how to get it done using Flink SQL, and some pitfalls and best practices. \n\nFor a deeper dive, including code samples, see the blog post from David at https://alpinegizmo.com/posts/deduplication/.\n\nLEARN MORE\n► GET STARTED WITH FLINK SQL: https://cnfl.io/apache-flink-sql-module-1\n► Confluent Developer: https://developer.confluent.io\n\nCHAPTERS:\n00:00 - Intro: Why do duplicates occur?\n00:47 - Tumbling windows\n02:48 - OVER windows\n04:12 - Ascending vs descending\n05:14 - Best practices\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "flEMIcVAv3s",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:I3z4pL41VAQ",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Kafka Without ZooKeeper",
+      "url": "https://www.youtube.com/watch?v=I3z4pL41VAQ",
+      "published_at": "2026-06-02T10:00:07+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | Kafka no longer depends on ZooKeeper. With KRaft, Kafka now manages its own metadata using a built-in Raft quorum—making clusters simpler, faster, and easier to scale. Here’s what actually changed.\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "I3z4pL41VAQ",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
