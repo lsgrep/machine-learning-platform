@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-04T07:36:58.338476+00:00",
+  "window": {
+    "since": "2026-06-03T07:36:58.338476+00:00",
+    "until": "2026-06-04T07:36:58.338476+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:ImY5-Q97sRw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Monitoring LLM Applications: Traces, Feedback, and Production Quality - Alexey Grigorev",
+      "url": "https://www.youtube.com/watch?v=ImY5-Q97sRw",
+      "published_at": "2026-06-04T00:09:40+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Link:\n\n- Course: https://github.com/DataTalksClub/llm-zoomcamp/\n- Prompt optimization video: https://www.youtube.com/watch?v=uMNYVw4jh-8\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "ImY5-Q97sRw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:7Wb_iJQIvYs",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "No Really, Why Not ADR?",
+      "url": "https://www.youtube.com/watch?v=7Wb_iJQIvYs",
+      "published_at": "2026-06-03T19:40:53+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n05:32 TeaEarlGrayHot: Why is the size of the persistent version store in SQL with optimized locking a concern while in postgres and mysql that store their persistent version store in table, it is not? Is the assumption that postgres and mysql are less likely to use HA?\nNo Really, Why Not ADR?",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "7Wb_iJQIvYs",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:2bRA1NqU_c8",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Why Not ADR?",
+      "url": "https://www.youtube.com/watch?v=2bRA1NqU_c8",
+      "published_at": "2026-06-03T19:29:08+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n01:40 DbaMan: You have been reulctant to turn on ADR. It is required for optimized locing in SQL Server 2025. What is your view of ADR + Optimized locking? Is it almost an automatic yes, or should it only be enabled if we have BIG problems with locking/blocking?\nWhy Not ADR?",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "2bRA1NqU_c8",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:-Els4youE5w",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Learn T-SQL With Erik: Aligning Queries and Indexes Part 3",
+      "url": "https://www.youtube.com/watch?v=-Els4youE5w",
+      "published_at": "2026-06-03T16:00:34+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I delve into an engaging demonstration that showcases how query tuning and index design can significantly impact SQL Server performance. Erik Darling from Darling Data walks you through a series of practical examples using T-SQL to optimize queries and indexes. You'll learn about the nuances of parameter sniffing and how different execution plans are generated based on input parameters, especially when dealing with uncommon or common values. The demo highlights the importance of separating informational columns from relational ones in your query design, demonstrating a clever self-join technique that can lead to more efficient execution plans. By the end of this video, you'll gain valuable insights into how to better align your queries and indexes for optimal performance.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:02:15 - Index Alignment and Design\n00:04:33 - Query Tuning Magic\n00:06:54 - Parameter Sniffing Issue\n00:09:40 - Execution Plan Variations\n00:11:55 - Relational Columns and Aliases\n00:14:28 - Optimizing Queries\n00:17:14 - Memory Grants and Indexes",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "-Els4youE5w",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:cQcQsy6UkTI",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How to Succeed in the AI Era (According to Windsurf's Founding Team)",
+      "url": "https://www.youtube.com/watch?v=cQcQsy6UkTI",
+      "published_at": "2026-06-03T12:01:59+00:00",
+      "author": "codebasics",
+      "summary": "What should college students focus on in the AI era?\n \nAt Google I/O, Dhaval spoke with a founding team member from Windsurf (acquired by Google, now building Antigravity).\n \nHis advice: stop overthinking and start building.\n \n#AI #GoogleIO #Windsurf #Antigravity #Coding #Codebasics #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "cQcQsy6UkTI",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:T442ZY2WcKg",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "100 DSA Questions For Data Engineers | Crack Any Company #shorts",
+      "url": "https://www.youtube.com/watch?v=T442ZY2WcKg",
+      "published_at": "2026-06-03T11:48:56+00:00",
+      "author": "E-Learning Bridge",
+      "summary": "➡️ DSA Sheet ( 100 Questions ) - https://drive.google.com/file/d/1meHk-zgG-5Q9cfXSF6gyU9XtJEsnqbFI/view?usp=sharing\n🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#dsa #coding #interview",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "T442ZY2WcKg",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    }
+  ]
+}
