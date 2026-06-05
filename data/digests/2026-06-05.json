@@ -1,0 +1,444 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-05T07:28:22.530121+00:00",
+  "window": {
+    "since": "2026-06-04T07:28:22.530121+00:00",
+    "until": "2026-06-05T07:28:22.530121+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 9,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:AKYb3BFPpzc",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Azure SQL DB Hyperscale",
+      "url": "https://www.youtube.com/watch?v=AKYb3BFPpzc",
+      "published_at": "2026-06-05T00:00:36+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n11:34 MyTeaGotCold: Have you seen anyone regret choosing Azure Hyperscale rather than another Azure PaaS? Microsoft seems to push it very hard.\nAzure SQL DB Hyperscale",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "AKYb3BFPpzc",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:qyTj4TJWkYM",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Easy Disaster Recovery",
+      "url": "https://www.youtube.com/watch?v=qyTj4TJWkYM",
+      "published_at": "2026-06-04T23:53:57+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n07:27 Will: We have a primary mssql enterprise cluster (2 vms) and a DR cluster (2 vms). We use one always on AG on the primary cluster, and another for the DR cluster. We connect the two AGs via a DAG. Is this a typical SQL DR setup, or is there a better way to set up a DR environment?\nEasy Disaster Recovery",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "qyTj4TJWkYM",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:NkCwSjLx_1A",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Learn T-SQL With Erik: Aligning Queries and Indexes Part 4",
+      "url": "https://www.youtube.com/watch?v=NkCwSjLx_1A",
+      "published_at": "2026-06-04T16:00:36+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I delve into the intricate world of query and index optimization in SQL Server, focusing on how to align your queries more effectively with existing indexes to achieve better performance. We explore a series of queries that demonstrate both rewriting techniques and index tweaks to highlight the impact of these changes. By running through examples like the \"tipping point\" scenario, I show you how small adjustments can significantly affect query execution plans and overall performance. Whether you're looking to improve your SQL Server skills or need practical solutions for optimizing your database, this video offers valuable insights and actionable strategies.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:00:21 - Consulting Services\n00:01:10 - Free Tools Mention\n00:02:18 - Upcoming Event\n00:03:16 - Tipping Point Queries\n00:04:00 - Query Execution Time\n00:05:35 - Query Plan Analysis\n00:07:01 - Optimizing the Query\n00:08:20 - EXISTS vs IN Subquery\n00:09:10 - Adaptive Join\n00:10:12 - Nested Loops Join\n00:11:00 - Original Query Performance\n00:12:24 - Conclusion",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "NkCwSjLx_1A",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:V1HRrdi4nOs",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Data Engineering Fundamentals for Analysts",
+      "url": "https://www.youtube.com/watch?v=V1HRrdi4nOs",
+      "published_at": "2026-06-04T14:47:04+00:00",
+      "author": "codebasics",
+      "summary": "In this video, we cover the data engineering fundamentals every data analyst needs to know to start building real pipelines — not just dashboards.\n \n🚀 Ready to go from Data Analyst to AI-Enabled Data Engineer? Our live bootcamp takes you from dashboards to production pipelines: https://codebasics.io/bootcamps/data-engineering-bootcamp-for-analysts\n \n🎮 Want to learn by doing? Datakata is a free, super fun game where you build data pipelines hands-on: https://resources.codebasics.io/MrJey6\n \nDatabricks Videos\nDatabricks Free Edition Tutorial with End-to-End Data + AI Project: https://www.youtube.com/watch?v=761SQ9Hxbic\nEnd to End Data Engineering Project using Databricks Free Edition | FMCG Domain: https://www.youtube.com/watch?v=U6ZUKWdfSLY\nEnd to End Data Engineering Project using Databricks Free Edition | Spark Declarative Pipelines: https://www.youtube.com/watch?v=bIIC44n2Dss\n\n⭐️ Timestamps ⭐️\n0:00:00 Intro\n0:00:32 OLAP vs OLTP vs ETL vs Data Warehouse\n0:10:02 Data Lake vs Data Warehouse vs Lekehouse\n0:16:53 ETL vs ELT\n0:22:51 Medallion Architecture\n0:28:53 Row Based File Formats - CSV JSON\n0:37:09 Column Based File Formats - Parquet\n0:40:51 Data Normalization and Denormalization\n0:46:46 Data Modeling\n0:49:54 Star Snowflake\n0:58:43 Dimensional Modeling\n1:01:27 Slowly Changing Dimensions\n1:07:15 Outro\n \n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#️⃣ Social Media #️⃣\n\n🧑‍🤝‍🧑 Discord for Community Support:  https://discord.gg/r42Kbuk\n📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n📝 Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n📱 Dhaval's X handle : https://x.com/dpcodebasics\n\n------\n\n📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalcodebasics\n\n🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "V1HRrdi4nOs",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:rQYyFxf1FWw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 1.1 — Introduction",
+      "url": "https://www.youtube.com/watch?v=rQYyFxf1FWw",
+      "published_at": "2026-06-04T14:36:31+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "What an LLM is, why it needs RAG, and what we'll build in this module: an FAQ assistant for the course.\n\nLesson notes: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/01-intro.md\n\nLLM Zoomcamp is a free course on building real-world LLM applications: https://github.com/DataTalksClub/llm-zoomcamp\n\nModule 1 (Agentic RAG), Part 1 — lesson 1 of 10.\n\nChapters:\n0:00 Intro\n0:35 What is a language model\n1:33 Training large language models\n2:17 The LLM as a black box\n2:51 What we'll build: a course FAQ agent",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "rQYyFxf1FWw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:aaFE_FVIwlo",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "Complete AI Data Engineering in 4 Months | Crack Any Company #shorts",
+      "url": "https://www.youtube.com/watch?v=aaFE_FVIwlo",
+      "published_at": "2026-06-04T13:25:12+00:00",
+      "author": "E-Learning Bridge",
+      "summary": "🚨 Join First Live Classroom Batch Of \"Complete AI Data Engineering With AWS (6.0) – Basic to Advanced\" Program\n📘 Enroll Now - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#ai #coding #skills",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "aaFE_FVIwlo",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    },
+    {
+      "id": "yt:Eazu28FSKEU",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How to Build a Clean Star Schema in Power BI  | #Power BI Course 18",
+      "url": "https://www.youtube.com/watch?v=Eazu28FSKEU",
+      "published_at": "2026-06-04T13:11:33+00:00",
+      "author": "Data with Baraa",
+      "summary": "This video, we build a clean star schema step by step, get the cardinality right, and I show you why the filter should move from the dimension to the fact, not both ways.\n\n*Want More?* 👇\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Load the fact table\n1:05 Modeling interface\n3:00 Create a relationship\n4:09 Cardinality\n5:10 Filter direction (single vs both)\n8:15 Test the model\n10:53 Add the product dimension\n12:43 Fix duplicates in Power Query\n13:58 Why both is bad\n17:04 Filter direction best practices\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "Eazu28FSKEU",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:HwmqZTnb7Co",
+      "source_id": "theprimeagen",
+      "source_name": "ThePrimeagen",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 2,
+      "title": "I learned Odin",
+      "url": "https://www.youtube.com/watch?v=HwmqZTnb7Co",
+      "published_at": "2026-06-04T12:00:40+00:00",
+      "author": "ThePrimeagen",
+      "summary": "Twitch : https://twitch.tv/ThePrimeagen\nDiscord: https://discord.gg/ThePrimeagen\nSupport me (by becoming a backend dev): https://boot.dev/prime",
+      "duration_seconds": null,
+      "tags": [
+        "productivity",
+        "runtimes",
+        "editor",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC8ENHE5xdFSwx71u3fDH5Xw",
+        "video_id": "HwmqZTnb7Co",
+        "playlist_id": "UU8ENHE5xdFSwx71u3fDH5Xw"
+      }
+    },
+    {
+      "id": "yt:BT1CJS08oVU",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Data Governance in a Crisis: When Every Second Counts",
+      "url": "https://www.youtube.com/watch?v=BT1CJS08oVU",
+      "published_at": "2026-06-04T11:00:21+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | What happens when payment systems fail at 2 PM and the team who broke it went home hours ago?\n\nIt's Tuesday afternoon. Payment processing is failing across Australia. Customers are angry. The monitoring dashboards show nothing obvious. And the team who deployed the breaking change five hours ago? They're asleep in Europe. This is where data governance transforms from a theoretical checkbox into mission-critical infrastructure. Follow an on-call team as they race against time, using data catalogs, schema registries, and lineage tracking to trace encrypted PII data back through multiple services to find a single missing configuration line. See firsthand why real-time governance isn't just a nice-to-have - it's the difference between a 30-minute fix and a 24-hour disaster.\n\nThis video demonstrates how modern data governance tools enable rapid incident response in production environments. Learn why traditional batch-updated governance systems would have left this team with yesterday's schemas and outdated lineage information - potentially turning a quick fix into an all-night debugging session. Discover how concepts like data stewardship, the principle of least privilege, and role-based access control aren't just compliance requirements, but practical tools that help teams solve real problems under pressure.\n\nTechnologies covered: Data Catalogs, Schema Registry, Data Lineage, RBAC (Role-Based Access Control), PII Encryption, Real-time Data Governance, Apache Kafka\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "BT1CJS08oVU",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
