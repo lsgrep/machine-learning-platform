@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-06T07:03:45.107232+00:00",
+  "window": {
+    "since": "2026-06-05T07:03:45.107232+00:00",
+    "until": "2026-06-06T07:03:45.107232+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:n1qhoivbjQo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "You Don't Need to Know AI",
+      "url": "https://www.youtube.com/watch?v=n1qhoivbjQo",
+      "published_at": "2026-06-05T16:16:17+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n13:47 Elwood Blues: How much AI should a prospective SQL 2025 DBA know if the database is using the new vector type?\nYou Don't Need to Know AI",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "n1qhoivbjQo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:W46gbIBC9Ps",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Dropping a 4TB Table",
+      "url": "https://www.youtube.com/watch?v=W46gbIBC9Ps",
+      "published_at": "2026-06-05T16:10:31+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n12:25 Jeffry Altamar: What is your advice for removing a massive 4TB table from a live database: should I delete records in chunks and then drop it, or simply drop the table with no previous steps? What is safest?\nDropping a 4TB Table",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "W46gbIBC9Ps",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:XZoj-VCc3fM",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Power BI Ambiguous Explained (Active vs Inactive Relationships) | #Power BI Course 19",
+      "url": "https://www.youtube.com/watch?v=XZoj-VCc3fM",
+      "published_at": "2026-06-05T12:15:14+00:00",
+      "author": "Data with Baraa",
+      "summary": "Learn What Power BI's ambiguous paths and understand active vs inactive relationships the right way.\n\n*Want More?* 👇\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Introduction\n0:33 Active vs Inactive Relationships\n2:12 Why Power BI Blocks the Loop\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "XZoj-VCc3fM",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:R4ilF_0CO9I",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "What is OpenRouter and Why Developers Use It?",
+      "url": "https://www.youtube.com/watch?v=R4ilF_0CO9I",
+      "published_at": "2026-06-05T12:01:40+00:00",
+      "author": "codebasics",
+      "summary": "OpenRouter gives you API access to GPT, Claude, Gemini, and many other models, including free ones, all under one account and one API key. No separate signups, no juggling credentials across providers.\n\nIf you are building AI applications and want to experiment across models without the overhead, this is worth trying.\n\nCheck out the full video - https://youtu.be/fjd2hm6-qtM?si=Gecvubkfy-VMqL2a\n\n\n#AIEngineering #OpenRouter #LLM #MachineLearning #Developers #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "R4ilF_0CO9I",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:8i5LgqoJJS8",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Don’t Burn Out. Don’t Check Out",
+      "url": "https://www.youtube.com/watch?v=8i5LgqoJJS8",
+      "published_at": "2026-06-05T12:00:02+00:00",
+      "author": "Data with Baraa",
+      "summary": "I’ve seen both extremes. Neither leads to a good life. Balance it.\n👉 Support & Subscribe to channel for more Content https://www.youtube.com/@UC8_RSKwbU1OmZWNEoLV1tQg\n━━━━━\n\n*MY COURSES*\nTo get certified, better clean structure & progress, support me:\n🏅SQL https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n🏅Tableau https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*MY UDEMY COURSES*\nSQL: https://bit.ly/4hH947P\nTableau: https://bit.ly/3xFiDDk\n\n━━━━━\n\n*CONNECT WITH ME*\n📬 Newsletter https://www.blog.datawithbaraa.com/subscribe\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🌍 Website https://www.datawithbaraa.com/\n💬 Discord https://discord.gg/gsVJbMxKcA\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n⭐ Favorite Books/Gear https://candle-gosling-511.notion.site/My-Favorite-Books-Gear-Apps-28334b251f1281e58a52cf7aa594e0e9?source=copy_link\n📩 Sponsorships baraa@datawithbaraa.com\n\n━━━━━\n\n*MY FREE COURSES*\n*SQL* https://youtu.be/SSKVgrwhzus\n*Python*  https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn\n*Tableau* https://youtu.be/UcGF09Awm4Y\n*Real World Data Projects* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7\n*Data Career Roadmaps* https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "8i5LgqoJJS8",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:69WP2-rDHMs",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Is This the Future of Enterprise AI? | Microsoft Agent Framework Foundations | Part 1",
+      "url": "https://www.youtube.com/watch?v=69WP2-rDHMs",
+      "published_at": "2026-06-05T08:35:42+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Join us for the first part of our Microsoft Agent Framework series!\n\nJames and Toyosi cover the foundations of Microsoft Agent Framework V1, how it differs to other tools, and why this release feels like a real step forward for enterprise AI. At its core, it brings Semantic Kernel and AutoGen together into a single, robust pipeline - designed to make building and managing AI systems far less fragmented.\n\nHere’s are some key features:\n\n1️⃣ One unified framework - middleware, telemetry, and multi-agent patterns all brought together under a single tenant.\n\n2️⃣ Built for enterprise from the ground up - guardrails, policy enforcement, and native observability via Azure Application Insights.\n\n3️⃣ Smarter memory handling - both session-based context and long-term memory (LTM) for more persistent, useful interactions.\n\n4️⃣ A visual way to manage it all - dev UI for monitoring agent flows, tracking token usage, and spotting performance issues early.\n\n5️⃣ Flexible by design - easy to migrate existing projects and run across AWS, Google Cloud, or Azure.\n\nIf you’re building agentic AI (or planning to), this is a solid look at why Agent Framework V1 is quickly becoming the default choice for scalable, secure enterprise solutions. Stay tuned for part 2 next week, where we cover practical applications of the Agent Framework and four notebook demos!",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "69WP2-rDHMs",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
