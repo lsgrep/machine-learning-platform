@@ -1,0 +1,273 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-07T07:23:05.398349+00:00",
+  "window": {
+    "since": "2026-06-06T07:23:05.398349+00:00",
+    "until": "2026-06-07T07:23:05.398349+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:-T39cM3LPk0",
+      "source_id": "hussein_nasser",
+      "source_name": "Hussein Nasser",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "don't let AI rob you",
+      "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
+      "published_at": "2026-06-06T13:30:13+00:00",
+      "author": "Hussein Nasser",
+      "summary": "A discussion about why many engineers still love the struggle, the mistakes, and the process of figuring things out themselves. This is how we grow and get better and stronger. Letting AI do everything (even though it can’t) robs us this feeling.. \n\nIntermediate and Advanced Backend Engineering Course Bundle\nhttps://courses.husseinnasser.com/bundle\n\nMy Book, Root Cause: Stories and Lessons from Two Decades of Backend Engineering Bugs \nhttps://amzn.to/4cKfZhe",
+      "duration_seconds": null,
+      "tags": [
+        "b-tree",
+        "hash-index",
+        "connection-pooling",
+        "tcp",
+        "udp",
+        "http2",
+        "http3",
+        "postgres",
+        "redis",
+        "proxies"
+      ],
+      "raw": {
+        "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
+        "video_id": "-T39cM3LPk0",
+        "playlist_id": "UU_ML5xP23TOWKUcc-oAE_Eg"
+      }
+    },
+    {
+      "id": "yt:3U4gBrmkZyM",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 1.2 — Environment",
+      "url": "https://www.youtube.com/watch?v=3U4gBrmkZyM",
+      "published_at": "2026-06-06T10:10:14+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Setting up the project with Python and uv, installing dependencies, and configuring your OpenAI API key (plus OpenAI-compatible alternatives like Groq).\n\nLesson notes: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/02-environment.md\n\nLLM Zoomcamp is a free course on building real-world LLM applications: https://github.com/DataTalksClub/llm-zoomcamp\n\nModule 1 (Agentic RAG), Part 1 — lesson 2 of 10.\n\nChapters:\n0:00 Preparing the environment\n0:10 Creating the project in Codespaces\n3:26 Installing uv\n3:59 Adding dependencies\n6:29 Creating the Jupyter notebook\n8:09 Setting up .gitignore and .env\n8:43 Getting an OpenAI API key\n11:02 Loading .env and the client",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "3U4gBrmkZyM",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    }
+  ]
+}
