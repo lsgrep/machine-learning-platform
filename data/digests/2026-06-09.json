@@ -1,0 +1,522 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-09T07:13:10.847791+00:00",
+  "window": {
+    "since": "2026-06-08T07:13:10.847791+00:00",
+    "until": "2026-06-09T07:13:10.847791+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 11,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 5,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:GYgpNKiuCJU",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 1.5 — Search",
+      "url": "https://www.youtube.com/watch?v=GYgpNKiuCJU",
+      "published_at": "2026-06-09T07:02:12+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Building a keyword search engine over the FAQ with minsearch: text vs keyword fields, filtering, and boosting.\n\nLesson notes: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/05-search.md\n\nLLM Zoomcamp is a free course on building real-world LLM applications: https://github.com/DataTalksClub/llm-zoomcamp\n\nModule 1 (Agentic RAG), Part 1 — lesson 5 of 10.\n\nChapters:\n0:00 Why we need search\n1:31 Search libraries\n2:16 minsearch\n3:42 Text and keyword fields\n6:11 Trying a search\n8:00 Boosting fields",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "GYgpNKiuCJU",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:XzokRd_IPSc",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI Adoption in Enterprise Beyond Writing Code - Ivan Bilan",
+      "url": "https://www.youtube.com/watch?v=XzokRd_IPSc",
+      "published_at": "2026-06-08T23:48:47+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "XzokRd_IPSc",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:0qjUQB5c2Pw",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Time for Query Hints",
+      "url": "https://www.youtube.com/watch?v=0qjUQB5c2Pw",
+      "published_at": "2026-06-08T19:57:17+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n04:08 Idaho: When is it responsible to use a query hint instead of trying to make the optimizer choose the “right” plan on its own?\nTime for Query Hints",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "0qjUQB5c2Pw",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:2Jz0wGKBbYA",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "In-Memory OLTP",
+      "url": "https://www.youtube.com/watch?v=2Jz0wGKBbYA",
+      "published_at": "2026-06-08T19:47:51+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n02:29 No Lying: Be real — has anyone actually gotten meaningful value out of In-Memory OLTP\nIn-Memory OLTP",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "2Jz0wGKBbYA",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:7TuZTVwnmhk",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 2026 Course Launch - Alexey Grigorev",
+      "url": "https://www.youtube.com/watch?v=7TuZTVwnmhk",
+      "published_at": "2026-06-08T16:37:45+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links: \n\n- Course: https://github.com/DataTalksClub/llm-zoomcamp/\n- Docs: https://datatalks.club/docs/courses/zoomcamp-logistics/ and https://datatalks.club/docs/courses/llm-zoomcamp/\n- Learning in public: https://alexeyondata.substack.com/p/benefits-of-learning-in-public-and\n- AI Hero: https://aishippinglabs.com/courses/aihero\n- AI Engineering Field Guide: https://github.com/alexeygrigorev/ai-engineering-field-guide\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "7TuZTVwnmhk",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:Mx6EqvzVDz0",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 1.4 — The Course FAQ Dataset",
+      "url": "https://www.youtube.com/watch?v=Mx6EqvzVDz0",
+      "published_at": "2026-06-08T14:43:01+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Fetching and exploring the FAQ data we use as the knowledge base for our RAG pipeline.\n\nLesson notes: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/04-dataset.md\n\nLLM Zoomcamp is a free course on building real-world LLM applications: https://github.com/DataTalksClub/llm-zoomcamp\n\nModule 1 (Agentic RAG), Part 1 — lesson 4 of 10.\n\nChapters:\n0:00 Intro: the FAQ dataset\n0:50 Why we built this system\n1:52 JSON endpoint for the data\n2:48 Fetching data with requests\n4:23 Using this data\n4:48 A note on data preparation",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "Mx6EqvzVDz0",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:7_Z-HMEgdM0",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Data Engineering Live Cohort for Analysts",
+      "url": "https://www.youtube.com/watch?v=7_Z-HMEgdM0",
+      "published_at": "2026-06-08T14:35:01+00:00",
+      "author": "codebasics",
+      "summary": "We are launching a LIVE Data Engineering Bootcamp for working Data Analysts. This will be a fast-paced 8-week live cohort. Here we will teach you how you can build and own end-to-end data pipelines, going from dashboards to production and also how to transition from a Data Analyst into a full-time AI-Enabled Data Engineer.\n\nLink: https://codebasics.io/bootcamps/data-engineering-bootcamp-for-analysts\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#️⃣ Social Media #️⃣\n\n🧑‍🤝‍🧑 Discord for Community Support:  https://discord.gg/r42Kbuk\n📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n📝 Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n📱 Dhaval's X handle : https://x.com/dpcodebasics\n\n------\n\n📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalcodebasics\n\n🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "7_Z-HMEgdM0",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:JxoqPtz03jw",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "5 Types of AI Users in Every Organization",
+      "url": "https://www.youtube.com/watch?v=JxoqPtz03jw",
+      "published_at": "2026-06-08T12:04:57+00:00",
+      "author": "codebasics",
+      "summary": "Five types of AI users exist in every organization. \n\nWatch to find out which one you are.\n\n#AITools #AIEngineering #Productivity #ClaudeAI #TechHumor #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "JxoqPtz03jw",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:wuWJ99wp9hQ",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "10 Years of Kafka Streams with Matthias J. Sax | Ep. 32 | Confluent Developer Podcast",
+      "url": "https://www.youtube.com/watch?v=wuWJ99wp9hQ",
+      "published_at": "2026-06-08T11:00:09+00:00",
+      "author": "Confluent Developer",
+      "summary": "Listen: https://confluent.buzzsprout.com | Tim Berglund talks to Matthias J. Sax (Confluent) about 10 whole years of Kafka Streams! Matthias’ first job: electrician-in-training on BMW’s assembly lines. His challenge: reflecting on 10 years of Kafka Streams growth, major milestones, and what comes next.\n\n🎧 Subscribe to Confluent Developer wherever you listen to podcasts: https://confluent.buzzsprout.com\n▶️ Subscribe on YouTube, and hit the 🔔 to catch new episodes: https://youtube.com/@ConfluentDeveloper?sub_confirmation=1\n👍 If you enjoyed this, please like it and leave us a comment\n🎧 Confluent also has a podcast for tech leaders: \"Life Is But A Stream\" hosted by our friend, Joseph Morais: https://www.confluent.io/life-is-but-a-stream-show\n\nCREDITS\nHosted by Tim Berglund, Adi Polak and Viktor Gamov\nProduced and Edited by Noelle Gallagher, Peter Furia and Nurie Mohamed\nMusic by Coastal Kites\nArtwork by Phil Vo\n\nABOUT THE PODCAST \nHi, we’re Tim Berglund, Adi Polak, and Viktor Gamov and we’re excited to bring you the Confluent Developer podcast (formerly “Streaming Audio.”) Our hand-crafted weekly episodes feature in-depth interviews with our community of software developers (actual human beings - not AI) talking about some of the most interesting challenges they’ve faced in their careers. We aim to explore the conditions that gave rise to each person’s technical hurdles, as well as how their experiences transformed their understanding and approach to building systems. \n\nWhether you’re a seasoned open source data streaming engineer, or just someone who’s interested in learning more about Apache Kafka®,  Apache Flink® and real-time data, we hope you’ll appreciate the stories, the discussion, and our effort to bring you a high-quality show worth your time.\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#confluentdeveloper #podcast #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "wuWJ99wp9hQ",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:bxI28GzWj7E",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Anthropic's SpaceX Deal, ClawPilot, and Databricks Agent-centric Cert | AI Newsround - May 2026",
+      "url": "https://www.youtube.com/watch?v=bxI28GzWj7E",
+      "published_at": "2026-06-08T10:06:57+00:00",
+      "author": "Advancing Analytics",
+      "summary": "This month: \n\nAnthropic's SpaceX deal reveals the real AI bottleneck - compute. \nGoogle and Microsoft both unveil their own takes on OpenClaw with Gemini Spark and Microsoft Scout, dragging a pile of governance questions along for the ride. \nPlus Databricks' agent-centric cert, and a quiet model month with one surprise Anthropic encore. This is your May Advancing AI Round-Up!",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "bxI28GzWj7E",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:JktYwBIDErk",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 1.3 — What is RAG",
+      "url": "https://www.youtube.com/watch?v=JktYwBIDErk",
+      "published_at": "2026-06-08T09:28:19+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Why LLMs need external context, and the retrieval-augmented generation architecture: search, build a prompt, generate an answer.\n\nLesson notes: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/03-rag.md\n\nLLM Zoomcamp is a free course on building real-world LLM applications: https://github.com/DataTalksClub/llm-zoomcamp\n\nModule 1 (Agentic RAG), Part 1 — lesson 3 of 10.\n\nChapters:\n0:00 Introducing RAG and our example\n2:10 Plain LLMs lack our data\n4:27 Adding context manually\n8:08 Retrieval plus generation\n9:52 The RAG architecture",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "JktYwBIDErk",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    }
+  ]
+}
