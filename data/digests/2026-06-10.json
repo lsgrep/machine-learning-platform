@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-10T07:27:53.263791+00:00",
+  "window": {
+    "since": "2026-06-09T07:27:53.263791+00:00",
+    "until": "2026-06-10T07:27:53.263791+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:WX7OoegMLgY",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Who's a Senior?",
+      "url": "https://www.youtube.com/watch?v=WX7OoegMLgY",
+      "published_at": "2026-06-09T20:06:51+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It’s our 24th anniversary of https://www.brentozar.com, and we’re running a sale until June 9.  Save big on my training and the Consultant Toolkit.\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n05:59 Senior or Junior: At what point is someone actually a “Senior DBA” — years of experience, outage scars, mentoring others, or something else?\nWho's a Senior?",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "WX7OoegMLgY",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:NDxA17DbSF4",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "SQL Server Performance Office Hours Episode 68",
+      "url": "https://www.youtube.com/watch?v=NDxA17DbSF4",
+      "published_at": "2026-06-09T16:00:34+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I tackle some of the most pressing questions submitted by the SQL Server community during our Tuesday Office Hours session. From the nuances of using merge statements to optimizing performance in integration tests and understanding query plans, I dive deep into practical solutions that can save you time and headaches. Whether you're dealing with sudden query spills or wondering about the merits of merge joins, this video covers a range of topics that are crucial for anyone working with SQL Server. If you have your own questions or need further clarification on any of these points, feel free to ask them in the comments below or through the provided link. Don't forget to like, subscribe, and share this video if you found it helpful!\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:00:38 - Video Description Link\n00:02:18 - Data Saturday Croatia\n00:03:14 - First Up\n00:04:54 - Merge Considerations\n00:06:06 - Delayed Durability\n00:07:35 - Adding Information\n00:09:44 - Parameter Sensitivity\n00:10:28 - Tire Pressure\n00:11:11 - Plan Analysis\n00:12:49 - Hash Join Comparison",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "NDxA17DbSF4",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:3xZ78HHdqAk",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AI Is Fast. AI Projects Are Slow. Let's Fix That.",
+      "url": "https://www.youtube.com/watch?v=3xZ78HHdqAk",
+      "published_at": "2026-06-09T14:00:06+00:00",
+      "author": "MLOps.community",
+      "summary": "Joe Maionchi (Co-founder & COO) and Rod Christensen (Co-founder & Chief Architect) of RocketRide join the MLOps Community to walk through AIDE — the AI Integrated Development Environment. RocketRide is an open-source AI pipeline platform that lets developers build, debug, and run production-grade agentic AI workflows directly from their IDE, with support for 13+ LLM providers, 8+ vector databases, and full multi-agent orchestration.\n\nAI Is Fast. AI Projects Are Slow. Let's Fix That. // MLOps Podcast #380 with JRocketRide's Joe Maionchi (Co-founder & COO) and Rod Christensen (Co-founder & Chief Architect)\n\nA huge shout-out to @RocketRide-ai for this collaboration!\n\n🔑 What's covered:\n🏗️ Why AI infrastructure needs standardization — how coding agents produce inconsistent \"glue code\" across projects and why a typed node graph fixes it\n⚡ Efficiency AI vs. Opportunity AI — the two paths companies take with generative AI and which one actually compounds growth\n🔀 Multi-agent pipeline orchestration — running CrewAI, LangChain, and DeepAgent side-by-side to benchmark which works best for your use case\n💰 Cutting LLM costs in half — design-time strategies for routing tasks to cheaper models without sacrificing output quality\n🔍 Pipeline observability & debugging — logging every node step in dev and production so you can pinpoint exactly where a 10-step pipeline breaks\n🖼️ Beyond text: image, video & audio nodes — frame grabbing, OCR, Whisper transcription, and speech-to-text running on shared GPU infrastructure\n🚀 RocketRide Cloud — one-click deploy from local to cloud with dynamic GPU scaling and cost-efficient shared inference\n🧠 Intentionality in agentic development — why moving fast with AI agents creates \"crappy code fast\" and how skills/context files change the equation\n🔌 MCP support & framework-agnostic design — swap any model, tool, or framework without rewrites\n\nThis episode is essential for AI engineers, ML practitioners, and developers building production LLM applications who want to stop reinventing infrastructure and start shipping.\n\n🔗 Links & Resources:\n• RocketRide website: https://rocketride.ai\n• RocketRide open source (GitHub): https://github.com/rocketride-org/rocketride-server\n• AIDE VS Code Extension: https://rocketride.org\n• MLOps Community: https://mlops.community\n• Discord: https://discord.gg/Hd4PukFt2H\n\n⏱️ Timestamps\n[00:00] Cost Savings in AI\n[00:21] AI, Developer, and Software Development Evolution\n[02:51] Intentionality in Software Development\n[10:51] Model Skill Optimization\n[17:08] Primitives in AI Systems\n[29:00] Coding Agent Challenges\n[37:09] RocketRide Inspiration\n[44:42] Coding Agents and Documentation\n[47:40] RocketRide Cloud Overview\n[56:27] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "3xZ78HHdqAk",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:vLrcSGUx2lY",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Database Q&A Off St. Thomas",
+      "url": "https://www.youtube.com/watch?v=vLrcSGUx2lY",
+      "published_at": "2026-06-09T13:15:25+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Got database questions? Post them for free at https://pollgab.com/room/brento. Here's what we covered on the balcony: \n\n00:00 Start\n01:40 DbaMan: You have been reulctant to turn on ADR. It is required for optimized locing in SQL Server 2025. What is your view of ADR + Optimized locking? Is it almost an automatic yes, or should it only be enabled if we have BIG problems with locking/blocking?\n05:32 TeaEarlGrayHot: Why is the size of the persistent version store in SQL with optimized locking a concern while in postgres and mysql that store their persistent version store in table, it is not? Is the assumption that postgres and mysql are less likely to use HA?\n07:27 Will: We have a primary mssql enterprise cluster (2 vms) and a DR cluster (2 vms). We use one always on AG on the primary cluster, and another for the DR cluster. We connect the two AGs via a DAG. Is this a typical SQL DR setup, or is there a better way to set up a DR environment?\n11:34 MyTeaGotCold: Have you seen anyone regret choosing Azure Hyperscale rather than another Azure PaaS? Microsoft seems to push it very hard.\n12:25 Jeffry Altamar: What is your advice for removing a massive 4TB table from a live database: should I delete records in chunks and then drop it, or simply drop the table with no previous steps? What is safest?\n13:47 Elwood Blues: How much AI should a prospective SQL 2025 DBA know if the database is using the new vector type?\n15:33 Bandu: What's your opinion of AI written books?  Should they be flagged as AI witten? Would you ever purchase one?",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "vLrcSGUx2lY",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:FTYeKznXBpo",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How to Handle One-to-One Dimensions? | #Power BI Course 20",
+      "url": "https://www.youtube.com/watch?v=FTYeKznXBpo",
+      "published_at": "2026-06-09T12:28:09+00:00",
+      "author": "Data with Baraa",
+      "summary": "How to deal with one-to-one tables in Power BI the right way, and know when to keep them split.\n\n*Want More?* 👇\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Introduction\n0:39 Why One-to-One Is Harmless\n1:42 When Splitting Makes Sense\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "FTYeKznXBpo",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:D_7gNNtemQs",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Easy Migration from Postgres to Databricks Lakebase",
+      "url": "https://www.youtube.com/watch?v=D_7gNNtemQs",
+      "published_at": "2026-06-09T10:32:17+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Migration projects always feel like they're going to be fraught with danger, but in the age of AI, it really shouldn't be. We can quickly build and configure custom validation engines, migration wizards, test harnesses and more, in blinding speed compared to the days of old. So that's what we've done with Databricks Lakebase.\n\nIf you're looking at taking an existing PostgreSQL Database and shifting it into Lakebase, it'll likely be fairly straightforward. But there a couple of gotchas that will trip you up if you don't plan ahead.\n\nIn this video, Simon walks through the various hazards, then shows a quick demo of the Advancing Lakebase Migration tool, shifting an example PostgreSQL database into Lakebase in a couple of minutes!\n\nTempted to port your existing database over? Give Advancing a shout",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "D_7gNNtemQs",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:Pum_G8pXmFY",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Predicting the World Cup Winner: Live Coding with Hopsworks",
+      "url": "https://www.youtube.com/watch?v=Pum_G8pXmFY",
+      "published_at": "2026-06-09T10:04:58+00:00",
+      "author": "Hopsworks",
+      "summary": "This Thursday 11th June. The Football World Cup begins. \n\nAt Hopsworks we thought - How about live coding a prediction system live just before the competition? We’ll just get a brand new Hopsworks 5.0 and a couple of beers. \nLive vibe coding a full ML system, in less than an hour.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "Pum_G8pXmFY",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    }
+  ]
+}
