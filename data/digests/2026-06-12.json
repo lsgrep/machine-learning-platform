@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-12T07:36:20.258725+00:00",
+  "window": {
+    "since": "2026-06-11T07:36:20.258725+00:00",
+    "until": "2026-06-12T07:36:20.258725+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Pum_G8pXmFY",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Predicting the World Cup Winner: Live Coding with Hopsworks",
+      "url": "https://www.youtube.com/watch?v=Pum_G8pXmFY",
+      "published_at": "2026-06-12T04:19:07+00:00",
+      "author": "Hopsworks",
+      "summary": "This Thursday 11th June. The Football World Cup begins. \n\nAt Hopsworks we thought - How about live coding a prediction system live just before the competition? We’ll just get a brand new Hopsworks 5.0 and a couple of beers. \nLive vibe coding a full ML system, in less than an hour.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "Pum_G8pXmFY",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:ugG6MrfoRP4",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Are Procs Outdated?",
+      "url": "https://www.youtube.com/watch?v=ugG6MrfoRP4",
+      "published_at": "2026-06-11T16:04:53+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I do SQL Server training. https://www.brentozar.com\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n09:05 Justin Case: Is it finally time to admit that stored procedures are an outdated way to manage business logic, and we should be moving it all to the application layer?\nAre Procs Outdated?",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "ugG6MrfoRP4",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:gmmvdbLKxYM",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Learn T-SQL With Erik: Aligning Queries and Indexes Part 6",
+      "url": "https://www.youtube.com/watch?v=gmmvdbLKxYM",
+      "published_at": "2026-06-11T16:00:33+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I dive into the fascinating world of missing index requests in SQL Server query plans. Erik Darling from Darling Data shares his experience and a humorous anecdote about developers relying solely on these requests without understanding their limitations. We explore how missing index requests can be misleading and often don't reflect real-world performance improvements effectively. By analyzing execution plans and understanding the nuances of key columns, equality and inequality predicates, I show you how to make more informed decisions when considering indexing strategies. Join me as we debunk some common myths about these requests and learn valuable insights for optimizing your queries and indexes.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:00:22 - Funny Story\n00:01:11 - Missing Index Requests\n00:03:13 - Query Plan Overview\n00:04:02 - Impact Number Explanation\n00:05:20 - Getting an Execution Plan\n00:06:20 - Understanding Selectivity\n00:07:37 - Ordinal Position Importance\n00:08:14 - Example Query Analysis\n00:11:00 - Execution Plan Scans\n00:12:01 - Reversing Indexes\n00:13:01 - Taking Missing Index Requests\n00:13:57 - Conclusion",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "gmmvdbLKxYM",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:FbMVYHYM-oE",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Power BI Role-Playing Dimension (USERELATIONSHIP) | #Power BI Course 22",
+      "url": "https://www.youtube.com/watch?v=FbMVYHYM-oE",
+      "published_at": "2026-06-11T12:49:41+00:00",
+      "author": "Data with Baraa",
+      "summary": "Build a role-playing dimension in Power BI: one table connected to the same fact through several relationships, switched with USERELATIONSHIP.\n\n*Want More?* 👇\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 What is a role-playing dimension\n1:03 The duplication problem\n3:28 Active vs inactive relationships\n5:28 Building it in Power BI\n9:30 Connecting the two relationships\n14:08 Recap and the date dimension\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "FbMVYHYM-oE",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:5EBGJHp6wCc",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI Noob vs AI Pro",
+      "url": "https://www.youtube.com/watch?v=5EBGJHp6wCc",
+      "published_at": "2026-06-11T11:30:49+00:00",
+      "author": "codebasics",
+      "summary": "Every department has a reason AI won't work there. Finance has data sensitivity. Non-tech teams find it too complex. The excuses are endless.\n\nMost of them have a solution that already exists. The people pulling ahead are the ones who looked for it instead of stopping at the objection.\n\n#AITools #Finance #Ollama #AIEngineering #Productivity #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "5EBGJHp6wCc",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:JxaC6Hrym6c",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "LLM Zoomcamp 1.8 — RAG Helper",
+      "url": "https://www.youtube.com/watch?v=JxaC6Hrym6c",
+      "published_at": "2026-06-11T09:09:23+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Refactoring the pipeline into reusable files: ingest.py for loading/indexing and a RAGBase class encapsulating search, prompt, and the LLM call.\n\nLesson notes: https://github.com/DataTalksClub/llm-zoomcamp/blob/main/01-agentic-rag/lessons/08-rag-helper.md\n\nLLM Zoomcamp is a free course on building real-world LLM applications: https://github.com/DataTalksClub/llm-zoomcamp\n\nModule 1 (Agentic RAG), Part 1 — lesson 8 of 10.\n\nChapters:\n0:00 Cleaning up the modular code\n0:45 Creating ingest.py and rag_helper.py\n1:09 ingest.py: load data and build index\n3:06 rag_helper.py: moving the RAG logic\n4:22 Why globals break and why a class\n5:52 Building the RAGBase class\n8:51 Overriding search and LLM in subclasses\n10:11 Using it in a notebook",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "JxaC6Hrym6c",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    }
+  ]
+}
