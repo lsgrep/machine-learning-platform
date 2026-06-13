@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-13T07:18:10.764218+00:00",
+  "window": {
+    "since": "2026-06-12T07:18:10.764218+00:00",
+    "until": "2026-06-13T07:18:10.764218+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 1,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:-7etvZSBxlk",
+      "source_id": "three_blue_one_brown",
+      "source_name": "3Blue1Brown",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 1,
+      "title": "Measuring the entropy of English",
+      "url": "https://www.youtube.com/watch?v=-7etvZSBxlk",
+      "published_at": "2026-06-12T13:22:02+00:00",
+      "author": "3Blue1Brown",
+      "summary": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "duration_seconds": null,
+      "tags": [
+        "linear-algebra",
+        "calculus",
+        "neural-networks",
+        "visualization"
+      ],
+      "raw": {
+        "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+        "video_id": "-7etvZSBxlk",
+        "playlist_id": "UUYO_jab_esuFRV4b17AJtAw"
+      }
+    },
+    {
+      "id": "yt:-LGTktDqd2Q",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "The Best SQL Certificate?",
+      "url": "https://www.youtube.com/watch?v=-LGTktDqd2Q",
+      "published_at": "2026-06-12T12:40:48+00:00",
+      "author": "Data with Baraa",
+      "summary": "Everyone asks which SQL certificate to get. Wrong question. The cert is about the platform, not your SQL.\n\n▶ Full breakdown: https://www.youtube.com/watch?v=cCrpbIvSi2s\n\n#sql #sqlcertification #dataengineering #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "-LGTktDqd2Q",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:5HL4MjFfoLo",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "The most valuable coding skill is shifting in the AI era.",
+      "url": "https://www.youtube.com/watch?v=5HL4MjFfoLo",
+      "published_at": "2026-06-12T12:01:48+00:00",
+      "author": "codebasics",
+      "summary": "The most valuable coding skill is shifting in the AI era. \n\nKevin, founder of Windsurf (now Antigravity), shares what college students should actually focus on. It's not memorizing syntax - it's building taste. \n\nAs AI agents handle more code, your real job becomes choosing between architectures and design trade-offs. And that intuition only comes from one place: doing the reps.\n\n#AI #Antigravity #GoogleIO #SoftwareEngineering #short",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "5HL4MjFfoLo",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:uF3uqZW9wVc",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Your Colleagues Are Not Your Friends",
+      "url": "https://www.youtube.com/watch?v=uF3uqZW9wVc",
+      "published_at": "2026-06-12T12:00:16+00:00",
+      "author": "Data with Baraa",
+      "summary": "Work is still work. Being friendly is not the same as being friends.\n👉 Support & Subscribe to channel for more Content https://www.youtube.com/@UC8_RSKwbU1OmZWNEoLV1tQg\n━━━━━\n\n*MY COURSES*\nTo get certified, better clean structure & progress, support me:\n🏅SQL https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n🏅Tableau https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*MY UDEMY COURSES*\nSQL: https://bit.ly/4hH947P\nTableau: https://bit.ly/3xFiDDk\n\n━━━━━\n\n*CONNECT WITH ME*\n📬 Newsletter https://www.blog.datawithbaraa.com/subscribe\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🌍 Website https://www.datawithbaraa.com/\n💬 Discord https://discord.gg/gsVJbMxKcA\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n⭐ Favorite Books/Gear https://candle-gosling-511.notion.site/My-Favorite-Books-Gear-Apps-28334b251f1281e58a52cf7aa594e0e9?source=copy_link\n📩 Sponsorships baraa@datawithbaraa.com\n\n━━━━━\n\n*MY FREE COURSES*\n*SQL* https://youtu.be/SSKVgrwhzus\n*Python*  https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn\n*Tableau* https://youtu.be/UcGF09Awm4Y\n*Real World Data Projects* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7\n*Data Career Roadmaps* https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "uF3uqZW9wVc",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:FkVHk0g7Xi4",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Data + AI Summit - AI Recap + Q&A",
+      "url": "https://www.youtube.com/watch?v=FkVHk0g7Xi4",
+      "published_at": "2026-06-12T11:11:20+00:00",
+      "author": "Advancing Analytics",
+      "summary": "If you couldn't make it to San Fran, or keep up with four days of announcements, demos, and deep-dive sessions from across the pond, then don't worry, we’ve got you covered.\n\nJoin Gavi and James for a no-nonsense recap of the key highlights, and more importantly, what they actually mean for your organisation.\n\nIn this livestream, we’ll cover the standout announcements from DAIS26, and emerging patterns and use cases we're seeing across AI. \n\nAlongside this, you'll get practical takeaways and resources to get started with the latest announcements, plus an open forum to ask any questions and hear our unfiltered views.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "FkVHk0g7Xi4",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:WBxI8glfNl4",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Building Real AI Agents (Fast!) | Microsoft Agent Framework Foundations | Part 2",
+      "url": "https://www.youtube.com/watch?v=WBxI8glfNl4",
+      "published_at": "2026-06-12T10:00:03+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Episode 2 of our Microsoft Agent Framework series moves from theory into practice.\n\nJames and Toyosi walk through four notebooks to show how Agent Framework V1 actually works day to day - taking you from a basic setup to more advanced, personalised agents without a lot of overhead.\n\nThey walk through how to spin up agents with built-in telemetry, turn functions into governed tools, and manage sessions without extra infrastructure. They also cover adding persistent user context for real personalisation, and how agents return responses - either in real time or as a single output.\n\nIf you want to understand how quickly you can go from idea to something usable, this is where it clicks.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "WBxI8glfNl4",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
