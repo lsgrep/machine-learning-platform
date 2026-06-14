@@ -18,6 +18,14 @@ _CHANNEL_URL_RE = re.compile(r"/channel/(UC[\w-]{22})")
 _HANDLE_URL_RE = re.compile(r"/@([\w.\-]+)")
 
 
+class YouTubeAPIError(RuntimeError):
+    def __init__(self, path: str, status_code: int, message: str):
+        super().__init__(f"{path} HTTP {status_code}: {message}")
+        self.path = path
+        self.status_code = status_code
+        self.message = message
+
+
 class YouTubeAPIFetcher(Fetcher):
     """YouTube Data API v3 fetcher.
 
@@ -60,7 +68,7 @@ class YouTubeAPIFetcher(Fetcher):
                 err = r.json().get("error", {}).get("message", r.text[:200])
             except ValueError:
                 err = r.text[:200]
-            raise RuntimeError(f"{path} HTTP {r.status_code}: {err}")
+            raise YouTubeAPIError(path, r.status_code, err)
         return r.json()
 
     def _channels_first(self, params: dict[str, Any]) -> dict | None:
@@ -165,6 +173,13 @@ class YouTubeAPIFetcher(Fetcher):
                 params["pageToken"] = page_token
             try:
                 data = self._get("playlistItems", params)
+            except YouTubeAPIError as e:
+                msg = e.message.lower()
+                if e.status_code == 404 and "playlist" in msg and "not be found" in msg:
+                    break
+                if not result.error:
+                    result.error = f"playlistItems failed: {e}"
+                break
             except Exception as e:  # noqa: BLE001
                 if not result.error:
                     result.error = f"playlistItems failed: {e}"

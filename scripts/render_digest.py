@@ -8,12 +8,22 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
 import json
+import re
 import sys
 from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+DATE_STEM_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
+HASHTAG_RE = re.compile(r"(?<!\w)#[\w-]+")
+HTML_TAG_RE = re.compile(r"<[^>]+>")
+MISSING_PLAYLIST_ERROR_RE = re.compile(
+    r"playlistitems failed: playlistitems http 404:.*playlist.*not be found"
+)
+TIMESTAMP_RE = re.compile(r"\b\d{1,2}:\d{2}(?::\d{2})?\b")
+URL_RE = re.compile(r"https?://\S+|www\.\S+")
 TIER_LABELS = {
     1: "Tier 1 — Core Systems",
     2: "Tier 2 — Infrastructure & Protocols",
@@ -22,10 +32,45 @@ TIER_LABELS = {
 }
 
 
-def truncate(text: str | None, n: int = 280) -> str:
+def clean_summary(text: str | None) -> str:
     if not text:
         return ""
-    text = " ".join(text.split())
+
+    cleaned_lines: list[str] = []
+    for line in html.unescape(text).splitlines():
+        line = HTML_TAG_RE.sub(" ", line).strip()
+        if not line:
+            continue
+        without_urls = URL_RE.sub("", line).strip()
+        without_tags = HASHTAG_RE.sub("", without_urls).strip()
+        if not without_tags:
+            continue
+        cleaned_lines.append(without_tags)
+
+    cleaned = " ".join(cleaned_lines)
+    cleaned = TIMESTAMP_RE.split(cleaned, maxsplit=1)[0]
+    cleaned = " ".join(cleaned.split())
+    return cleaned if len(cleaned) >= 40 else ""
+
+
+def clean_error(text: str | None) -> str:
+    if not text:
+        return ""
+    text = HTML_TAG_RE.sub(" ", html.unescape(text))
+    return " ".join(text.split())
+
+
+def is_reportable_error(status: dict) -> bool:
+    error = clean_error(status.get("error"))
+    if not error:
+        return False
+    return MISSING_PLAYLIST_ERROR_RE.search(error.lower()) is None
+
+
+def truncate(text: str | None, n: int = 280) -> str:
+    text = clean_summary(text)
+    if not text:
+        return ""
     return text if len(text) <= n else text[: n - 1].rstrip() + "…"
 
 
@@ -40,22 +85,24 @@ def render(digest: dict) -> str:
     lines: list[str] = []
     gen = digest.get("generated_at", "")
     win = digest.get("window", {})
+    item_count = len(items)
+    item_label = "item" if item_count == 1 else "items"
     lines.append(f"# Daily Digest — {gen[:10]}")
     lines.append("")
     lines.append(
         f"_Window: {win.get('since', '')} → {win.get('until', '')} "
-        f"({win.get('spec', '')}) · {digest.get('item_count', 0)} items "
+        f"({win.get('spec', '')}) · {item_count} {item_label} "
         f"from {digest.get('source_count', 0)} sources_"
     )
     lines.append("")
 
-    errored = [s for s in digest.get("sources_status", []) if s.get("error")]
+    errored = [s for s in digest.get("sources_status", []) if is_reportable_error(s)]
     if errored:
         lines.append("<details><summary>Source errors / unresolved "
                      f"({len(errored)})</summary>")
         lines.append("")
         for s in errored:
-            lines.append(f"- `{s['source_id']}`: {s['error']}")
+            lines.append(f"- `{s['source_id']}`: {clean_error(s.get('error'))}")
         lines.append("")
         lines.append("</details>")
         lines.append("")
@@ -95,6 +142,16 @@ def render(digest: dict) -> str:
     return "\n".join(lines) + "\n"
 
 
+def latest_dated_digest(in_dir: Path) -> Path | None:
+    candidates = [
+        path for path in in_dir.glob("*.json")
+        if DATE_STEM_RE.fullmatch(path.stem)
+    ]
+    if not candidates:
+        return None
+    return sorted(candidates)[-1]
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--in-dir", type=Path, default=ROOT / "data" / "digests")
@@ -105,11 +162,10 @@ def main() -> int:
     if args.date:
         path = args.in_dir / f"{args.date}.json"
     else:
-        candidates = sorted(args.in_dir.glob("*.json"))
-        if not candidates:
-            print(f"no digest JSON files in {args.in_dir}", file=sys.stderr)
+        path = latest_dated_digest(args.in_dir)
+        if path is None:
+            print(f"no dated digest JSON files in {args.in_dir}", file=sys.stderr)
             return 1
-        path = candidates[-1]
 
     digest = json.loads(path.read_text())
     md = render(digest)

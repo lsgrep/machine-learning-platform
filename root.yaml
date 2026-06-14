@@ -321,7 +321,6 @@ sources:
     category: db_internals
     focus: "SQL Server execution plans, index tuning"
     topics:
-      - sql-server
       - execution-plans
       - index-tuning
       - performance
@@ -338,7 +337,6 @@ sources:
     category: db_internals
     focus: "SQL Server performance profiling and query tuning"
     topics:
-      - sql-server
       - query-tuning
       - performance-profiling
     verified: false

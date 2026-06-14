@@ -57,6 +57,37 @@ def select_fetcher(source: dict[str, Any], yt, rss: RSSFetcher):
     return None
 
 
+def normalize_match_text(text: str) -> str:
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", text.lower()).split())
+
+
+def item_matches_topics(item, source: dict[str, Any]) -> bool:
+    if source.get("filter_items") is False:
+        return True
+
+    topics = list(source.get("filter_topics") or source.get("topics") or [])
+    if not topics:
+        return True
+
+    text = normalize_match_text(f"{item.title} {item.summary or ''}")
+    if not text:
+        return False
+    compact_text = text.replace(" ", "")
+    words = set(text.split())
+
+    for topic in topics:
+        topic_text = normalize_match_text(str(topic))
+        if not topic_text:
+            continue
+        if " " not in topic_text and len(topic_text) <= 3:
+            if topic_text in words:
+                return True
+            continue
+        if topic_text in text or topic_text.replace(" ", "") in compact_text:
+            return True
+    return False
+
+
 def crawl(sources: list[dict[str, Any]], since: datetime, cache_path: Path,
           workers: int = 8, youtube_api_key: str | None = None) -> list[FetchResult]:
     if youtube_api_key:
@@ -78,7 +109,9 @@ def crawl(sources: list[dict[str, Any]], since: datetime, cache_path: Path,
             fetcher = select_fetcher(src, yt, rss)
             if fetcher is None:
                 return FetchResult(source_id=sid, error="no fetcher (missing url/handle)")
-            return fetcher.fetch(src, since=since)
+            result = fetcher.fetch(src, since=since)
+            result.items = [i for i in result.items if item_matches_topics(i, src)]
+            return result
         except Exception as e:  # noqa: BLE001 - one bad source must not kill the run
             return FetchResult(source_id=sid, error=f"unhandled: {type(e).__name__}: {e}")
 

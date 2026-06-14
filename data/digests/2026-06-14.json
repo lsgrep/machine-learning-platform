@@ -7,7 +7,7 @@
     "spec": "24h"
   },
   "source_count": 34,
-  "item_count": 2,
+  "item_count": 1,
   "categories": [
     {
       "id": "mlops_feature_stores",
@@ -102,7 +102,7 @@
     },
     {
       "source_id": "brent_ozar",
-      "items": 1,
+      "items": 0,
       "error": null
     },
     {
@@ -207,31 +207,6 @@
     }
   ],
   "items": [
-    {
-      "id": "yt:zIa1OfsW3QQ",
-      "source_id": "brent_ozar",
-      "source_name": "Brent Ozar Unlimited",
-      "source_type": "youtube",
-      "category": "db_internals",
-      "tier": 2,
-      "title": "Storing Secrets",
-      "url": "https://www.youtube.com/watch?v=zIa1OfsW3QQ",
-      "published_at": "2026-06-13T18:06:15+00:00",
-      "author": "Brent Ozar Unlimited",
-      "summary": "I do SQL Server training. https://www.brentozar.com\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n10:44 RoJo: Can SQL be used to store application secrets instead of Azure keyvault securely? Seems like a great place and much cleaner than reading from vault. Any drawbacks?\nStoring Secrets",
-      "duration_seconds": null,
-      "tags": [
-        "sql-server",
-        "execution-plans",
-        "index-tuning",
-        "performance"
-      ],
-      "raw": {
-        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
-        "video_id": "zIa1OfsW3QQ",
-        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
-      }
-    },
     {
       "id": "yt:IwBs2WvGBeQ",
       "source_id": "seattle_data_guy",
