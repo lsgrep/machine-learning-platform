@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-14T07:34:54.036012+00:00",
+  "window": {
+    "since": "2026-06-13T07:34:54.036012+00:00",
+    "until": "2026-06-14T07:34:54.036012+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": "playlistItems failed: playlistItems HTTP 404: The playlist identified with the request's <code>playlistId</code> parameter cannot be found."
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:zIa1OfsW3QQ",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Storing Secrets",
+      "url": "https://www.youtube.com/watch?v=zIa1OfsW3QQ",
+      "published_at": "2026-06-13T18:06:15+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I do SQL Server training. https://www.brentozar.com\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n10:44 RoJo: Can SQL be used to store application secrets instead of Azure keyvault securely? Seems like a great place and much cleaner than reading from vault. Any drawbacks?\nStoring Secrets",
+      "duration_seconds": null,
+      "tags": [
+        "sql-server",
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "zIa1OfsW3QQ",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:IwBs2WvGBeQ",
+      "source_id": "seattle_data_guy",
+      "source_name": "Seattle Data Guy",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 4,
+      "title": "If AI Can Replace Workers, Why Is It Hiring Consultants?",
+      "url": "https://www.youtube.com/watch?v=IwBs2WvGBeQ",
+      "published_at": "2026-06-13T18:04:21+00:00",
+      "author": "Seattle Data Guy",
+      "summary": "Last week, I noticed that Anthropic was hiring for a partner success manager.\n\nThe very first line of the description was:\n\nConsulting and systems integration firms are racing to build Claude practices.\n\nFrom there, the posting went on to explain how important it is for Anthropic to support consultancies, systems integrators, and implementation partners as they bring Claude into the enterprise.\n\nAnd all I could think was:\n\nWait.\n\nIf the AI is good enough to replace engineers, why does it need a small army of consultants to help companies use it?\n\nOn one hand, we keep hearing that AI is going to automate software engineering, data work, analytics, customer support, operations, and almost every other form of knowledge work.\n\nIt will end work as we know it!\n\nAnd yet, every major AI company seems to be investing in partner ecosystems, systems integrators, implementation teams, enterprise success teams, and consultants in one way or another.\n\nI had a similar thought about Salesforce recently.\n\nIf your AI is so good, why do companies still spend millions of dollars paying consultants to set up Salesforce, customize workflows, clean up CRM data, integrate systems, train teams, and keep the whole thing from becoming a very expensive mess?\n\nShouldn’t AI be able to just… do that?\n\nBut of course, anyone who has worked inside a real company knows the answer.\n\nThe hard part is rarely clicking the buttons.\n\nThe hard part is understanding the business, the process, the edge cases, the incentives, the data, the politics, and the mess that already exists.\n\nSo why?\n\nWhy do the LLM labs want to partner with consultancies?\n\nMy thought?\n\nAI is powerful enough to change work, but not simple enough to magically reorganize companies by itself.\n\nIf you enjoyed this video, check out some of my other top videos.\n\n\nIf you enjoyed this video, check out some of my other top videos.\n\nCommon Data Pipeline Patterns You’ll See in the Real World - Types Of Data Pipelines You'll Build\nhttps://youtu.be/htAipJ6yYFs\n\nWhat Is BigQuery - Breaking Down What BigQuery Is And Diving Into A Hands On Walkthrough\nhttps://youtu.be/pud-vuNE15g\n\nIf you're looking for help ingesting your data in batch or real time, then you need to check out Estuary - https://bit.ly/4eQC3oQ\n\n\nIf you'd like to read up on my updates about the data field, then you can sign up for our newsletter here.\n\nhttps://seattledataguy.substack.com/​​\n\nOr check out my blog\nhttps://www.theseattledataguy.com/\n\nAnd if you want to support the channel, then you can become a paid member of my newsletter\nhttps://seattledataguy.substack.com/subscribe\n\n\nTags: Data engineering projects, Data engineer project ideas, data project sources, data analytics project sources, data project portfolio\n\n_____________________________________________________________\nSubscribe: https://www.youtube.com/channel/UCmLGJ3VYBcfRaWbP6JLJcpA?sub_confirmation=1\n_____________________________________________________________\nAbout me:\nI  have spent my career focused on all forms of data. I have focused on developing algorithms to detect fraud, reduce patient readmission and redesign insurance provider policy to help reduce the overall cost of healthcare. I have also helped develop analytics for marketing and IT operations in order to optimize limited resources such as employees and budget. I privately consult on data science and engineering problems both solo as well as with a company called Acheron Analytics. I have experience both working hands-on with technical problems as well as helping leadership teams develop strategies to maximize their data.\n\n*I do participate in affiliate programs, if a link has an \"*\" by it, then I may receive a small portion of the proceeds at no extra cost to you.",
+      "duration_seconds": null,
+      "tags": [
+        "dbt",
+        "trino",
+        "airflow",
+        "consulting",
+        "career"
+      ],
+      "raw": {
+        "channel_id": "UCmLGJ3VYBcfRaWbP6JLJcpA",
+        "video_id": "IwBs2WvGBeQ",
+        "playlist_id": "UUmLGJ3VYBcfRaWbP6JLJcpA"
+      }
+    }
+  ]
+}
