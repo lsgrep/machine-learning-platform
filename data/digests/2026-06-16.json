@@ -1,0 +1,383 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-16T07:55:51.229898+00:00",
+  "window": {
+    "since": "2026-06-15T07:55:51.229898+00:00",
+    "until": "2026-06-16T07:55:51.229898+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:MdZLf6C5rW8",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Building an AI Stock Research Agent - Ivan Brigida",
+      "url": "https://www.youtube.com/watch?v=MdZLf6C5rW8",
+      "published_at": "2026-06-16T04:06:01+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Workshop: https://github.com/realmistic/stocks-scoring-agent\n- Slides: https://docs.google.com/presentation/d/e/2PACX-1vS3KH4DGfYHgcVq3Db_zL_iqx2TwnzigZIBa0nrEkwRz5GKwBq3kNxwft9-XKrQMRDeM0olmLVq7_9S/pub\n- Course: https://pythoninvest.com/course\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "MdZLf6C5rW8",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:PosCx_4fwt0",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How to Build AI that actually Ships in Production - Aleksandr Kim",
+      "url": "https://www.youtube.com/watch?v=PosCx_4fwt0",
+      "published_at": "2026-06-16T00:17:41+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "PosCx_4fwt0",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:sDpQCWx1qYk",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Redpanda SQL: one engine for the infinite stream (preview)",
+      "url": "https://www.youtube.com/watch?v=sDpQCWx1qYk",
+      "published_at": "2026-06-15T17:13:12+00:00",
+      "author": "Redpanda Data",
+      "summary": "The AI era demands broad and deep context windows, but most data architectures are split into two. Live data lives in streams, historical context sits in a data lake, and getting them to work together means ETL, connectors, and a stack that keeps growing. Redpanda SQL is here to end it.\n\nIn this Tech Talk, Redpanda's product and engineering leaders take you inside Redpanda SQL (now generally available)—a Postgres API-compatible query engine powered by our acquisition of Oxla.\n\nWhat you'll learn:\n\n- Why querying the infinite stream is the new standard for AI context windows\n- How to JOIN live Redpanda topics with historical Iceberg data in a single SQL statement\n- What zero-movement efficiency, unified RBAC, and governed agent access look like in practice\n\nWatch the full session on Redpanda SQL: https://www.redpanda.com/events/redpanda-sql-tech-talk",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "sDpQCWx1qYk",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:NsLPju6TZVc",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "MCP, Agents & the $40M Bet on Multiplayer AI",
+      "url": "https://www.youtube.com/watch?v=NsLPju6TZVc",
+      "published_at": "2026-06-15T14:00:06+00:00",
+      "author": "MLOps.community",
+      "summary": "Stanislas Polu is Co-Founder & CTO of Dust — the enterprise AI agent platform used by 51,000 workers at 3,000+ companies. Before Dust, he spent three years on OpenAI's research team under Ilya Sutskever, working on mathematical reasoning in language models, and prior to that was an engineer at Stripe. He brings a rare combination of frontier AI research and product-building experience to the enterprise agent space.\n\nMCP, Agents & the $40M Bet on Multiplayer AI // MLOps Podcast #384 with Stanislas Polu, Co-Founder & CTO of Dust\n\n🤖 What is Dust? — How Dust enables teams to build and deploy AI agents powered by internal company data, and why the \"multiplayer AI\" model is winning in enterprise.\n\n🧠 From OpenAI Research to Startup Founder — Stanislas's journey from studying mathematical reasoning in LLMs under Ilya Sutskever to co-founding an enterprise AI company in Paris with Gabriel Hubert.\n\n🔗 MCP & Standardization — Why the Model Context Protocol matters, what's trivial vs. what's transformative about MCP, and how Dust integrates MCP-compatible servers for enterprise workflows.\n\n🚀 The $40M Series B — What Dust is building with fresh funding, the bet on human-agent collaboration as the future of work, and what \"multiplayer AI\" actually means in practice.\n\n🔄 The Outer-Loop Era — Stanislas's framework for thinking about where AI agents create the most value: not just automating tasks, but rewiring how work gets done across entire organizations.\n\n⚠️ What Most Enterprise AI Gets Wrong — The biggest mistakes companies make when deploying AI agents, why adoption fails, and how Dust achieves 70%+ weekly adoption rates.\n\n📊 Building Reliable Agent Infrastructure — Lessons from scaling to thousands of companies: observability, governance, data security, and why enterprise AI is harder than it looks.\n\n🛠️ Horizontal vs. Vertical AI Platforms — Why Dust chose to build a horizontal enterprise agent platform and how that decision shapes product, go-to-market, and technical architecture.\n\nThis episode is essential for AI/ML engineers, enterprise AI leads, and anyone building or deploying AI agents at scale inside organizations.\n\n🔗 Links & Resources:\n• Dust: https://dust.tt\n• Stanislas Polu on X/Twitter: https://x.com/spolu\n• Dust on LinkedIn: https://www.linkedin.com/company/dust-tt\n• Dust $40M Series B announcement: https://dust.tt/blog\n• \"The Outer-Loop Era\" talk by Stanislas (dotconferences): https://www.youtube.com/watch?v=_outer_loop\n• Dust + Stripe MCP integration: https://stripe.com/customers/dust\n• Dust + Datadog observability case study: https://datadoghq.com/case-studies/dust\n\n⏱️ Timestamps \n[00:00] Future of Work\n[00:19] Dust Scaling Lessons\n[04:44] Human-Agent Collaboration\n[14:24] Pod as Workspace\n[22:30] Work Flow Optimization\n[29:37] Multiplayer Collaboration Vision\n[39:55] Token Economics and Inference\n[47:20] AI Pricing Challenges\n[52:36] Dust vs Co-work\n[57:06] Agentic Work Infrastructure\n[1:04:23] Stateful Sandbox Challenges\n[1:09:58] Product Use Case Discussion\n[1:14:05] Agent Data Interaction Needs\n[1:20:09] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "NsLPju6TZVc",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:jXtnhyro-QE",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Context Engineering for Coding Agents",
+      "url": "https://www.youtube.com/watch?v=jXtnhyro-QE",
+      "published_at": "2026-06-15T14:00:06+00:00",
+      "author": "MLOps.community",
+      "summary": "This is a video about Complex Engineering for Coding Agents\n\n00:00 Complex Engineering for Coding Agents",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "jXtnhyro-QE",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:ATQ_3UXCZoY",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Agent Mesh: A Microservice With a Brain ft John Miller & Eric Broda | Ep. 33 | Confluent Developer",
+      "url": "https://www.youtube.com/watch?v=ATQ_3UXCZoY",
+      "published_at": "2026-06-15T11:00:11+00:00",
+      "author": "Confluent Developer",
+      "summary": "Listen: https://confluent.buzzsprout.com | Tim Berglund talks to John Miller (Enid Technologies) and Eric Broda (Agentic Mesh Company) about their work on agent mesh and enterprise agents. Their challenge: rethinking agents as enterprise-grade participants in business processes.\n\n🎧 Subscribe to Confluent Developer wherever you listen to podcasts: https://confluent.buzzsprout.com\n▶️ Subscribe on YouTube, and hit the 🔔 to catch new episodes: https://youtube.com/@ConfluentDeveloper?sub_confirmation=1\n👍 If you enjoyed this, please like it and leave us a comment\n🎧 Confluent also has a podcast for tech leaders: \"Life Is But A Stream\" hosted by our friend, Joseph Morais: https://www.confluent.io/life-is-but-a-stream-show\n\nCREDITS\nHosted by Tim Berglund, Adi Polak and Viktor Gamov\nProduced and Edited by Noelle Gallagher, Peter Furia and Nurie Mohamed\nMusic by Coastal Kites\nArtwork by Phil Vo\n\nABOUT THE PODCAST \nHi, we’re Tim Berglund, Adi Polak, and Viktor Gamov and we’re excited to bring you the Confluent Developer podcast (formerly “Streaming Audio.”) Our hand-crafted weekly episodes feature in-depth interviews with our community of software developers (actual human beings - not AI) talking about some of the most interesting challenges they’ve faced in their careers. We aim to explore the conditions that gave rise to each person’s technical hurdles, as well as how their experiences transformed their understanding and approach to building systems. \n\nWhether you’re a seasoned open source data streaming engineer, or just someone who’s interested in learning more about Apache Kafka®,  Apache Flink® and real-time data, we hope you’ll appreciate the stories, the discussion, and our effort to bring you a high-quality show worth your time.\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#confluentdeveloper #podcast #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "ATQ_3UXCZoY",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
