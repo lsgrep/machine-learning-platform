@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-20T07:19:26.605511+00:00",
+  "window": {
+    "since": "2026-06-19T07:19:26.605511+00:00",
+    "until": "2026-06-20T07:19:26.605511+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:eYyJHcBcnoI",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Root Cause?",
+      "url": "https://www.youtube.com/watch?v=eYyJHcBcnoI",
+      "published_at": "2026-06-20T02:50:55+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Live class season pass is back for limited time! Registration is open now for the fall rotation! Save 50% before July 10:\nhttps://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n08:56 Pete Not Peter: If Query Store forces a plan and performance improves, should I still investigate the root cause?\nRoot Cause?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "eYyJHcBcnoI",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:_p_xjaf7XFw",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Autonomous Agents at Work: From OpenClaw Hype to Enterprise Reality",
+      "url": "https://www.youtube.com/watch?v=_p_xjaf7XFw",
+      "published_at": "2026-06-19T14:00:06+00:00",
+      "author": "MLOps.community",
+      "summary": "Pramod Krishnan is a Managing Director - AI Managed Services at PwC, specializing in enterprise AI transformation — helping large organizations move from AI experimentation to production operating models. In this episode with Demetrios, Pramod breaks down exactly what the OpenClaw wave means for enterprises, and the control frameworks PwC uses before a single agent touches production.\n\nHuge thanks to@PwCfor supporting this episode!\n\nAutonomous Agents at Work: From OpenClaw Hype to Enterprise Reality // MLOps Podcast #378 with Pramod Krishnan, Managing Director - AI Managed Services at PwC US.\n\n🔑 OpenClaw & the Agentic Hype Cycle — Why the fastest-growing open-source agent project in history (190K+ GitHub stars in weeks) is a forcing function for enterprise AI governance, and what most organizations are getting wrong.\n🏗️ 3-Tier Work Classification — Pramod's framework for categorizing any agentic task as reversible, sensitive, or consequential — and how the approval gates, controls, and blast radius differ for each tier.\n🛡️ The Guardrails Stack — A concrete list of non-negotiable guardrails: allow-listed tool calls, prompt injection defense, credential protection, toxic output filtering, and more — straight from PwC's production deployments.\n🔍 5-Part Auditability Framework — How to make AI agents truly auditable across quality (LLM-as-judge), performance, safety, cost, and security — and why OpenTelemetry alone isn't enough.\n💰 Agent Cost & ROI Tracking — Why successfully deployed agents are generating the hardest financial measurement problems enterprises have ever faced, and what a real cost-tracking architecture looks like.\n🔒 Agent Security in Depth — From API key harvesting attacks to credential leakage to malicious actor scenarios: what security controls PwC requires before any agent goes live.\n⚙️ The Minimum Control Stack — The non-negotiables Pramod would walk in with on a Monday before clearing any agent for production: what they are, why they matter, and how to implement them.\n🔄 Human-in-the-Loop Design — The difference between \"human in the loop\" (approves every action) and \"human on the loop\" (monitors and intervenes) — and how to choose the right pattern based on consequence level.\n🤝 AI as a Force Multiplier — How Pramod thinks about AI ownership, intellectual authorship, and making sure humans remain deliberate and responsible even as agents accelerate output.\nThis episode is essential for ML engineers, platform architects, CIOs, and AI product managers who are moving beyond demos into real enterprise agentic deployments.\n\n🔗 Links & Resources\n\nPramod Krishnan on LinkedIn: https://www.linkedin.com/in/pramod-potti-krishnan/\nMLOps.community: https://mlops.community\nOpenClaw project: https://openclaw.ai\nBCG on OpenClaw + Enterprise: https://www.bcg.com/publications/cios-openclaw-and-the-new-wave-of-ai-agents\nPwC 2026 AI Business Predictions: https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html\n\nTimestamps:\n[00:00] AI in Enterprise\n[02:04] AI System Failures\n[08:01] Agent Decision Tracing\n[13:07] Agent Design Tension\n[16:21] Agent Control Stack Essentials\n[20:20] LLM Cost and FinOps\n[26:16] Agent Attack Surfaces\n[30:00] Tools as Attack Vectors\n[33:47] Human in the Loop\n[37:00] AI Ownership and Accountability\n[41:42] Wrap up. Shoutout to Pramod and PwC!",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "_p_xjaf7XFw",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:no_gxL40NC8",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Voice Agent Use Cases",
+      "url": "https://www.youtube.com/watch?v=no_gxL40NC8",
+      "published_at": "2026-06-19T14:00:05+00:00",
+      "author": "MLOps.community",
+      "summary": "This episode is brought to you by the @mlflowossteam. Check out more information at hyperbolic.ai and MLflow.org.\n\nWhat does it actually take to build voice AI at a billion-interaction scale? This episode features an ex-Amazon voice AI engineer who built customer support systems handling 2 billion+ interactions — now working on next-gen voice agent platforms. Anurag digs deep into the real engineering tradeoffs, design patterns, and use cases that separate production-grade voice agents from demos.\n\nVoice Agent Use Cases // MLOps Podcast #374 with Anurag Beniwal, Member of the Technical Staff at ElevenLabs\n\n🎙️ Topics covered:\n\n🔹 Cascaded vs. speech-to-speech — Why cascaded systems still win in production, and how to make them feel natural without sacrificing control\n🔹 Latency masking — Foreground/background model architecture and how to buy yourself time while deep retrieval runs\n🔹 Constellation of models — Using Haiku for tool calling, fine-tuned smaller models for response generation, and why \"one model for everything\" breaks at scale\n🔹 Turn-taking & ASR challenges — Why voice is harder than chat: accents, noise, silence detection, and domain-specific fine-tuning\n🔹 Level 1 vs Level 2 customer support — Why today's agents max out at Level 1 and what it takes to capture Level 2 expert judgment\n🔹 Inbound vs. outbound sales agents — Where voice agents are already winning, and why inbound lead qualification beats cold outbound\n🔹 Booking, reservations & concierge — The clearest near-term wins for voice agents across hospitality, home services, and SMBs\n🔹 Continual learning from natural language feedback — How to build agents that improve from real operator feedback without ML expertise\n🔹 Conversational TTS — Why passing full conversation history to your TTS model changes everything for tone consistency\n🔹 User tiers for voice platforms — Non-technical business owners vs. developers vs. enterprise: why one interface doesn't fit all\n\nIf you're building production voice agents, evaluating voice AI vendors, or scaling AI-first customer support — this episode is packed with hard-won lessons from someone who's done it at Amazon scale.\n\n🔗 Links & Resources:\nMLOps.community: https://mlops.community\nGoogle Scholar: https://scholar.google.com/citations?user=g_QB5WgAAAAJ&hl=en&o\nAmazon science page: https://www.amazon.science/author/anurag-beniwal\nJoin the Community: https://go.mlops.community/YTJoinIn\nGet the newsletter: https://go.mlops.community/YTNewsletter\nMLOps GPU Guide: https://go.mlops.community/gpuguide\n\n⏱️ Timestamps \n[00:00] Cascaded Systems Control Challenge\n[05:35] Voice vs Chat Complexity\n[14:16] MLflow's open source platform\n[15:03] AI Model Constellations\n[23:00] Model Constellations Use Cases\n[31:40] Voice vs Text Context\n[33:54] Voice as Thought Capture\n[42:11] Cascaded vs Speech-to-Speech Debate\n[50:02] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "no_gxL40NC8",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
