@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-23T07:13:30.876577+00:00",
+  "window": {
+    "since": "2026-06-22T07:13:30.876577+00:00",
+    "until": "2026-06-23T07:13:30.876577+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:RSs0PDsULJM",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Logs Are All You Need: Rethinking Observability with AI Agents",
+      "url": "https://www.youtube.com/watch?v=RSs0PDsULJM",
+      "published_at": "2026-06-22T14:00:05+00:00",
+      "author": "MLOps.community",
+      "summary": "Sherwood Callaway is the founder of Sazabi (YC P26), the AI-native observability platform built for engineering teams who ship fast. He previously founded and exited a YC company — now he's back, betting that logs are all you need to replace Datadog.\n\nLogs Are All You Need: Rethinking Observability with AI Agents // MLOps Podcast #381 with Sherwood Callaway, the Founder of Sazabi\n\n🔑 What's covered:\n🪵 Logs vs. The Three Pillars — Sherwood makes the case that the traditional observability stack (metrics, logs, traces) is overkill. In 2026, with AI agents in the loop, logs alone are sufficient — and dramatically simpler to instrument.\n🚨 AI-Generated Alerts, Not AI-Evaluated Alerts — Instead of using AI to triage your noisy alert stream, Sazabi generates the alerts autonomously from your logs and codebase — so you never configure a monitor again.\n🤖 Agent Sandboxing & Bash Access — How Sazabi gives its AI agent a persistent bash sandbox with CLI tool access, why every other action routes through that sandbox, and how RLS database permissions keep the agent from doing damage.\n🧠 Agentic Memory via Git — Sazabi's novel approach to persisting agent memory across threads using Git branches — enabling multiple parallel sub-agents to share findings without bloating the context window.\n🔀 Multi-Agent Parallelization — How Sazabi spawns sub-agents and background agents on-demand to investigate production issues in parallel, the way Claude Code displays a live to-do list of agent work.\n📊 Why Evals Are Hard (and What They Built Instead) — An honest conversation about the difficulty of evaluating agentic systems, log-based eval proxies, and why Sazabi still doesn't buy third-party eval tooling.\n⚡ MCP Servers, Skills Bloat & Context Management — The tradeoffs between MCP servers and local skill files, progressive tool disclosure, and why context window management is the hidden bottleneck in production agent systems.\n🎯 Building a Moat in 2026 — Sherwood and Demetrios debate what a defensible advantage actually looks like when every AI tool can be cloned fast. Spoiler: \"We built it first\" is not a moat.\n🚀 Beta Launch & Who It's For — Sazabi is in closed beta and opening the waitlist. If your team uses Cursor or Claude Code and you have production traffic you can't afford to break, this is built for you.\n👉 Perfect for: AI engineers, SREs, DevOps teams, and founders building production-grade agent systems who are questioning whether their current observability stack is overbuilt.\n\n🔗 Links & Resources\n🌐 Sazabi: https://sazabi.com\n📄 Sazabi on Y Combinator: https://www.ycombinator.com/companies/sazabi\n💼 Sherwood Callaway on LinkedIn: https://www.linkedin.com/in/sherwood-callaway\n📰 SiliconANGLE coverage: https://siliconangle.com/2026/04/08/startup-sazabi-bets-on-logs-and-ai-agents-to-replace-traditional-observability-stacks/\n💻 MLOps.community: https://mlops.community\n\n⏱️ Timestamps \n[00:00] Genetic Agent Evolution\n[00:33] Dethroning Datadog\n[03:13] Sazabi vs Traditional Observability\n[10:47] MCP vs CLI Paradigm\n[15:12] Sandbox Usage for Agents\n[24:28] Genetic Prompt Optimization\n[32:34] Eval and Agent Spawning\n[38:45] RL Environment Tensions\n[45:40] Sazabi is hiring!\n[46:10] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "RSs0PDsULJM",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:_PqFa39vkjM",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Databricks Data + AI Summit: Booths, Beats & Big Ideas #DataAISummit",
+      "url": "https://www.youtube.com/watch?v=_PqFa39vkjM",
+      "published_at": "2026-06-22T11:18:25+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Our Senior Data Analytics consultant, Ashley Warren, takes us through the Data + AI Summit experience: the Advancing Analytics conference booth, keynote moments, karaoke with our CEO, Data After Hours with The Chainsmokers, four Advancing Analytics talks and, naturally, a Waymo ride.\n\nData, AI, tech community and just enough chaos to make it interesting.\n\nhttps://www.advancinganalytics.co.uk",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "_PqFa39vkjM",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:G-V44GAzrDE",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "155 Contributors Later: Where Kafka Is Headed ft. Andrew Schofield | Ep. 34 | Confluent Developer",
+      "url": "https://www.youtube.com/watch?v=G-V44GAzrDE",
+      "published_at": "2026-06-22T11:00:29+00:00",
+      "author": "Confluent Developer",
+      "summary": "Listen: https://confluent.buzzsprout.com | Tim Berglund talks to Andrew Schofield (Confluent) about his career in Apache Kafka. Andrew’s first job: working on queuing systems in 1991. His challenge: working at Confluent and in the Kafka community to bring queue semantics into Kafka while also helping shape major efforts like diskless Kafka, disaster recovery, and the project’s broader evolution.\n\n► Queues for Kafka Explained (KIP-932): https://youtu.be/Wb0xyqgaIqw\n\n🎧 Subscribe to Confluent Developer wherever you listen to podcasts: https://confluent.buzzsprout.com\n▶️ Subscribe on YouTube, and hit the 🔔 to catch new episodes: https://youtube.com/@ConfluentDeveloper?sub_confirmation=1\n👍 If you enjoyed this, please like it and leave us a comment\n🎧 Confluent also has a podcast for tech leaders: \"Life Is But A Stream\" hosted by our friend, Joseph Morais: https://www.confluent.io/life-is-but-a-stream-show\n\nCREDITS\nHosted by Tim Berglund, Adi Polak and Viktor Gamov\nProduced and Edited by Noelle Gallagher, Peter Furia and Nurie Mohamed\nMusic by Coastal Kites\nArtwork by Phil Vo\n\nABOUT THE PODCAST \nHi, we’re Tim Berglund, Adi Polak, and Viktor Gamov and we’re excited to bring you the Confluent Developer podcast (formerly “Streaming Audio.”) Our hand-crafted weekly episodes feature in-depth interviews with our community of software developers (actual human beings - not AI) talking about some of the most interesting challenges they’ve faced in their careers. We aim to explore the conditions that gave rise to each person’s technical hurdles, as well as how their experiences transformed their understanding and approach to building systems. \n\nWhether you’re a seasoned open source data streaming engineer, or just someone who’s interested in learning more about Apache Kafka®,  Apache Flink® and real-time data, we hope you’ll appreciate the stories, the discussion, and our effort to bring you a high-quality show worth your time.\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#confluentdeveloper #podcast #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "G-V44GAzrDE",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
