@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-24T07:10:37.794779+00:00",
+  "window": {
+    "since": "2026-06-23T07:10:37.794779+00:00",
+    "until": "2026-06-24T07:10:37.794779+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:8CxGbX3Fezo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours at Iceland's Most Famous Waterfall",
+      "url": "https://www.youtube.com/watch?v=8CxGbX3Fezo",
+      "published_at": "2026-06-23T15:30:14+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Iceland has some pretty famous waterfalls, from Þórufoss and Skógafoss in Game of Thrones, to Háifoss in Stranger Things, to Dettifoss in Prometheus, and more. However, probably the most-photographed one is Seljalandsfoss, partially because of its easy access from the Ring Road, and partially because of, uh, Justin Bieber's video for I'll Show You. That video is also a pretty good intro to the greatest hits of Iceland's south coast.\n\nAnyhoo, this episode finds me standing in front of Seljalandsfoss, taking your top-voted questions from https://pollgab.com/room/brento.\n\n00:00 Start\n02:01 Justin Case: Will AI-generated query tuning make junior DBAs obsolete in five years, or are we all overestimating it like we did with every other \"DBA killer\" tool?\n03:16 Jan de Graaf: We have an AG with 1 sync secondary. 1TB db. We would like to move to 3 new servers and thus an AG with 2 sync secondaries. Our company (of course) prefers low downtime (at most minutes). Can you give a starting advise? Perhaps a reference to a good guide?\n05:15 The Impostor: If you still Google basic syntax sometimes, are you underqualified? How do I explain myself during an interview?\n07:42 DBAInAction: Hi Brent, any thoughts on using MCP servers for DBA tasks? Do you see a benefit in building custom ones, or are there any MCP servers from Microsoft already out there for this purpose? Or is the whole idea just overkill? Appreciate any insights!\n08:56 Pete Not Peter: If Query Store forces a plan and performance improves, should I still investigate the root cause?\n10:08 Developer: A DBA is refusing to shrink a 2TB database because doing so is \"asking for corruption\". Is this true? I want to clean up and shrink this database before moving it to Azure MI so that I'm not over-paying.\n11:42 Peacekeeper: Any advice on performance testing changes to queries that use table-valued parameters? The execution plans only give cardinality, so I never know what a realistic test case looks like.",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "8CxGbX3Fezo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:TwV9nIAWPso",
+      "source_id": "seattle_data_guy",
+      "source_name": "Seattle Data Guy",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 4,
+      "title": "Your Data Pipeline Is Lying To You - 5 Ways Your Data Pipelines Fail Silently",
+      "url": "https://www.youtube.com/watch?v=TwV9nIAWPso",
+      "published_at": "2026-06-23T14:15:31+00:00",
+      "author": "Seattle Data Guy",
+      "summary": "It’s 4:57 PM on a Friday, and a junior analyst noticed something odd.\n\nThe numbers in this week’s dashboard looked exactly like last week’s.\n\nNot just similar.\n\nNot kind of close.\n\nIdentical.\n\nThe pipeline had been rerunning but the data hadn’t changed for seven days, and nobody had a clue(until the CFO notices on a Monday morning).\n\nOf course, maybe there is another story here about the fact that no one noticed that the data was stale, but let’s not get into that.\n\nOne of the challenges with data pipelines is that they can fail without anyone noticing.\n\nDashboards might only be looked at once a month.\n\nData can “look” right.\n\nPipelines can run without triggering any failure or red flag.\n\nAnd what’s worse is that it can happen in multiple ways. In this article, I wanted to discuss the ways pipelines can fail silently and what you can do about it.\n\nIf you enjoyed this video, check out some of my other top videos.\n\n\nCommon Data Pipeline Patterns You’ll See in the Real World - Types Of Data Pipelines You'll Build\nhttps://youtu.be/htAipJ6yYFs\n\nWhat Is BigQuery - Breaking Down What BigQuery Is And Diving Into A Hands On Walkthrough\nhttps://youtu.be/pud-vuNE15g\n\nIf you're looking for help ingesting your data in batch or real time, then you need to check out Estuary - https://bit.ly/4eQC3oQ\n\nIf you'd like to read up on my updates about the data field, then you can sign up for our newsletter here.\n\nhttps://seattledataguy.substack.com/​​\n\nOr check out my blog\nhttps://www.theseattledataguy.com/\n\nAnd if you want to support the channel, then you can become a paid member of my newsletter\nhttps://seattledataguy.substack.com/subscribe\n\n\nTags: Data engineering projects, Data engineer project ideas, data project sources, data analytics project sources, data project portfolio\n\n_____________________________________________________________\nSubscribe: https://www.youtube.com/channel/UCmLGJ3VYBcfRaWbP6JLJcpA?sub_confirmation=1\n_____________________________________________________________\nAbout me:\nI  have spent my career focused on all forms of data. I have focused on developing algorithms to detect fraud, reduce patient readmission and redesign insurance provider policy to help reduce the overall cost of healthcare. I have also helped develop analytics for marketing and IT operations in order to optimize limited resources such as employees and budget. I privately consult on data science and engineering problems both solo as well as with a company called Acheron Analytics. I have experience both working hands-on with technical problems as well as helping leadership teams develop strategies to maximize their data.\n\n*I do participate in affiliate programs, if a link has an \"*\" by it, then I may receive a small portion of the proceeds at no extra cost to you.",
+      "duration_seconds": null,
+      "tags": [
+        "dbt",
+        "trino",
+        "airflow",
+        "consulting",
+        "career"
+      ],
+      "raw": {
+        "channel_id": "UCmLGJ3VYBcfRaWbP6JLJcpA",
+        "video_id": "TwV9nIAWPso",
+        "playlist_id": "UUmLGJ3VYBcfRaWbP6JLJcpA"
+      }
+    }
+  ]
+}
