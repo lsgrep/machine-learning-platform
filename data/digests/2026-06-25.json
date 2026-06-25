@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-25T07:10:47.328070+00:00",
+  "window": {
+    "since": "2026-06-24T07:10:47.328070+00:00",
+    "until": "2026-06-25T07:10:47.328070+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 3,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Iu6Ia2iFs-I",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Character.AI Cut Streaming Costs by 90%",
+      "url": "https://www.youtube.com/watch?v=Iu6Ia2iFs-I",
+      "published_at": "2026-06-24T21:03:31+00:00",
+      "author": "Confluent",
+      "summary": "An 85–90% cost reduction usually means losing features or adding headcount. Maor Bril breaks down how Character.AI got the savings without either trade-off. #datastreaming #ApacheKafka #WarpStream #ConfluentCloud #realtimedata\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "Iu6Ia2iFs-I",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:6gG6KGAAedk",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "WarpStream: The Most Boring Product Ever",
+      "url": "https://www.youtube.com/watch?v=6gG6KGAAedk",
+      "published_at": "2026-06-24T21:02:28+00:00",
+      "author": "Confluent",
+      "summary": "Character.AI's Maor Bril explains why \"boring\" is the highest praise you can give a data streaming platform—and how Managed Pipelines let a small team run all their data processing inside one system.\n\n#datastreaming #ApacheKafka #WarpStream #dataengineering #platformengineering\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "6gG6KGAAedk",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:aaXH2B0bNcE",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Boring by Design: Character.AI runs 5GBps on WarpSteam and saves 90% | Life Is But A Stream",
+      "url": "https://www.youtube.com/watch?v=aaXH2B0bNcE",
+      "published_at": "2026-06-24T15:30:25+00:00",
+      "author": "Confluent",
+      "summary": "What does it take to run real-time safety checks on every prompt sent to an AI companion platform serving 60 million monthly users? For Character.AI, the answer was rethinking the entire data pipeline—without rethinking the budget. By building on WarpStream's Kafka-compatible, bring-your-own-cloud architecture, the team found a way to process massive prompt and response payloads in near real time, at a fraction of the cost of traditional Kafka.\n\n\nIn this episode, Maor Bril, Chaos Catalyst & Technical Staff Member at Character.AI, joins Joseph Morais to break down how WarpStream's agent-based, object-storage-backed design let a small team capture full prompts and responses for safety classification and model A/B testing, route client and server events without added infrastructure, and even build a custom feature store with Bento-powered Managed Pipelines—all while running on otherwise idle GPU-node CPUs.\n\n\nYou'll Learn:\nHow a Kafka-compliant, BYOC architecture cut Character.AI's streaming costs by 85–90%\nWhy trading a few seconds of latency unlocked massive savings and simpler operations\nHow to repurpose idle GPU-node compute to run data pipelines at zero marginal cost\n\n\nAbout the Guest: \nMaor Bril is Chaos Catalyst & Technical Staff Member at Character.AI, where he has spent over two years leading infrastructure and product efforts beyond core one-on-one chat, including data pipelines, labs initiatives, and new product lines. He originally built much of Character.AI's data infrastructure and continues to work across platform, safety, and experimentation systems supporting the company's AI entertainment platform.\n\n\nGuest Highlight: \n\"WarpStream is the most boring product I've ever got to work with. In infra, that's the biggest compliment you can ever give someone. It just works.\"\n\n\nChapters:\n[00:11] Character.AI Intro \n[02:04] Data Streaming Goodness \n[18:22] Beyond the Stream\n[26:14] Quick Bytes\n[30:06] Joseph’s Top Takeaways\n\nGet Connected: \nConnect with Joseph: @TheDataGiant \nJoseph’s LinkedIn: http://linkedin.com/in/thedatagiant \nMaor’s LinkedIn: https://www.linkedin.com/in/maorbril/ \n\nOur Sponsor:  \nYour data shouldn’t be a problem to manage. It should be your superpower. The Confluent data streaming platform transforms organizations with trustworthy, real-time data that seamlessly spans your entire environment and powers innovation across every use case. Create smarter, deploy faster, and maximize efficiency with a true data streaming platform from the pioneers in data streaming. Learn more at confluent.io.\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "aaXH2B0bNcE",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    }
+  ]
+}
