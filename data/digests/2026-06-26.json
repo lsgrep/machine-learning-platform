@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-26T07:17:06.268453+00:00",
+  "window": {
+    "since": "2026-06-25T07:17:06.268453+00:00",
+    "until": "2026-06-26T07:17:06.268453+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:8YJa22DEchg",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Real-Time Context Engine for Fleet Management",
+      "url": "https://www.youtube.com/watch?v=8YJa22DEchg",
+      "published_at": "2026-06-25T21:00:58+00:00",
+      "author": "Confluent",
+      "summary": "Use Real-Time Context Engine and Claude, or any MCP-compatible client, to explore operational data using natural language in real time.\n\nThat includes everything from simple lookups to multi-step investigative questions like:\n• “Which drivers had delayed deliveries in Chicago today?”\n• “Show me all damaged shipments signed for by John in the last 24 hours.”\n• “Which warehouse is generating the highest number of failed scans this week?”\n• “Find customers whose orders were delayed more than twice this month.”\n• “I got a delivery but the package was damaged. The signer was John. Who was the driver and how do I contact their depot manager?”\n\nConfluent’s Real-Time Context Engine gives AI agents live access to operational context as events happen across the business. Instead of relying on stale snapshots, agents can query and reason over continuously updated tables in real time.\n\nIt creates a live portal into what’s happening across your business the moment data is generated enabling real-time investigation, support, operations, analytics, and automation directly from natural language.\n\nLearn more: \nDocs: https://docs.confluent.io/cloud/current/ai/real-time-context-engine/overview.html\nBlog: https://www.confluent.io/blog/introducing-real-time-context-engine-ai/\nWebpage: https://www.confluent.io/product/real-time-context-engine/\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "8YJa22DEchg",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:TYnXqVrVz8k",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Pandas vs PySpark vs Polars: The DataFrame Explained Visually",
+      "url": "https://www.youtube.com/watch?v=TYnXqVrVz8k",
+      "published_at": "2026-06-25T16:56:53+00:00",
+      "author": "Data with Baraa",
+      "summary": "Understand the DataFrame, the one concept behind Pandas, PySpark, and Polars in Python.\n\n► DataCamp | Data Manipulation in Python https://datacamp.pxf.io/AgRzJx\n► DataCamp | Big Data with PySpark https://datacamp.pxf.io/k4JnBn\n► DataCamp | Introduction to Polars https://datacamp.pxf.io/gRazzO\n► DataCamp | Introduction to Polars https://datacamp.pxf.io/R02xxa\n\n► https://youtu.be/9GVqKuTVANE\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Introduction\n0:34 From single values to data structures\n4:43 The DataFrame: your table in memory\n5:50 Data engineering and analytics (ETL)\n7:55 Datacamp\n11:41 Pandas: one machine, runs instantly\n12:45 PySpark: many machines, lazy\n14:29 Polars: the best of both worlds\n15:57 Recap\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#python #pandas #pyspark #polars #dataengineering",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "TYnXqVrVz8k",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
