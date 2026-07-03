@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-03T08:53:32.618553+00:00",
+  "window": {
+    "since": "2026-07-02T08:53:32.618553+00:00",
+    "until": "2026-07-03T08:53:32.618553+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:HS-zCOCOqCs",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Introduction to Redpanda APIs",
+      "url": "https://www.youtube.com/watch?v=HS-zCOCOqCs",
+      "published_at": "2026-07-02T20:06:04+00:00",
+      "author": "Redpanda Data",
+      "summary": "Explore Redpanda’s API landscape: When to use each API, how APIs compare to the rpk CLI, and best practices for evolving from manual operations to automated workflows. Redpanda’s APIs help customers integrate Redpanda into larger systems and enterprise processes. Hear how to programmatically provision topics and scale shared clusters across multiple business units.\n\nLinks: \nhttps://docs.redpanda.com/api/",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "HS-zCOCOqCs",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:3pKnGPTNqxU",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Options for Redpanda Migration",
+      "url": "https://www.youtube.com/watch?v=3pKnGPTNqxU",
+      "published_at": "2026-07-02T19:46:07+00:00",
+      "author": "Redpanda Data",
+      "summary": "Are you migrating to Redpanda from other data streaming solutions like MSK or Confluent? Redpanda is fully compatible with Kafka APIs, and Redpanda Migrator can help you get onboard quickly. In this video we walk through options to get migrated to Redpanda and share how Redpanda Migrator works. \n\nThe redpanda_migrator input connects to the source Kafka cluster and Schema Registry to consume messages and schema information. The redpanda_migrator output handles all migration logic. If new topics are created in the source cluster while the migrator is running, they are migrated when messages are written to them.\n\nLinks: \nhttps://docs.redpanda.com/cloud-data-platform/develop/connect/cookbooks/redpanda_migrator/\nhttps://docs.redpanda.com/labs/docker-compose/redpanda-migrator/",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "3pKnGPTNqxU",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:lcHuKewJRjU",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Databricks AI Genie Code for Data Analytics (DataCamp Live)",
+      "url": "https://www.youtube.com/watch?v=lcHuKewJRjU",
+      "published_at": "2026-07-02T12:19:50+00:00",
+      "author": "Data with Baraa",
+      "summary": "In this video, I show you quickly how to analyse your data using AI in databricks.\n\n► DataCamp | Data Analyst in Databricks https://datacamp.pxf.io/gRJYLg\n► Get 25% OFF DataCamp's Here https://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Introduction\n1:57 What is Databricks (and the free edition)\n2:57 Getting your data in\n8:11 Exploring data with SQL\n10:46 Genie: chat with your data\n13:05 Chat mode vs agent mode\n18:16 Where AI silently fails\n21:03 Dashboards in Databricks\n24:54 Building a dashboard with AI\n37:13 Why Databricks (Spark and one platform)\n42:32 Wrap-up\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#python #pandas #pyspark #polars #dataengineeringenie",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "lcHuKewJRjU",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
