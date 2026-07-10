@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-10T09:23:21.046335+00:00",
+  "window": {
+    "since": "2026-07-09T09:23:21.046335+00:00",
+    "until": "2026-07-10T09:23:21.046335+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:4JfTJiceDWM",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Thousands of Migrations, Zero Data Loss: OCBC's Confluent Playbook | Life Is But A Stream",
+      "url": "https://www.youtube.com/watch?v=4JfTJiceDWM",
+      "published_at": "2026-07-09T15:18:28+00:00",
+      "author": "Confluent",
+      "summary": "Migrating an entire bank's infrastructure without losing a single transaction sounds impossible. Yet, OCBC successfully modernized  their event-driven architecture across Singapore, Malaysia, and Hong Kong with zero data loss.\n\nIn this episode, George Goh (Executive Director at OCBC) joins Joseph Morais and Sami Amed (Staff Solutions Engineer at Confluent) to pull back the curtain on a massive data streaming migration, how the team executed a flawless migration of thousands of producers and consumers in a single weekend. \n\nGeorge discusses how OCBC built a resilient, multi-region data streaming platform that maintains performance even during data center failures, all while meeting strict regulatory requirements in one of the world's top financial hubs.\n\nYou'll Learn:\n- How OCBC moved thousands of microservices with zero data loss in six hours\n- Why stretched clusters and capacity planning are critical for disaster recovery\n- How monitoring and developer experience drive platform adoption at scale\n- From capacity planning for disaster recovery to developer experience improvements, this conversation reveals the architectural decisions, operational discipline, and partnership that made zero data loss possible at enterprise scale.\n\nAbout the Guest: \nGeorge Goh leads the Cloud Middleware Engineering and Services team at OCBC Group, which provides OpenShift, Apache Kafka®, and Redis across all locations where the bank operates. Previously serving senior services and consulting roles at Red Hat and VMware, he now relishes the added challenge of defining technologies within the bank and building talented teams to run them.\n\nGuest Highlight: \n\"We moved thousands of microservices over from the old platform to the new platform over the course of maybe 12 hours over a weekend. We got Singapore, Malaysia, Hong Kong, everybody on board and moved at the same time with zero data loss.\"\n\n\"It was done in six hours, but it took six months to plan.\"\n\n\"I was focused on a three letter word, BIM—benchmarks, integration and migration. I was saying that three times a day, three days a week until everybody knew what I was talking about.\"\n\nEpisode Timestamps: \n[01:41] Why Singapore Is a Global Finance Hub\n[03:47] Segment 1: Data Streaming Goodness \n[05:09] Building a Resilient Multi-Site Architecture\n[06:59] The Reality of Migration Planning\n[09:49] Capacity Benchmarks & Day Two Operations\n[12:33] The Shift from Buy to Build\n[19:20] Scaling Adoption Across the Organization\n[21:50] Beyond the Stream: Monitoring, Troubleshooting & Observability\n[25:43] The Impact: Thousands Migrated Overnight\n[28:00] Best Practices & High Availability\n[30:58] Future Vision: Less Overhead, More Innovation\n[33:37] Quick Bytes\n[35:24] Joseph’s Top 3 Takeaways\n\nLinks & Resources: \nConnect with Joseph: @thedatagiant\nJoseph’s LinkedIn: linkedin.com/in/thedatagiant\nGeorge’s LinkedIn: linkedin.com/in/georgegoh\nLearn more at https://www.confluent.io/life-is-but-a-stream-show/?utm_source=youtube&utm_medium=video&utm_id=tm.content_life-is-but-a-stream-busie\n\n\nOur Sponsor:  \nYour data shouldn’t be a problem to manage. It should be your superpower. The Confluent data streaming platform transforms organizations with trustworthy, real-time data that seamlessly spans your entire environment and powers innovation across every use case. Create smarter, deploy faster, and maximize efficiency with a true data streaming platform from the pioneers in data streaming. Learn more at confluent.io.\n\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "4JfTJiceDWM",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    }
+  ]
+}
