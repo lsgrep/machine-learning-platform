@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-15T07:55:31.359279+00:00",
+  "window": {
+    "since": "2026-07-14T07:55:31.359279+00:00",
+    "until": "2026-07-15T07:55:31.359279+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:7h7ciBkhSQ8",
+      "source_id": "jon_gjengset",
+      "source_name": "Jon Gjengset",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 1,
+      "title": "Open source maintenance",
+      "url": "https://www.youtube.com/watch?v=7h7ciBkhSQ8",
+      "published_at": "2026-07-14T16:59:32+00:00",
+      "author": "Jon Gjengset",
+      "summary": "We haven't done an open source maintenance stream in a while, and by now I have a few open open-source issues and pull requests I'm behind on, so let's rectify that! These span projects like concurrency primitives, data structures, and performance debugging tools, so I think it'll expose you both to some interesting Rust code, and to broader open-source maintenance topics.",
+      "duration_seconds": null,
+      "tags": [
+        "rust",
+        "hashmap",
+        "tcp",
+        "data-structures",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UC_iD0xppBwwsrM9DegC5cQQ",
+        "video_id": "7h7ciBkhSQ8",
+        "playlist_id": "UU_iD0xppBwwsrM9DegC5cQQ"
+      }
+    },
+    {
+      "id": "yt:qiW8AxopbMk",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "SQL Server Performance Office Hours Episode 73",
+      "url": "https://www.youtube.com/watch?v=qiW8AxopbMk",
+      "published_at": "2026-07-14T16:00:15+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I dive into a series of user-submitted questions during my office hours session. We covered topics ranging from SQL Server performance monitoring and query tuning to blocking issues when querying DMVs and advice for developers testing queries locally versus in production environments. The discussion delved deep into the nuances of parameter sniffing, parallelism weights, and how to minimize blocking without changing isolation levels. I also shared my free open-source tools like Performance Studio, which can help with actual execution plan collection and query tuning advice, and encouraged viewers to explore these resources for more detailed insights.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:02:34 - Understanding Query Performance\n00:09:01 - Optimizing Modification Queries\n00:11:46 - Testing and Development Environments\n00:15:02 - Conclusion\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🕵️‍♂️ FREE SQL SERVER MONITORING & Plan Analysis\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nhttps://github.com/erikdarlingdata/PerformanceMonitor\n\nhttps://github.com/erikdarlingdata/PerformanceStudio\n\nhttps://plans.erikdarling.com/\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n📚 TRAINING & COURSES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nGet AI-Ready With Erik\nhttps://training.erikdarling.com/get-ai-ready-with-erik?coupon=AIREADY\n\nSQL Server Performance Engineering Course\nhttps://training.erikdarling.com/sql-server-performance-engineering?coupon=ENGINEERING\n\nLearn T-SQL with Erik\nhttps://training.erikdarling.com/learn-t-sql-with-erik?coupon=ADVANCEDTSQL\n\nEverything Bundle:\nhttps://training.erikdarling.com/?coupon=SPRINGCLEANING\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛠️ CONSULTING & SERVICES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNeed SQL Server performance help?\nhttps://training.erikdarling.com/sqlconsulting\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n💬 CONNECT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAsk questions at Office Hours\nhttps://erikdarling.com/officehours/\n\nBecome a channel member\nhttps://www.youtube.com/@ErikDarlingData/join",
+      "duration_seconds": null,
+      "tags": [
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "qiW8AxopbMk",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    }
+  ]
+}
