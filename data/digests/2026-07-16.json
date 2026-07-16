@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-16T08:01:14.681237+00:00",
+  "window": {
+    "since": "2026-07-15T08:01:14.681237+00:00",
+    "until": "2026-07-16T08:01:14.681237+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 4,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:MQqV-v5HqaU",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Omnigent: Composition, Control, and Collaboration for AI Agents",
+      "url": "https://www.youtube.com/watch?v=MQqV-v5HqaU",
+      "published_at": "2026-07-15T15:00:05+00:00",
+      "author": "MLOps.community",
+      "summary": "Denny Lee is PM Director, Startups & Ecosystem at Databricks, a longtime Apache Spark, MLflow, and Delta Lake contributor — and one of the people behind Omnigent, the open-source meta-harness Databricks just released under Apache 2.0. He joins Demetrios to explain why the industry is moving from models to harnesses to meta-harnesses, why token spend is replaying the CapEx-to-OpEx shift all over again, and why he's using debating AI agents to plan a matcha farm in Taiwan.\n\nIn this episode:\n\n🍵 Agents as research partners — Denny uses dueling agents to scout matcha-growing regions in Taiwan, down to soil pH, elevation, and processing infrastructure\n\n🥊 Why agents should debate each other — letting two models argue surfaces the questions you didn't know to ask\n\n🔱 Forking conversations — the missing UX pattern: branch a session, keep the shared context, explore two threads in parallel\n\n🧠 The meta-harness layer — how Omnigent sits above Claude Code, Codex, Pi, and custom agents so models and harnesses become hot-swappable parts\n\n👥 The two-pizza rule for agents — military span-of-control logic says you can manage 5–7 agents before you lose the thread\n\n💸 Tokenomics is the new DevOps — the CapEx→OpEx playbook repeats: give developers spend visibility, keep central governance for the rest\n\n🛡️ Policies, budgets, and guardrails — enforcing cost caps and approval rules at the harness layer instead of inside prompts\n\n🤖 Auto model selection — why classic machine learning (not another LLM) may be the right way to route tasks to cheap vs. frontier models\n\n✍️ \"Created by\" vs. \"assisted by\" — the open source accountability debate: whoever submits the code owns the code\n\n🗄️ Databases are back — agents need cheap, stateful memory, which is why Postgres, Lakebase, and serverless databases are having a moment\n\nIf you're building with coding agents, managing AI spend, or trying to keep up with the harness arms race, this one's for you.\n\nLinks & Resources:\n\nOmnigent (open source): https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents\nOmnigent GitHub: https://github.com/databricks/omnigent\nDenny Lee on LinkedIn: https://www.linkedin.com/in/dennyglee\nDenny's blog: https://dennyglee.com\nTokenomics Foundation announcement: https://www.finops.org/insights/finops-x-2026-day-1-keynote/\n\n\nTimestamps \n[00:00] SOA to LLMOps Transition\n[01:06] Agentic Research Workflow\n[10:45] Agent Debate for Execution\n[13:53] Agentic Footnote Concept\n[24:41] Harnesses in Agent Systems\n[32:43] Harnessing Multi-Layered Agents\n[38:06] Token Spending Awareness\n[41:01] Token Spend Efficiency\n[43:53] Model Selection Frustration\n[51:06] Meta Harness in AI\n[53:15] Harness Layers Model\n[57:17] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "MQqV-v5HqaU",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:2d7IJ5Cc6LQ",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Is Your Data Architecture Actually Resilient?",
+      "url": "https://www.youtube.com/watch?v=2d7IJ5Cc6LQ",
+      "published_at": "2026-07-15T14:00:27+00:00",
+      "author": "Confluent",
+      "summary": "Your capacity management has to go beyond ideal scenarios. It isn’t just about handling peak traffic, it’s about the failover and the failback. OCBC's George Goh explains why continuous monitoring is the only way to ensure your system is ready for the unexpected tomorrow.\n\n#datastreaming #ApacheKafka #disasterrecovery #platformengineering #monitoring",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "2d7IJ5Cc6LQ",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:pQSMbRA3O6g",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Data Modeling in Power BI Full Course for Beginners (5 Hours) – From Zero to Hero",
+      "url": "https://www.youtube.com/watch?v=pQSMbRA3O6g",
+      "published_at": "2026-07-15T12:40:11+00:00",
+      "author": "Data with Baraa",
+      "summary": "This is the complete data modeling course for Power BI. Over 5 hours, from fact and dimension tables and the star schema, all the way to a full hands-on project where I rebuild a messy 23-table model into a clean one. The best part? It is 100% free.\n\n*Want More?* 👇\n- *Free Power BI materials* https://academy.datawithbaraa.com/l/digital_download/955781/power-bi-course-materials\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n\n*CHAPTER 1: Why Data Modeling*\n0:00 Why Data Modeling Matters\n11:45 What Is Data Modeling\n\n*CHAPTER 2: Tables & Schemas*\n14:50 Fact & Dimension Tables\n18:45 Star, Snowflake & Galaxy Schemas\n27:42 Model Layer vs Visual Layer\n\n*CHAPTER 3: Relationships*\n29:50 Merge vs Relationship\n32:49 Cardinality\n35:39 Filter Direction\n37:57 Building Relationships in Power BI\n56:38 Active vs Inactive Relationships\n1:02:47 One-to-One Relationships\n\n*CHAPTER 4: Special Dimensions*\n1:07:37 Dimensions Hidden in Facts\n1:15:46 Junk Dimension\n1:20:00 Role-Playing Dimensions\n\n*CHAPTER 5: Fact Tables*\n1:34:31 Grain of a Fact Table\n1:41:28 Multiple Fact Tables\n1:55:13 Bridge & Shared Dimension\n\n*CHAPTER 6: Row-Level Security*\n2:08:58 Row-Level Security (RLS)\n\n*CHAPTER 7: The Nightmare Project (Hands-On)*\n2:40:08 Exploring the Mess\n2:59:16 Building the Dimensions\n3:33:39 Building the Sales Fact\n3:58:52 More Facts & Dimensions\n4:20:41 Special Fact Types\n4:37:47 Polishing & Measures\n\n*CHAPTER 8: Recap*\n5:07:04 Golden Rules Recap\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #datamodeling #dataanalyst #starschema #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "pQSMbRA3O6g",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:WIKGIbXQhmU",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Genie Code - Unleashing Agent Mode!",
+      "url": "https://www.youtube.com/watch?v=WIKGIbXQhmU",
+      "published_at": "2026-07-15T12:20:27+00:00",
+      "author": "Advancing Analytics",
+      "summary": "With Claude-esque skills and instructions, Databricks have repackaged Databricks Assistant to Genie Code, and it's now way more powerful than it used to be - with way more capability and potential.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "WIKGIbXQhmU",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
