@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-21T08:13:38.713313+00:00",
+  "window": {
+    "since": "2026-07-20T08:13:38.713313+00:00",
+    "until": "2026-07-21T08:13:38.713313+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:31IS2mnRV6Q",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Sandboxing, Agent Harnesses, and Agent Teamwork",
+      "url": "https://www.youtube.com/watch?v=31IS2mnRV6Q",
+      "published_at": "2026-07-20T15:00:05+00:00",
+      "author": "MLOps.community",
+      "summary": "Shahram Anver is the Co-Founder and CEO of Cleric, the autonomous AI SRE that investigates and root-causes production issues like an experienced teammate — often in under two minutes. Before Cleric, Shahram led MLOps, DevOps, and FinOps platform engineering at Gojek, Southeast Asia's super-app. In this conversation, he breaks down why production operations never kept pace with AI-accelerated development, and why the real unlock for an AI SRE isn't faster triage — it's an agent that *learns* and compounds operational memory across your whole org.\n\nIn this episode:\n🔧 The on-call problem — Why one broken service still drags ten engineers onto a call, and how AI changes that\n🤖 What an AI SRE actually is — How Cleric investigates across your existing observability stack instead of adding another tool\n🧠 Learning over MTTR — Why Shahram argues the value isn't alert triage, it's an agent that gets better every investigation\n🪜 Ramping like a new engineer — Explore the environment, learn from the work, talk to the team\n🔁 The investigate–measure–learn loop — Turning what worked on one incident into context for the next\n🕸️ Knowledge graphs & operational memory — Mapping teams, clusters, and dependencies so insight from one team helps another\n⚡ Under two minutes to root cause — What \"fast\" really requires in a live production environment\n🚀 The road to autonomy — From assisted investigation toward self-healing infrastructure\n\n\nIf you're an SRE, platform engineer, DevOps lead, or anyone building or buying AI agents for production, this one's for you.\n\n\n🔗 Links & Resources\nCleric: https://cleric.ai\nShahram on LinkedIn: https://www.linkedin.com/in/shahramanver/\nWillem Pienaar (Co-Founder/CTO): https://www.linkedin.com/in/willempienaar/\nCleric launches the first self-learning AI SRE: https://cleric.ai/blog/cleric-launches-the-first-self-learning-ai-sre\nMLOps Community: https://mlops.community\nJoin the community: https://go.mlops.community/slack\n\n\n⏱️ Timestamps\n[00:00] Tech Jargon Confusion\n[00:27] Harness vs Model\n[08:48] Model Evolution in Cleric\n[13:36] Sandboxing and Simulated Environments\n[20:40] Shifting AI Perceptions\n[24:10] Managing Humans vs Agents\n[31:32] Steering Parallel Agents\n[34:16] Human Decision Integration in Models\n[43:28] 80/20 Data Split\n[49:40] Becoming a Skill\n[53:35] 2027 Agent Autonomy\n[59:14] Agent Learning in Production\n[1:04:31] Software as Personal Capabilities\n[1:08:31] Vibe Coding vs Durability\n[1:18:23] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "31IS2mnRV6Q",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:7a_PLwZQCcI",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Ep 3: All about Lakehouse//RT and LTAP | Peter Sach",
+      "url": "https://www.youtube.com/watch?v=7a_PLwZQCcI",
+      "published_at": "2026-07-20T14:23:16+00:00",
+      "author": "Advancing Analytics",
+      "summary": "In the hotseat this week is Peter Sach, who joins our host, Paul McComish, in chatting about Lakehouse//RT and LTAP - two big announcements from Databricks Data + AI Summit. What are they? How do the two integrate with Reyden and the wider Databricks ecosphere? And how could they impact you?",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "7a_PLwZQCcI",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
