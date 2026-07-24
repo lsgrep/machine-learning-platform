@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-24T08:13:28.869625+00:00",
+  "window": {
+    "since": "2026-07-23T08:13:28.869625+00:00",
+    "until": "2026-07-24T08:13:28.869625+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:o4_sy52F2YQ",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Pandas vs PySpark vs Polars in 50 Seconds",
+      "url": "https://www.youtube.com/watch?v=o4_sy52F2YQ",
+      "published_at": "2026-07-23T16:15:43+00:00",
+      "author": "Data with Baraa",
+      "summary": "Pandas, PySpark, Polars: one machine vs many machines, eager vs lazy. The whole DataFrame map in 50 seconds.\n\n▶ Full DataFrame breakdown: https://www.youtube.com/watch?v=TYnXqVrVz8k\n\n#python #pandas #pyspark #polars #dataengineering",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "o4_sy52F2YQ",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:LuE1YptpfXs",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Coding Agents Are Secretly General Agents",
+      "url": "https://www.youtube.com/watch?v=LuE1YptpfXs",
+      "published_at": "2026-07-23T15:00:05+00:00",
+      "author": "MLOps.community",
+      "summary": "In this episode:\n\n🧠 Coding agents are generalist agents — why \"positive transfer\" means an agent that's better at code is better at everything, and how that makes them \"AGI-complete\"\n\n⏳ \"Code will be solved in a year\" — what the automation of knowledge work actually looks like, and why Jay joined ClickUp to be on it\n\n🏗️ Why the labs are crushing AI startups — free-for-two-years deals, Windsurf losing Claude access, and the brutal economics of building on top of frontier models\n\n🔗 The real moat is convergence — context, surfaces, and unit economics, a.k.a. \"Cursor for your whole job\"\n\n💬 Slack's data walls & the Glean problem — why fragmentation is the enemy and a single system of record wins\n\n🧪 RLVR & verifiability — why code became the perfect training ground for agents, and how to tell if you're even getting better\n\n🔬 LLMs are running the frontier of science — Putnam 12/12, Erdős problems, simulating a cell, and vibe-writing economics papers\n\n🚗 The car wash test that still breaks GPT-5 — spiky models, world models, Plato's cave, and the \"stochastic parrot\" debate\n\n🏖️ Plus: mechanistic interpretability as \"brain surgery,\" catastrophic forgetting, the danger of deleting knowledge from models, and a pitch for a \"resort for LLMs\"\n\nWhether you're building agents, leading an AI team, or just trying to figure out what \"agentic\" really means for everyday work — this one's a fun, deep ride.\n\n🔗 Links & Resources\n\nJay Hack: linkedin.com/in/jayhack\n\nClickUp: clickup.com\n\nMLOps Community: go.mlops.community\n\nMentioned: Gödel, Escher, Bach (Douglas Hofstadter) · \"Machine Learning: The High-Interest Credit Card of Technical Debt\" (Sculley et al.) · Periodic Labs · Ginkgo Bioworks · Physical Intelligence\n\n⏱️ Timestamps\n[00:00] AI Timeline\n[00:22] AI Startups and Timing\n[06:30] GPT-3 Impact\n[13:24] Selling CodeGen to ClickUp\n[19:31] AI Interaction Patterns\n[28:41] Slack and AI Agents\n[36:11] ClickUp Task Automation\n[41:32] AI in Scientific Research\n[48:48] Human Understanding vs AI\n[54:18] Catastrophic Forgetting Explained\n[59:59] AI Delegating to Humans\n[1:05:00] Agent-Based Game Integration\n[1:08:42] LLM vs Game Design\n[1:11:27] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "LuE1YptpfXs",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:FA0TOfmVqII",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Ep 4: All About Genie ZeroOps | George Dutton",
+      "url": "https://www.youtube.com/watch?v=FA0TOfmVqII",
+      "published_at": "2026-07-23T09:23:14+00:00",
+      "author": "Advancing Analytics",
+      "summary": "In the hotseat this week is George Dutton, here to chat about Genie ZeroOps, Databricks' new autonomous background agent for data and AI operations. Is this the beginning of the end for Monday morning firefighting? With host Paul McComish, they dig into how Genie ZeroOps detects, diagnoses and fixes broken pipelines before they hit production, and why sandboxed testing is key to earning engineers' trust.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "FA0TOfmVqII",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
