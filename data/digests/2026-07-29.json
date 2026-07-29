@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-29T08:28:14.040091+00:00",
+  "window": {
+    "since": "2026-07-28T08:28:14.040091+00:00",
+    "until": "2026-07-29T08:28:14.040091+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 4,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:lnVzyZy0Pvg",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Making Great Bets: How Extend Built a Serverless, Event-Driven Foundation with Confluent",
+      "url": "https://www.youtube.com/watch?v=lnVzyZy0Pvg",
+      "published_at": "2026-07-28T20:32:50+00:00",
+      "author": "Confluent",
+      "summary": "Every architecture decision is a bet. Extend, the AI-native commerce platform unifying delivery, returns, exchanges, and warranty claims, made theirs early: 100% serverless, 100% infrastructure as code, and fully event-driven from day one. Those foundational bets now give the company something rare—the space to think about the future of its business instead of maintaining systems.\n\nIn this episode, Jonathan Kropp, Director of AI & Architecture at Extend, joins Joseph to trace the journey from cloud-native queues to Apache Kafka® on Confluent Cloud. He explains why the lack of persistence, schema enforcement, and replayability in traditional queuing services became a bottleneck, how event source mapping connects Confluent Cloud to their Lambda-based compute layer, and how a serverless stack lets Extend tie every revenue-generating event directly back to technology spend.\n\nYou'll Learn:\n• How an immutable, replayable event log unlocks future use cases like fraud signals and model training\n• Why schema enforcement earlier in the process stabilizes downstream services at scale\n• How offloading Kafka operations to Confluent Cloud keeps engineers focused on business value, not infrastructure\n\nAbout the Guest: \nJonathan Kropp is the Director of AI & Architecture at Extend, where he drives the technical vision and strategy behind a fully serverless, infrastructure-as-code, and test-automated platform. With over a decade of experience in software architecture, cloud computing, and event-driven systems, Jonathan specializes in designing scalable, high-performance solutions that empower developers and accelerate innovation. He leads a team of senior engineers and architects, fostering a culture of technical excellence and developer-first principles, and collaborates closely with executives to align technology with business objectives.\n\nGuest Highlight: \n\"We've made a lot of great bets on our foundations, which has then given us that space to think about the future of our business, future of our platform, and the future of engineering. All of those great bets, Confluent being one of them, has allowed us the space to think about the future.\"\n\nEpisode Timestamps: \n[00:52] Meet Extend: The Mission\n[05:29] Data Streaming Goodness: Inside the Event-Driven Platform\n[06:43] Serverless Strategy & Cost Visibility\n[09:36] Why AWS Queues Hit Their Limits\n[16:44] Beyond the Stream: Kafka as the Central Nervous System\n[34:58] Quick Bytes\n[37:56] Joseph’s Top 3 Takeaways\n\nDive Deeper into Data Streaming:\n• EP1—Stream On: Unleashing Innovation With Data Streaming | Life Is But A Stream\nhttps://www.youtube.com/watch?v=Y-J_J75H0MU&list=PLa7VYi0yPIH3wco45McahhtoUur6r2KUQ&index=5\n\n• EP2—Processing Without Pause: Continuous Stream Processing and Apache Flink® | Life Is But A Stream\nyoutube.com/watch?v=fxrcg9vNOfM&list=PLa7VYi0yPIH3wco45McahhtoUur6r2KUQ&index=3&pp=gAQBiAQB\n\n• EP3—The Connective Tissue: Shift Left to Turn Data Chaos to Clarity | Life Is But A Stream\nhttps://www.youtube.com/watch?v=gDl2-DEuKkk&list=PLa7VYi0yPIH3wco45McahhtoUur6r2KUQ&index=3\n\nLinks & Resources: \n• Connect with Joseph: @thedatagiant\n• Joseph’s LinkedIn: http://linkedin.com/in/thedatagiant \n• Jonathan’s LinkedIn: https://www.linkedin.com/in/jonathan-kropp-3301b955/\n• Learn more at https://www.confluent.io/\n\nOur Sponsor:  \nYour data shouldn’t be a problem to manage. It should be your superpower. The Confluent data streaming platform transforms organizations with trustworthy, real-time data that seamlessly spans your entire environment and powers innovation across every use case. Create smarter, deploy faster, and maximize efficiency with a true data streaming platform from the pioneers in data streaming. Learn more at confluent.io.",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "lnVzyZy0Pvg",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:iVtcsrbwmxk",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Data & AI Weekly | Ep. 3 | FDEs vs. In-House Teams: Who Owns What?",
+      "url": "https://www.youtube.com/watch?v=iVtcsrbwmxk",
+      "published_at": "2026-07-28T18:50:42+00:00",
+      "author": "Redpanda Data",
+      "summary": "Forward deployed engineers (FDEs) sit at the intersection of product, engineering, and the customer — but most organizations are still figuring out exactly where they belong and how they interact with in-house teams. As FDE teams become more common in infrastructure and data companies, the question of who owns what is getting harder to answer. In this episode, Redpanda CMO Melissa Czapiga sits down with a panel of founders and CTOs who've built, managed, and worked alongside FDE teams to unpack where forward deployed engineers add the most leverage, where in-house ownership is non-negotiable, and what it all means as AI agents enter the picture.",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "iVtcsrbwmxk",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:mdpxu6hj39E",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "SQL Server Performance Office Hours Episode 75",
+      "url": "https://www.youtube.com/watch?v=mdpxu6hj39E",
+      "published_at": "2026-07-28T16:00:21+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I dive into a lively office hours session where I answer your burning SQL Server questions live on air. Whether you're dealing with underpowered app servers, parameter sensitivity issues, or prioritizing tuning work when everything looks slow, we cover it all. If you have any pressing SQL Server concerns, make sure to ask them in the comments and share this video so others can benefit from my insights. Plus, I showcase my open-source performance monitoring tool, Darling Data Performance Monitor, which now supports up to 500 servers and offers a headless Windows service backed by a Postgres database for seamless monitoring. It's free, and you can find all the links in the video description, including discounts on my training and consulting services.\n\nCHAPTERS\n\n00:00:00 - Introduction to Query Tuning\n00:02:31 - Force Seek Hint for Index Usage\n00:05:49 - Prioritizing Tuning Work\n00:08:53 - Identifying Performance Issues with Wait Stats\n00:11:16 - Underestimating Row Counts in SQL Server\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🕵️‍♂️ FREE SQL SERVER MONITORING & Plan Analysis\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nhttps://github.com/erikdarlingdata/PerformanceMonitor\n\nhttps://github.com/erikdarlingdata/PerformanceStudio\n\nhttps://plans.erikdarling.com/\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n📚 TRAINING & COURSES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nGet AI-Ready With Erik\nhttps://training.erikdarling.com/get-ai-ready-with-erik?coupon=AIREADY\n\nSQL Server Performance Engineering Course\nhttps://training.erikdarling.com/sql-server-performance-engineering?coupon=ENGINEERING\n\nLearn T-SQL with Erik\nhttps://training.erikdarling.com/learn-t-sql-with-erik?coupon=ADVANCEDTSQL\n\nEverything Bundle:\nhttps://training.erikdarling.com/?coupon=SPRINGCLEANING\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛠️ CONSULTING & SERVICES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNeed SQL Server performance help?\nhttps://training.erikdarling.com/sqlconsulting\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n💬 CONNECT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAsk questions at Office Hours\nhttps://erikdarling.com/officehours/\n\nBecome a channel member\nhttps://www.youtube.com/@ErikDarlingData/join",
+      "duration_seconds": null,
+      "tags": [
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "mdpxu6hj39E",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:CFkTOJe5r4s",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Desert Database Q&A",
+      "url": "https://www.youtube.com/watch?v=CFkTOJe5r4s",
+      "published_at": "2026-07-28T15:30:23+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I'm in the Lake Mead National Recreation Area today, hanging out in the triple-digit heat, to answer your top-voted questions from https://pollgab.com/room/brento. Here's what we covered:\n\n00:00 Start\n01:25 SQLSerenader: We incurred an outage due to a poor plan that we couldn't flush from cache. The resolution was to disable Parameter Sensitive Plan Optimization on that database. Due to the shortcomings outlined in your PSPO article, should we disable this by default for all databases on SQL2022?\n03:05 Best of both worlds: How can I pass collections in from an application without either heavy parameter sensitivity on the collection's size or the \"option random recompile\" downside of temp tables? The only way that I've found is TVPs with dynamic SQL injecting comments based on the collection's size.\n04:40 MeName: I'm a DBA. My manager is technically competent but shouldn't be a manager. They're abrasive, disingenuous, spin their mistakes, holds grudges, hoards knowledge, won't approve training etc. Is this typical of tech managers, a tech culture issue, or found across all industries?\n06:44 Bifido: When configuring SQL Maxdop should you look at Total logical cores or only total physical cores? This is SQL on azure Windows VM.\n07:02 Jake: What are the consequences of having a table with too many columns? Is there a column count we should strive to stay under?\n09:10 Chris Stoll: As a dba(mostly performance tuning), how can I best use AI in my workflow? Are there any blogs/videos on dbas using ai that would be informative?\n10:23 Vinay: As a DBA, I'm facing reliability issues with SentryOne (false alerts, data gaps, and agent failures). What do you consider the best monitoring tool for SQL Server environments today? Can an AI-driven monitoring platform be built using SQL Server 2022 and modern AI capabilities?\n11:33 Miku: Does server memory size become less important to SQL Server, if storage is on NVME SSD's?\n12:30 EagerBeaver: Hi Brent, thanks a lot for all your free help.  Question - with DWH on separate server, what would be the best way to get data from multiple source databases from different server. Ideally not only once a day, but either continuously or in small chunks and from selected tables.\n13:30 Notorious B.I.G.: What issues / risks do you see with multi terabyte SQL Server VM databases? Does compression solve these issues?\n14:27 Sir Index Alot: Have you exposed SQL Server to AI via a model context protocol server?  What was your experience like?\n16:42 Bibi: When should you use plan guides vs query store force plans?\n17:30 Miku: What are the top SQL Server issues you run into with filter drivers?\n17:47 Make Backups Fun Again : Would you ever consider using FileTable over S3 type storage for a multi terabytes of documents and images?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "CFkTOJe5r4s",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
