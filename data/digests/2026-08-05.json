@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-05T08:25:01.676523+00:00",
+  "window": {
+    "since": "2026-08-04T08:25:01.676523+00:00",
+    "until": "2026-08-05T08:25:01.676523+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:P10sstJ4saA",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Data & AI Weekly | Ep. 4 | Navigating the EU AI Act",
+      "url": "https://www.youtube.com/watch?v=P10sstJ4saA",
+      "published_at": "2026-08-04T18:23:22+00:00",
+      "author": "Redpanda Data",
+      "summary": "What's being written into regulation today in Europe is already shaping what compliance looks like globally, and every engineering team building AI in production will eventually need to answer for it. In this episode, Redpanda CMO Melissa Czapiga with leaders in AI data governance and privacy to have the conversation legal and engineering teams should be having together — what the EU AI Act demands in practice, how to build AI systems that can stand up to regulatory scrutiny, and how to get ahead of the wave of governance requirements that's coming.",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "P10sstJ4saA",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:lDfhh7yJOGk",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Car in the House Edition",
+      "url": "https://www.youtube.com/watch?v=lDfhh7yJOGk",
+      "published_at": "2026-08-04T15:45:39+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Today I'm hanging out in the dining room, or what would normally be a dining room, but we use it to store a 1992 Honda Beat. I explain why, and then take your top-voted questions from https://pollgab.com/room/brento\n\n00:00 Start\n01:37 RollbackIsSingleThreaded: Hi Brent!\nThe editor says my articles are \"edge cases\" and prefers topics with mass appeal. I enjoy writing advanced SQL Server articles, such as \"Avoiding Plan Cache Bloat,\" rather than beginner articles like \"How to Download SSMS 22.\" How should I proceed?\n03:06 Rey Q&A: I recently watched one of your videos where you said that enabling in-memory OLTP on a database is a bad idea because it causes persistent performance issues. Does that mean that there's no practical use cases for the feature?\n04:42 retired dba: My last employer wanted to consolidate several vendor supplied db's under 1 server. My previous employers never did this (possible resource contention, security issues, upgrade issues, problem/bug reporting/resolution etc.).  What say you?\n06:02 Bibi: Do you think regular SQL Server will ever get the auto index tuning that Azure SQL DB has or is this feature more of an enticement to get users off traditional SQL Server and into Azure SQL DB?\n07:15 AllOnSSDs: Under what conditions, for a database on all SSDs, would you recommend reducing the fillfactor on an index?\n08:15 Logzilla: Our OLTP app runs on AWS RDS SQL Server Multi-AZ. Transactions take ~40 ms, but every 5 minutes latency spikes to nearly 1 second for all requests, apparently during log backups. How can we confirm the cause and reduce the impact?\n10:33 Serhat: Our dev team put too many NC indexes on a given table despite DBA warnings. Is there a good way to quantify the impact of too many NC indexes for a table?\n11:36 Lazarus: Do you see many clients with certs on their SQL Server? Is it really necessary behind the firewall?\n12:40 Sir Index Alot: What are your favorite use cases for Copilot in SSMS?\n14:19 Dopinder: Does upgrading from SQL standard edition to enterprise edition require a reinstallation?  Any risk in doing this?\n15:35 Bibi: What was your experience with natural language query for SQL Server back in the day?  How was it secured? Will we see it make a comeback now that AI is more mature?\n\nSchedule for 2026-08-06\n\nThink you know a lot about SQL Server? Play our new game \"Well, Actually...\" at BrentOzar.com/actually. That's BrentOzar.com/actually.",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "lDfhh7yJOGk",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
