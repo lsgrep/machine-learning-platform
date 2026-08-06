@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-06T08:22:38.090578+00:00",
+  "window": {
+    "since": "2026-08-05T08:22:38.090578+00:00",
+    "until": "2026-08-06T08:22:38.090578+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:nAnCu6s1Iyk",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Databricks for Data Analysts: Full Beginner Bootcamp (2 Hours)",
+      "url": "https://www.youtube.com/watch?v=nAnCu6s1Iyk",
+      "published_at": "2026-08-05T12:30:42+00:00",
+      "author": "Data with Baraa",
+      "summary": "In this live Databricks bootcamp, you will learn the fundamentals of Databricks and how it is used for modern data analytics in real companies. \n\n👉 Support my Channel by Sub/Like/Comment for More Content Like this https://www.youtube.com/@DataWithBaraa\n\n🎁 Bootcamp Free Resources: https://academy.datawithbaraa.com/l/pdp/databricks-live-bootcamp-free1\n\n━━━━━\n\n*MY COURSES*\nTo get certified, better clean structure & progress, support me:\n🏅SQL https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n🏅Tableau https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*MY UDEMY COURSES*\nSQL: https://bit.ly/4hH947P\nTableau: https://bit.ly/3xFiDDk\n\n━━━━━\n\n*CONNECT WITH ME*\n📬 Newsletter https://www.blog.datawithbaraa.com/subscribe\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🌍 Website https://www.datawithbaraa.com/\n💬 Discord https://discord.gg/gsVJbMxKcA\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n⭐ Favorite Books/Gear https://candle-gosling-511.notion.site/My-Favorite-Books-Gear-Apps-28334b251f1281e58a52cf7aa594e0e9?source=copy_link\n📩 Sponsorships baraa@datawithbaraa.com\n\n━━━━━\n\n*MY FREE COURSES*\n*SQL* https://youtu.be/SSKVgrwhzus\n*Python*  https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn\n*Tableau* https://youtu.be/UcGF09Awm4Y\n*Real World Data Projects* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZ4Ym8ZriYT6WF8TaC2e_R7\n*Data Career Roadmaps* https://www.youtube.com/playlist?list=PLNcg_FV9n7qah95jp-aPtysu7kFCbg7hd\n\n━━━━━\n\n📖 *Table of Content*\n0:00 Introduction\n8:24 Why Databricks exists\n16:56 What it fixes inside a company\n25:38 Databricks in a real project\n38:21 The free edition and the interface\n44:09 Parquet, Delta and open files\n45:46 Unity Catalog\n49:49 Clusters and the SQL warehouse\n56:57 Getting your data in\n1:11:45 The analytics maturity roadmap\n1:24:10 The four levels of a data analyst\n1:30:57 How an analyst actually works here\n1:41:53 Metadata is now AI fuel\n1:48:02 The SQL editor\n1:53:44 Dashboards in Databricks\n2:04:39 AI Genie\n2:18:49 Wrap up\n\n#databricks #databrickstutorial #dataanalyst #dataanalytics",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "nAnCu6s1Iyk",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
