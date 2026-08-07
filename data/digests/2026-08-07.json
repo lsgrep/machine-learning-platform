@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-07T07:03:59.354301+00:00",
+  "window": {
+    "since": "2026-08-06T07:03:59.354301+00:00",
+    "until": "2026-08-07T07:03:59.354301+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:WHZDr1NiwR4",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "Zomato SQL Interview Question | 23/100 SQL Interview Series #shorts",
+      "url": "https://www.youtube.com/watch?v=WHZDr1NiwR4",
+      "published_at": "2026-08-06T14:02:09+00:00",
+      "author": "E-Learning Bridge",
+      "summary": "🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#sql #skills #interview",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "WHZDr1NiwR4",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    }
+  ]
+}
