@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-12T07:14:20.760093+00:00",
+  "window": {
+    "since": "2026-08-11T07:14:20.760093+00:00",
+    "until": "2026-08-12T07:14:20.760093+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Yh1xwsLseYc",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours in Zhengzhou, China",
+      "url": "https://www.youtube.com/watch?v=Yh1xwsLseYc",
+      "published_at": "2026-08-11T21:50:24+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I'm back in Zhengzhou to go through your top-voted questions from https://pollgab.com/room/brento. Here's what we discussed, and then I got all philosophical at the end about AI:\n\n00:00 Start\n01:15 DBAInAction: Hi Brent, is running DBCC CHECKDB on a sync secondary in AG safe for a 25TB DB, or will it delay trans commits? We run on async now, but keep hitting tempdb full errors on full CHECKDB vs PHYSICAL_ONLY. Any recommendations for running integrity checks at this scale? Thank you!\n04:05 G Dog!: Any advice on DBAs laid off right now? How do we make sure we stand out and what can we potentially transition into or focus on learning to keep us resilient.\n05:43 chris: Hi Brent!  As a development DBA, how would you recommend I leverage AI to make myself more valuable to my employer?\n07:35 This question got me out of bed: What metric reveals that my user workloads are bottlenecked on tempdb? I already know that my tempdb latency is high, but I can't see that it is impacting users.\n09:21 Gary: What is your sense of how popular Dynamic Data Masking is across companies? Does it get good adoption or is it another dead feature?\n11:23 Bibi: What new stuff can we expect to see in the new Mastering Server Tuning class over the previous version?\n13:45 DBA: Been a DBA, fixing servers proactively for 10+ yrs. How to explain to my supervisors that I will be able to provide better value to the company if I move under BI team since I have experience with a proprietary ETL tool for healthcare which BI team uses, SSIS packages along? TY.\n15:56 Sir Index Alot: Have you used AI to build SSRS / Power BI reports? What was your experience like?\n17:35 Lazarus: Will we see a Brent Ozar chat bot that answers SQL DBA questions?\n19:20 Jersey: I found a very long running query on my SQL server using SP_WhoIsActive @get_plans = 1. The results from WhoIsActive did not include an execution plan the bad query but did for other queries that were running.  What does that mean?  (Query runtime: 30:14, CPU: 1,786,805, READS 4)\n20:23 Elwood Blues: Migrating from SQL 2019 Ent  single server to 3 node SQL AG. Worried about write performance in AG. How do we perform a realistic perf test in AG before rollout? We peak out at 12000 transactions per second \n22:29 Zeno: When were you first introduced to stoicism? How has it helped you?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "Yh1xwsLseYc",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
