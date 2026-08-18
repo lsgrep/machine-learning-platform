@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-18T06:30:48.983804+00:00",
+  "window": {
+    "since": "2026-08-17T06:30:48.983804+00:00",
+    "until": "2026-08-18T06:30:48.983804+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 5,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Qph4w_WYECc",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Stock Markets Analytics Zoomcamp 2026 Pre-Course Live Q&A - Ivan Brigida",
+      "url": "https://www.youtube.com/watch?v=Qph4w_WYECc",
+      "published_at": "2026-08-18T05:46:09+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Questions: https://qna.dtcdev.click/r/sma\n- Slides:  https://docs.google.com/presentation/d/e/2PACX-1vSnjdqFhJQFTUG3SVi2fNVNZUAhPrYOZXbfpGqQPMSZFkW5VwNRWG940kBLkbFpmkiJc23VHcN6F5j8/pub\n- Course: https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp\n- Support Ivan: https://github.com/sponsors/realmistic\n- Good README: https://alexeyondata.substack.com/p/how-to-write-a-good-readme\n\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "Qph4w_WYECc",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:usQiNUVoCzE",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "The Data Consultant Playbook From Code to Business Impact - Tony Zeljkovic",
+      "url": "https://www.youtube.com/watch?v=usQiNUVoCzE",
+      "published_at": "2026-08-17T23:46:39+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "usQiNUVoCzE",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:MGfCarfwsUk",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "JSON Schema 2020-12 and the Contract for Context | ​Ola Hungerford | MCP Release Party - Seattle",
+      "url": "https://www.youtube.com/watch?v=MGfCarfwsUk",
+      "published_at": "2026-08-17T22:28:05+00:00",
+      "author": "AAIF Live",
+      "summary": "Session 2: Say What You Mean: JSON Schema 2020-12 and the Contract for Context\n\n​In MCP, the schema is the contract for context. It's how a tool tells a model what goes in and what comes out. MCP originally shipped a three-keyword subset of JSON Schema, a reasonable bet on the lowest common denominator across a fragmented landscape of LLM APIs. Two SEPs later, tool schemas conform to JSON Schema 2020-12, the same default dialect as OpenAPI 3.1. This talk will cover examples of what that unlocks, what it doesn't fix, and what client and server authors need to change in the new specification.\n\n​About Speaker:\n​Ola Hungerford is a Principal Engineer at Nordstrom and a maintainer and community moderator for the Model Context Protocol. She leads AI enablement initiatives while contributing to MCP's specification, developer tooling, documentation, and community governance. Ola comes from a diverse technical background spanning two decades, including personalisation systems and enterprise platforms. She's also a vocalist and songwriter who experiments with augmenting human creativity through technology.\n\nAbout the Event:\nThis session was presented at the MCP Release Party hosted on July 28th at Microsoft Reactor in Seattle area. ​This event was hosted as a part of a series of MCP Release Parties taking place simultaneously in cities around the world.",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "MGfCarfwsUk",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:banffxk7EqQ",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "MCP Goes Stateless | ​John Dellenbaugh & Pankaj Kumar | MCP Release Party - Seattle",
+      "url": "https://www.youtube.com/watch?v=banffxk7EqQ",
+      "published_at": "2026-08-17T22:26:06+00:00",
+      "author": "AAIF Live",
+      "summary": "​Session 1: MCP Goes Stateless\n\n​The new MCP specification (2026-07-28) makes the protocol stateless. We will break down what this change is, why it matters, and then dig into it together with a live demo.\n\n​About Speakers:\n​John Dellenbaugh is a Software Engineering Manager, most recently at Microsoft, where he spent 19 years delivering cloud, security, and AI work with a hands-on background in software security, network security, and Zero Trust identity. He now works as a founding engineer at an early-stage AI startup on MCP architecture, vector search, and agent workflows.\n\n​Pankaj Kumar is a Software Developer at Amazon with a deep interest in MLOps, especially the infrastructure and emerging standards for running AI agents in production. Outside of work, he is a big fan of Lord of the Rings, anime, and manga.\n\nAbout the Event:\nThis session was presented at the MCP Release Party hosted on July 28th at Microsoft Reactor in Seattle area. ​This event was hosted as a part of a series of MCP Release Parties taking place simultaneously in cities around the world.",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "banffxk7EqQ",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:XptRJZzPsdw",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Events Notifications in MCP | ​Aman Singh | MCP Release Party - Seattle",
+      "url": "https://www.youtube.com/watch?v=XptRJZzPsdw",
+      "published_at": "2026-08-17T22:26:00+00:00",
+      "author": "AAIF Live",
+      "summary": "​Session 4: Events Notifications in MCP\n\n​MCP, the protocol agents use to reach tools and data, can notify a client only while it holds a connection open, and mostly only that something changed, not what. That's about to change. An MCP working group is drafting Events, an upcoming protocol extension that lets agents subscribe to structured event streams. This talk is a brief tour of the proposal and how it is going to shape real-time events in MCP.\n\n​About Speaker:\n​Aman Singh is a Principal Software Engineer in the Office of Azure's CTO, where he focuses on Agentic Software Engineering and is a maintainer of Drasi, a CNCF Sandbox project for change-driven architectures. He has had more than 12 years of distributed systems experience at LinkedIn and Microsoft, spanning stream processing (Kafka, Samza), cloud migration, and building new Azure services from the ground up.\n\nAbout the Event:\nThis session was presented at the MCP Release Party hosted on July 28th at Microsoft Reactor in Seattle area. ​This event was hosted as a part of a series of MCP Release Parties taking place simultaneously in cities around the world.",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "XptRJZzPsdw",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:q2NP4pT5KcE",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Keynote: Two Years of MCP | Den Delimarsky, Anthropic | MCP Release Party - Seattle",
+      "url": "https://www.youtube.com/watch?v=q2NP4pT5KcE",
+      "published_at": "2026-08-17T22:19:05+00:00",
+      "author": "AAIF Live",
+      "summary": "Keynote: Two Years of MCP\n​A look at what's landing in the 2026-07-28 MCP spec release, why the changes matter for people building servers and clients, and where the protocol goes from here, two years into its evolution.\n\n​About Speaker:\n​Den Delimarsky is a Member of Technical Staff at Anthropic and one of the lead maintainers of the Model Context Protocol.\n\nAbout the Event: \nThis talk was presented at the MCP Release Party held on July 28th at Microsoft Reactor in Seattle area. ​This event was hosted as a part of a series of MCP Release Parties taking place simultaneously in cities around the world.",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "q2NP4pT5KcE",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:-DrnzIBASbg",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Reading Group July 2026 - Loop Engineering",
+      "url": "https://www.youtube.com/watch?v=-DrnzIBASbg",
+      "published_at": "2026-08-17T12:01:20+00:00",
+      "author": "AAIF Live",
+      "summary": "// Abstract\nLoop engineering is the shift from manually prompting AI agents turn-by-turn to designing autonomous systems that do the prompting for you. Instead of writing a prompt, reading output, then writing the next prompt, you build a small control system that discovers work, delegates tasks to agents (and sub-agents), verifies results, persists state, and decides what to do next on a schedule or until a goal is met. It sits one level above agent harness engineering: where a harness equips a single agent run, a loop keeps firing agents on a cadence, spawning helpers, and feeding itself. The framing is increasingly tool-agnostic, as both Claude Code and OpenAI Codex have converged on similar primitives. The people building at the frontier are already living it: Boris Cherny, head of Claude Code at Anthropic, has said his job is no longer writing prompts but writing the loops that do.\n\n// Hosts\nDavid DeStefano: Staff Engineer @ EvolutionIQ - https://www.linkedin.com/in/david-destefano/\nSam Christensen: Staff Software Engineer @ EvolutionIQ - https://www.linkedin.com/in/samuelchristensen\nValdimar Eggertsson: AI Development Team Lead @ Snjallgögn (Smart Data inc.) - https://www.linkedin.com/in/valdimar-%C3%A1g%C3%BAst-eggertsson-8210236/\nSparsh Jain: Tech & AI @ CentralAgent AI - https://www.linkedin.com/in/jainn-sparsh/\n\nModerator:\nArthur Coleman: - CEO @ Online Matters  - https://www.linkedin.com/in/arthurcoleman/\n\n// MLOps Jobs board \nhttps://mlops.pallet.xyz/jobs\n\n// MLOps Swag/Merch\nhttps://mlops-community.myshopify.com/\n\n// Related Links\nSubscribe to this calendar to receive updates about all future sessions- https://lu.ma/mlreadinggroup\nInfo page: https://www.notion.so/mlops/MLOps-Community-Reading-Group-2764a02352734213b25af07e5f835d45\n \n--------------- ✌️Connect With Us ✌️ -------------\nJoin our Slack community: https://go.mlops.community/slack\nFollow us on Twitter: @mlopscommunity\nSign up for the next meetup: https://go.mlops.community/register\nCatch all episodes, blogs, newsletters, and more: https://mlops.community/\n\nConnect with Demetrios on LinkedIn: https://www.linkedin.com/in/dpbrinkm/\n\nTimestamps:\n[00:00] Welcome and Ground Rules\n[02:18] Interactive Session Format\n[02:49] What Is Loop Engineering?\n[04:40] From Prompts to Loops\n[08:35] Arthur's Production Experience\n[15:04] AI Code Review Workflow\n[17:13] Self-Improving Engineering Loops\n[24:44] Valdimar's Loop Experiments\n[27:49] Coding Agents as Controllers\n[32:29] Continuous Improvement Pipeline\n[36:17] Observability and Evaluation\n[39:35] Open Discussion\n[41:10] Token Cost Debate\n[43:05] Preventing Agent Chaos\n[50:03] Measuring Loop Efficiency\n[51:02] Claude Goal Command\n[55:07] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "-DrnzIBASbg",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
