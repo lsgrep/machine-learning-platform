@@ -1,0 +1,372 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-19T06:31:59.091036+00:00",
+  "window": {
+    "since": "2026-08-18T06:31:59.091036+00:00",
+    "until": "2026-08-19T06:31:59.091036+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 3,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:KdmX-ZPuKbs",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Running Durable Agents in Production - Nicholas Lotz",
+      "url": "https://www.youtube.com/watch?v=KdmX-ZPuKbs",
+      "published_at": "2026-08-19T04:11:40+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Conductor: https://orkes.io/\n- Getting started: https://orkes.io/content/quickstart/connect\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "KdmX-ZPuKbs",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:YkxLo_FRoQw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "DevOps and Observability for AI-Built Apps - Alexey Grigorev",
+      "url": "https://www.youtube.com/watch?v=YkxLo_FRoQw",
+      "published_at": "2026-08-19T02:27:58+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Article: https://alexeyondata.substack.com/p/devops-and-observability-for-an-ai\n- Course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "YkxLo_FRoQw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:KHDWCULlWuM",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Database & Career Q&A in the Home Bar",
+      "url": "https://www.youtube.com/watch?v=KHDWCULlWuM",
+      "published_at": "2026-08-18T15:15:29+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "This week, I'm back in Vegas, spending time in the home bar to recover from jet lag. I'm not saying booze is the best way to recover - but - it helps me fall asleep after a 16-hour-time-zone-jump, and it certainly makes the career advice answers more colorful. Let's go through your top-voted questions from https://pollgab.com/room/brento.\n\n00:00 Start\n01:22 Overdue Eye Test: Have you ever set server-level MAXDOP beyond 8? Why?\n03:06 ChompingBits: How do you develop skills that your employer isn't? Our org is not embracing cloud, PostgreSQL, or any of the skills that are dominating the open DBA roles required skills. Did you ever find yourself in this spot, and how did you make demonstrable skills for the next interview? \n06:43 Rick Rude: What kinda of stuff do you like to write with Claude Code? Does it code as well as Richie?\n09:16 Sir Index Alot: What are your pros / cons of integrating AI in SQL Server via Copilot SSMS vs a SQL Mcp Server?\n11:58 Sir Index Alot: What is your favorite AI engine for SQL query plan analysis and why?\n14:23 MyTeaGotCold: What ending did you get in The Lost Jewels of Nabooti?\n14:46 Jersey: When defragging large tables, is it better to use REBUILD instead of REORGANIZE even if there is only 10% fragmentation?  I have noticed REORGANIZE takes a long time compared to REBUILD.\n15:38 Rey Q&A: My team is currently evaluating a planned migration from SQL Server 2022 to SQL Server 2025, and I’m reviewing the product changes between versions. Are there any migration risks specific to this upgrade path that we should be aware about?\n17:31 Karl Marx: How does retirement planning / retirement look different for independent consultants vs long time company employees?\n19:36 Bibi: What are your pros / cons of implementing a SQL data warehouse using SQL Server VM vs cloud native options such as Azure Synapse Analytics?\n21:52 Nikira: Can you think of any SQL performance data that fits well into a SQL Server data warehouse for the purpose of gaining some DW hands on experience (Fact tables, dimension tables, ETL processing)?\n24:01 Jolene: When you lost your first DBA gig, how much time did you take off before resuming your next job? What did you do during your downtime?\n29:37 Rjeesh: What are your thoughts / experiences on the Data API Builder for SQL Server?\n29:55 AlexDBA: Hi Brent, first time poster, but I've really enjoyed watching your recording.  Recently moved from SQL Server 2016 to SQL Server 2025.  If you could pick the top 3 new features to look into first, what would they be and why? Thanks",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "KHDWCULlWuM",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:AFp_CZyUzJM",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Flink Table API, User-Defined Functions (UDFs), Process Table Functions (PTFs)",
+      "url": "https://www.youtube.com/watch?v=AFp_CZyUzJM",
+      "published_at": "2026-08-18T14:00:29+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "Fully managed Confluent Cloud for Apache Flink combines Flink SQL for data engineers with programmatic capabilities like the Table API, User-Defined Functions (UDFs), and Process Table Functions (PTFs) for developers.\n\nYou can build mission-critical use cases with programmatic capabilities while using familiar dbt- and SQL-based workflows.\n\nGet started with Flink on Confluent: https://www.confluent.io/get-started/\nLearn more in this blog: https://www.confluent.io/blog/flink-mission-critical-operations-data-engg/\nDocs: \n- https://docs.confluent.io/cloud/current/flink/reference/table-api.html\n- https://docs.confluent.io/cloud/current/flink/concepts/user-defined-functions.html\n- https://docs.confluent.io/cloud/current/flink/concepts/process-table-functions.html\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "AFp_CZyUzJM",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:knU4XB-90Nw",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Real-Time Forecasting with IBM Granite Time Series Models, Apache Flink, and Apache Kafka",
+      "url": "https://www.youtube.com/watch?v=knU4XB-90Nw",
+      "published_at": "2026-08-18T14:00:18+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "Perform robust real-time forecasting on your Kafka data streams using  IBM Granite Time Series models TTM, FlowState, PatchTST-FM right in Flink. Get started easily with zero-config, model flexibility, and lower cost in fully managed Confluent Cloud.\n\nSign up for Early Access: https://events.confluent.io/early-access-flink-features\nLearn more in the Q3'26 AI blog: https://www.confluent.io/blog/2026-q3-confluent-intelligence-ai-update/\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "knU4XB-90Nw",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:M4jAsrDWjt4",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Real-time anomaly detection and forecasting, Real-Time Context Engine for AI agents, and more",
+      "url": "https://www.youtube.com/watch?v=M4jAsrDWjt4",
+      "published_at": "2026-08-18T14:00:08+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "What's new in Q3'26: Real-time anomaly detection and forecasting with IBM Granite Time Series models and Google TimesFM model, upserts for Real-Time Context Engine to maintain fresh context for AI, and lightning queries to instantly serve the current state of the business for operational apps, analytics, and more. \n\nSign up for Early Access: https://events.confluent.io/early-access-flink-features\nLearn more in the Q3'26 AI blog: https://www.confluent.io/blog/2026-q3-confluent-intelligence-ai-update/\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "M4jAsrDWjt4",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    }
+  ]
+}
