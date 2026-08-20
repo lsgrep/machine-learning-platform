@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-20T06:33:58.446519+00:00",
+  "window": {
+    "since": "2026-08-19T06:33:58.446519+00:00",
+    "until": "2026-08-20T06:33:58.446519+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 5,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:dSoXxTqHJv0",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The MCP Tasks Extension",
+      "url": "https://www.youtube.com/watch?v=dSoXxTqHJv0",
+      "published_at": "2026-08-19T14:24:28+00:00",
+      "author": "AAIF Live",
+      "summary": "Orchestrating Agent Swarms with MCP and Sandboxes\n\nWhat happens when you move beyond a single AI agent and start coordinating entire swarms of agents?\n\nIn this session, Vikram Vaswani, Developer Advocate at Melonfire, explores how MCP can be used to orchestrate multi-agent systems alongside sandboxes, durable workflows, and observability.\n\nVikram dives into the practical architecture behind coordinating agent swarms, showing how MCP can help agents interact with tools and shared environments while sandboxes provide the isolation needed to run these workflows safely. The session also explores how open-source tooling, durable execution, and observability can make increasingly complex agent systems easier to manage and operate.\n\nWhether you're experimenting with multi-agent architectures or looking at how to build more reliable agentic workflows, this session offers practical ideas for orchestrating agents beyond the single-agent model.\n\n🎤 Speaker: Vikram Vaswani - Developer Advocate, Melonfire\n📌 Topic: Orchestrating Agent Swarms with MCP and Sandboxes\n\nWant to be part of the community building the future of agentic AI? Join the Agentic AI Foundation (AAIF) and connect with the people, projects, and organizations shaping open standards for agentic AI.\n\nhttps://aaif.io/news/linux-foundation-announces-formation-of-aaif",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "dSoXxTqHJv0",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:u3ocH-qdyi4",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Agentic DX: Bringing IDP into your IDE",
+      "url": "https://www.youtube.com/watch?v=u3ocH-qdyi4",
+      "published_at": "2026-08-19T14:24:18+00:00",
+      "author": "AAIF Live",
+      "summary": "Agentic DX: Bringing IDP into Your IDE\n\nHow do you get developers to actually adopt an Internal Developer Platform when onboarding feels like one more thing standing between them and shipping?\n\nIn this session, Adnan Vahora, Software Engineer at Motorola Solutions, shares how his team tackled this challenge with an IDP serving 4,000+ monthly active users by bringing the platform directly into the developer’s IDE through a “Bring Your Own Agent” approach.\n\nAdnan explores what happened when they started building a composable agent framework, and the hard lessons that followed. From the limitations of flat agent meshes and hallucinations snowballing across agents to the often-overlooked boundary between MCP and A2A, the talk dives into where agentic systems can break down in practice.\n\nThe session introduces a Master Agent architecture and a practical approach to maintaining “Agentic Context Hygiene”, offering developers and platform teams a blueprint for building more reliable agent-driven developer experiences.\n\n🎤 Speaker: Adnan Vahora - Software Engineer, Motorola Solutions\n📌 Topic: Agentic DX: Bringing IDP into Your IDE\n\nWant to be part of the community building the future of agentic AI? Join the Agentic AI Foundation (AAIF) and connect with the people, projects, and organizations shaping open standards for agentic AI.\n\nhttps://aaif.io/news/linux-foundation-announces-formation-of-aaif",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "u3ocH-qdyi4",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:OCer65weyTk",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Responsible Autonomy: Building Governance Frameworks for AI That Act in the Real World via MCP",
+      "url": "https://www.youtube.com/watch?v=OCer65weyTk",
+      "published_at": "2026-08-19T14:23:52+00:00",
+      "author": "AAIF Live",
+      "summary": "Responsible Autonomy: Building Governance Frameworks for AI Agents That Act in the Real World via MCP\n\nWhat happens when AI agents move beyond answering questions and start taking real-world actions?\n\nIn this session, Saurabh Mishra, Lead DevOps Engineer at Optum, explores the governance challenges that emerge as MCP-powered agents gain the ability to read emails, update CRMs, execute code, move money, and trigger business workflows autonomously.\n\nRather than focusing solely on what agents can do, Saurabh looks at how organizations can deploy them responsibly without sacrificing the speed and autonomy that make agentic AI valuable.\n\nDrawing on real-world examples across finance, healthcare, legal, and enterprise IT, the session introduces practical approaches for implementing scoped permissions, human-in-the-loop controls, audit trails, and policy guardrails for MCP-connected agents.\n\nIf you're building or deploying AI agents that can take action in real-world systems, this session offers a practical framework for answering one of the most important questions in agentic AI: who is accountable when an agent acts?\n\n🎤 Speaker: Saurabh Mishra - Lead DevOps Engineer, Optum\n📌 Topic: Responsible Autonomy: Building Governance Frameworks for AI Agents That Act in the Real World via MCP\n\nWant to be part of the community building the future of agentic AI? Join the Agentic AI Foundation (AAIF) and connect with the people, projects, and organizations shaping open standards for agentic AI.\n\nhttps://aaif.io/news/linux-foundation-announces-formation-of-aaif",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "OCer65weyTk",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:rKqg5JtP5KI",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "MCP 728: What Changes, What Breaks, and What You Need to Do About It",
+      "url": "https://www.youtube.com/watch?v=rKqg5JtP5KI",
+      "published_at": "2026-08-19T14:23:41+00:00",
+      "author": "AAIF Live",
+      "summary": "MCP 728: What Changes, What Breaks, and What You Need to Do About It\n\nThe MCP 728 specification introduces some of the biggest changes yet to the Model Context Protocol — and teams building with MCP need to understand what’s changing and how to prepare.\n\nIn this session, Mateo Torres, Developer Advocate at Arcade.dev, breaks down the new specification and what it means for developers and organizations already building or deploying MCP.\n\nThe 728 spec removes the session handshake, formalizes servers as OAuth 2.1 resource servers, makes extensions first-class, and deprecates features including Sampling and Roots. These changes also kick off a 12-month migration clock, giving teams a limited window to adapt their existing implementations.\n\nMateo explores both the tactical and strategic decisions teams will need to make — from re-architecting authentication to deciding whether to support both protocol versions or introduce a runtime layer in front of MCP.\n\nIf you're building, operating, or planning to adopt MCP, this session offers a practical guide to what changes, what might break, and what you should be doing now.\n\n🎤 Speaker: Mateo Torres — Developer Advocate, Arcade.dev\n📌 Topic: MCP 728: What Changes, What Breaks, and What You Need to Do About It\n\nWant to be part of the community building the future of agentic AI? Join the Agentic AI Foundation (AAIF) and connect with the people, projects, and organizations shaping open standards for agentic AI.\n\nhttps://aaif.io/news/linux-foundation-announces-formation-of-aaif",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "rKqg5JtP5KI",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:t2RknZh8U9I",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "What We Learned from Dozens of Enterprise MCP Deployments",
+      "url": "https://www.youtube.com/watch?v=t2RknZh8U9I",
+      "published_at": "2026-08-19T14:23:34+00:00",
+      "author": "AAIF Live",
+      "summary": "What We Learned from Dozens of Enterprise MCP Deployments\n\nWhat does it actually take to run MCP in production at enterprise scale?\n\nIn this session, Jiquan Ngiam, Co-Founder & CEO of MintMCP, shares lessons gathered from working with dozens of enterprise teams deploying the Model Context Protocol in real-world environments.\n\nRather than focusing on a single deployment, Jiquan breaks down the recurring patterns, challenges, and architectural decisions that emerged across different enterprise environments, from where teams commonly got stuck to what held up as MCP adoption expanded.\n\nThe session explores practical considerations around authentication, agent identity, tool management, observability, policy enforcement, and operating MCP at scale, offering a grounded look at what it takes to move from experimenting with MCP to running it reliably in production.\n\nWhether you're evaluating MCP for your organization or already deploying it across enterprise workflows, this session offers practical lessons and hard-earned insights from the field.\n\nSpeaker: Jiquan Ngiam - Co-Founder & CEO, MintMCP\nTopic: What We Learned from Dozens of Enterprise MCP Deployments\n\nWant to be part of the community building the future of agentic AI? Join the Agentic AI Foundation (AAIF) and connect with the people, projects, and organizations shaping open standards for agentic AI.\n\nLearn more and join the AAIF community → https://aaif.io/news/linux-foundation-announces-formation-of-aaif",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "t2RknZh8U9I",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:6GiE4D8w9oA",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Founders Chat: Our Investment from Databricks Ventures!",
+      "url": "https://www.youtube.com/watch?v=6GiE4D8w9oA",
+      "published_at": "2026-08-19T12:59:23+00:00",
+      "author": "Advancing Analytics",
+      "summary": "We recently secured backing from Databricks Ventures - which is super exciting! A huge goal we've had for years has been ticked off. \n\nSimon (CTO) and Terry (CEO) sit down to chat about what the investment means, and reflect on Advancing's journey over the past 8 years. \n\nYou can read more about the investment here: https://eu1.hubs.ly/H0xKl-p0",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "6GiE4D8w9oA",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
