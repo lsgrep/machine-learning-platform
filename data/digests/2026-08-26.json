@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-26T06:36:08.956586+00:00",
+  "window": {
+    "since": "2026-08-25T06:36:08.956586+00:00",
+    "until": "2026-08-26T06:36:08.956586+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:fxVSQteBnmg",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Running a Company on a Multi Agent Dispatch System - Paul Domanski",
+      "url": "https://www.youtube.com/watch?v=fxVSQteBnmg",
+      "published_at": "2026-08-25T23:45:30+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Headroom: https://github.com/domanski-ai/headroom/\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "fxVSQteBnmg",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:AyGpGfNDzNI",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "Atlassian - SQL Interview Question | Data Engineer Interview | 25/100 SQL Interview Series #shorts",
+      "url": "https://www.youtube.com/watch?v=AyGpGfNDzNI",
+      "published_at": "2026-08-25T14:48:49+00:00",
+      "author": "GrowDataSkills",
+      "summary": "🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#sql #skills #interview",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "AyGpGfNDzNI",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    },
+    {
+      "id": "yt:XimbKShxP4s",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Zero Downtime, Zero Client Code Changes: Migrating from Apache Kafka® to Confluent Cloud",
+      "url": "https://www.youtube.com/watch?v=XimbKShxP4s",
+      "published_at": "2026-08-25T11:00:14+00:00",
+      "author": "Confluent Developer",
+      "summary": "More: https://developer.confluent.io/ | Confluent's KCP moves your clients over with no code changes and a cutover window under 30 seconds\n\nMigrating Kafka clients to Confluent Cloud usually means rewriting client configs, coordinating a big-bang cutover across teams, and hoping the rollback plan works if something breaks. It doesn't have to. KCP, Confluent's open-source CLI, migrates both your Kafka data and to Confluent Cloud with zero code changes and a cutover window under 30 seconds. Client apps keep their existing code and credentials: only a bootstrap URL is updated. Cluster Linking replicates topic data and consumer offsets, so consumers pick up in Confluent Cloud exactly where they left off, while producers simply buffer for a few seconds during cutover. KCP groups related topics and clients into \"migration groups,\" so each team migrates on its own schedule instead of a big-bang cutover, and Confluent Cloud Gateway translates credentials behind the scenes so clients keep authenticating the way they always have.\n\nLEARN MORE\n► Check out Confluent Developer: https://developer.confluent.io/\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #developer #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "XimbKShxP4s",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
