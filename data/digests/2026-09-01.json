@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-01T10:55:20.301006+00:00",
+  "window": {
+    "since": "2026-08-31T10:55:20.301006+00:00",
+    "until": "2026-09-01T10:55:20.301006+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 5,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:H-Ot4_1PkoM",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Use Claude Code Like a Pro - Bhavani Ravi",
+      "url": "https://www.youtube.com/watch?v=H-Ot4_1PkoM",
+      "published_at": "2026-09-01T01:42:51+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n- https://courses.datatalks.club/register/ai-dev-tools/\n- https://github.com/thelearningdev/use-claude-code-like-pro\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "H-Ot4_1PkoM",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:0sfgPJ6p-Zw",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "The Redpanda Agentic Data Plane",
+      "url": "https://www.youtube.com/watch?v=0sfgPJ6p-Zw",
+      "published_at": "2026-08-31T18:29:13+00:00",
+      "author": "Redpanda Data",
+      "summary": "Where agents & enterprise data meet.\n\nThe Redpanda Agentic Data Plane gives enterprise agents the connectivity, context, and governance required to handle high-stakes processes and data.\n\nLearn more about Redpanda: https://www.redpanda.com/\nLearn about the Agentic Data Plane: https://www.redpanda.com/agentic-data...\nLearn more about Redpanda Streaming: https://www.redpanda.com/data-streaming",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "0sfgPJ6p-Zw",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:YEsrF3EX4Hw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI Dev Tools Zoomcamp 2026",
+      "url": "https://www.youtube.com/watch?v=YEsrF3EX4Hw",
+      "published_at": "2026-08-31T16:56:43+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Article: https://aishippingblog.com/p/ai-dev-tools-zoomcamp-2026-starts\n- Course repo: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n- CMP: https://courses.datatalks.club/ai-dev-tools-2026/\n- https://aishippingblog.com/p/getting-an-ai-engineering-job\n- https://aishippingblog.com/p/choosing-a-portfolio-project-the\n- https://aishippingblog.com/p/what-ai-forward-deployed-engineers\n- https://aishippinglabs.com/membership\n- https://aishippingblog.com/p/how-we-built-ai-shipping-labs\n- https://github.com/sponsors/alexeygrigorev\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "YEsrF3EX4Hw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:ZYyFblrwVBo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "In-Memory OLTP",
+      "url": "https://www.youtube.com/watch?v=ZYyFblrwVBo",
+      "published_at": "2026-08-31T16:09:54+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I do SQL Server training. https://www.brentozar.com\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n03:06 Rey Q&A: I recently watched one of your videos where you said that enabling in-memory OLTP on a database is a bad idea because it causes persistent performance issues. Does that mean that there's no practical use cases for the feature?\nIn-Memory OLTP",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "ZYyFblrwVBo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:pzvV5WS69tE",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Data Analyst Roadmap: Built From 22,000 Real Job Ads",
+      "url": "https://www.youtube.com/watch?v=pzvV5WS69tE",
+      "published_at": "2026-08-31T13:01:25+00:00",
+      "author": "Data with Baraa",
+      "summary": "My recommended course to become Data Analyst:\n► DataCamp Associate Data Analyst in SQL https://datacamp.pxf.io/xJjnDR\n► DataCamp Data Analyst in Python https://datacamp.pxf.io/QYvK3x\n► DataCamp Data Analyst in Power BI https://datacamp.pxf.io/9Vjeaj\n► Get 25% OFF DataCamp's Here https://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Also on Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n📬 *Newsletter (join 123k+ data friends)*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\nLearn Databricks fast with one roadmap sliced by role: data analyst, data engineer, data scientist, and AI engineer.\n\n📖 *Table of Content*\n0:00 Introduction\n2:04 What skills do they want?\n4:15 DataCamp\n5:43 Which BI tool wins?\n7:46 Do you need engineering tools?\n9:58 How much AI do you need?\n11:14 What will you actually do?\n14:52 How much do they pay?\n15:37 Remote, hybrid, or office?\n16:29 Do you need a degree?\n18:12 The full roadmap\n20:32 My honest opinion\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#databricks #learndatabricks #dataengineering #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "pzvV5WS69tE",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
