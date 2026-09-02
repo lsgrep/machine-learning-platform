@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-02T10:22:04.910186+00:00",
+  "window": {
+    "since": "2026-09-01T10:22:04.910186+00:00",
+    "until": "2026-09-02T10:22:04.910186+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 4,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:WDpFKaXXhI8",
+      "source_id": "elearning_bridge",
+      "source_name": "E-Learning Bridge",
+      "source_type": "youtube",
+      "category": "career_interview",
+      "tier": 4,
+      "title": "Salesforce - SQL Interview Question | Data Engineer Interview | 26/100 SQL Interview Series #shorts",
+      "url": "https://www.youtube.com/watch?v=WDpFKaXXhI8",
+      "published_at": "2026-09-02T07:00:23+00:00",
+      "author": "GrowDataSkills",
+      "summary": "🚨 Join my top notch, industrial projects based \"Complete Multicloud Data & AI Engineering - From Basic To Advance\" Bootcamp to become the best data professional in 2026\n📘 Explore Here - https://growdataskills.com/course\n📌 Dedicated Placement Assistance & Doubt Support\n📞 For Enquiries, Call/WhatsApp: (+91) 9893181542\n😎 2 Cr+ Highest Salary Package So Far\n⭐ Access FREE Technical Content  - https://academy.growdataskills.com/l/cc0c24728b\n\n===============================================\n\n⭐ Explore All Courses Here - https://growdataskills.com/course\n\n===============================================\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n\n👉 Explore All Our Project Oriented Data BootCAMPS  - https://www.growdataskills.com/course\n\n===============================================\n👉 Join Our Programming BootCAMPS - https://www.growdataskills.com/course-complete-python\n\n👉 Join Our Data Engineering BootCAMPS - https://growdataskills.com/data-engineering-track\n👉 Join Our AI Engineering BootCAMPS - https://growdataskills.com/ai-engineering-track\n👉 Join Our Data Analyst BootCAMPS - https://growdataskills.com/data-analyst-track\n👉 Join Our Data Science BootCAMPS - https://growdataskills.com/data-science-track\n👉 Join Our Industrial Projects - https://growdataskills.com/project-data-science\n\n===============================================\n\n𝗝𝗼𝗶𝗻 our 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮:🔥\n⭐ GrowDataSkills Discord - https://discord.gg/PFzAMUXk9M\n⭐ GrowDataSkills X Account - https://x.com/GrowDataSkills\n⭐ GrowDataSkills Linkedin - https://www.linkedin.com/company/growdataskills\n⭐ GrowDataSkills Instagram - https://www.instagram.com/growdataskills/\n🔅Shashank's LinkedIn - https://www.linkedin.com/in/shashank219/\n🔅Shashank's Instagram - https://www.instagram.com/_shashank_219/\n\n===============================================\n\n\n#sql #skills #interview",
+      "duration_seconds": null,
+      "tags": [
+        "sql-interview",
+        "recursive-cte",
+        "window-functions",
+        "faang"
+      ],
+      "raw": {
+        "channel_id": "UCBGcs9XTL5U34oaSn_AsHqw",
+        "video_id": "WDpFKaXXhI8",
+        "playlist_id": "UUBGcs9XTL5U34oaSn_AsHqw"
+      }
+    },
+    {
+      "id": "yt:enBGtOrA-_I",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "ML Zoomcamp 2026 Pre-Course Live Q&A",
+      "url": "https://www.youtube.com/watch?v=enBGtOrA-_I",
+      "published_at": "2026-09-01T17:23:58+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "In this pre-course Q&A session, Alexey Grigorev, Founder of DataTalks.Club, shares essential guidance on navigating the Machine Learning Zoomcamp and building a career in modern ML and AI engineering. We explore the foundations of classical machine learning, model deployment strategies, and how to position yourself in an evolving tech landscape.\n\nLinks:\n- Q&A: https://qna.dtcdev.click/r/ml-zoomcamp\n- Course: https://github.com/DataTalksClub/machine-learning-zoomcamp\n- Sign up: https://courses.datatalks.club/register/ml-zoomcamp/\n- https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/role/02-skills.md\n- https://aishippingblog.com/p/what-ai-forward-deployed-engineers\n- https://aishippingblog.com/p/getting-an-ai-engineering-job\n- https://aishippingblog.com/p/benefits-of-learning-in-public-and\n- https://github.com/alexeygrigorev/ai-engineering-field-guide/blob/main/webinars/01-a-day-of-ai-engineer.md\n- https://datatalks.club/blog/data-roles.html\n\nYou’ll learn about:\n- What to expect from hands-on modules covering regression, tree models, deep learning, and deployment with Fast API, AWS Lambda, and Kubernetes.\n- Why classical machine learning remains essential, cost-effective, and foundational even in the age of LLMs.\n- The minimal Python, math, Docker, and GitHub skills required to succeed in the course.\n- Understanding the key differences between Machine Learning Engineers, AI Engineers, and Data Engineers to find your ideal career path.\n- How to effectively manage time budgets, avoid theory rabbit holes, and build a standout portfolio by learning in public.\n- Grading criteria, project deadlines, and policies on using AI tools effectively during the course.\n\nTIMECODES:\n00:00 Introduction and Machine Learning Zoomcamp Overview\n05:56 Program Key Takeaways and Practical Capabilities\n11:15 Prerequisites and Required Technical Background\n17:24 Essential Git, GitHub, and Docker Expectations\n23:36 Classical Machine Learning vs Modern AI Engineering\n30:18 Deconstructing Industry AI Engineering Roles and Expectations\n36:28 Navigating Career Automation and Market Longevity\n41:19 Attributes of Successful Zoomcamp Graduates\n46:07 Effective Project-Based Learning Strategies\n51:22 Current Industry Hiring Trends and Career Paths\n57:37 Core Skills and Technology Requirements for ML Engineers\n1:03:38 Course Logistics, Certifications, and Project Policies\n1:09:45 Final Q&A Summary and Pre-Course Next Steps\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\nThis video is designed for aspiring and current software developers, data analysts, and tech professionals looking to transition into machine learning or AI engineering. It is ideal for anyone preparing for the Machine Learning Zoomcamp or seeking clarity on modern engineering career paths.\n\n#datatalksclub #dtc #machinelearning #mlengineering #aiengineering #pythonprogramming #datascience #mlzoomcamp #docker #github #careeradvice #softwareengineering #modeldeployment #techcareers #projectbasedlearning #learninpublic #ai #dataengineering #machinelearningengineer #programming",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "enBGtOrA-_I",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:bF28LFPjFsI",
+      "source_id": "bytebytego",
+      "source_name": "ByteByteGo",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 2,
+      "title": "How the JVM Actually Works",
+      "url": "https://www.youtube.com/watch?v=bF28LFPjFsI",
+      "published_at": "2026-09-01T15:30:21+00:00",
+      "author": "ByteByteGo",
+      "summary": "Try CodeRabbit for Free: https://coderabbit.link/ad-bytebytego-001\n\nSubscribe to our weekly newsletter to get a Free System Design PDF (368 pages): https://go.bytebytego.com/nl-subscribe",
+      "duration_seconds": null,
+      "tags": [
+        "system-design",
+        "rate-limiting",
+        "load-balancing",
+        "consistent-hashing"
+      ],
+      "raw": {
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "video_id": "bF28LFPjFsI",
+        "playlist_id": "UUZgt6AzoyjslHTC9dz0UoTw"
+      }
+    },
+    {
+      "id": "yt:2TR9nnibA9s",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How Databricks, Snowflake and Fabric Were Born",
+      "url": "https://www.youtube.com/watch?v=2TR9nnibA9s",
+      "published_at": "2026-09-01T14:00:35+00:00",
+      "author": "Data with Baraa",
+      "summary": "2012 Oracle people built Snowflake. 2013 the Spark researchers built Databricks. 2023 Microsoft glued Azure into Fabric.\n\n▶ THE FULL DATABRICKS STORY: https://youtu.be/X5zTCgPN_D4\n\n#databricks #snowflake #microsoftfabric #dataengineering",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "2TR9nnibA9s",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
