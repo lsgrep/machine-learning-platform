@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-09T10:34:11.159079+00:00",
+  "window": {
+    "since": "2026-09-08T10:34:11.159079+00:00",
+    "until": "2026-09-09T10:34:11.159079+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 5,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:f5xRFWRdyKA",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Build an LLM Wiki for Agent Long-Term Memory - @itsdecodingai",
+      "url": "https://www.youtube.com/watch?v=f5xRFWRdyKA",
+      "published_at": "2026-09-09T04:14:51+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Workshop: https://github.com/decodingai-magazine/llm-wiki-workshop\n- Interview: https://datatalks.club/podcast/s24e09-engineering-your-own-ai-assistant.html\n\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "f5xRFWRdyKA",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:GqMLww3fgQw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How AI Agents are Reshaping Modern Work - Philip Christos",
+      "url": "https://www.youtube.com/watch?v=GqMLww3fgQw",
+      "published_at": "2026-09-08T23:47:30+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "In this talk, Philip Christos, Associate at M2VC, shares his expertise in frontier AI investing—from his early days as a data analyst to evaluating cutting-edge deep tech startups. We explore how AI agents are reshaping modern work, the realities of venture capital in the LLM era, and why the future of software engineering relies more on high-level systems thinking than writing syntax.\n\nYou’ll learn about:\n- How venture capitalists formulate AI investment strategies and evaluate startup pitch decks.\n- The rapid adoption of AI in software engineering compared to traditional sectors like accounting.\n- The crucial difference between data progress and algorithmic progress in frontier models.\n- Why LLMs still struggle with high-level software architecture, business logic, and design \"taste.\"\n- How AI is accelerating iterations and breakthroughs in classical engineering and scientific research.\n- What specific deep tech and AI infrastructure ideas are actually attracting VC funding today.\n\nTIMECODES:\n00:00 Venture Capital Career Journey\n05:14 VC Analyst vs Data Analyst Roles\n10:55 AI Investment Thesis Strategy\n16:27 Emotion Analytics and Voice AI Startups\n22:53 LLM Impact on Venture Capital\n28:19 Software Engineering AI Adoption\n34:45 Data vs Algorithmic AI Progress\n40:15 Classical Engineering AI Acceleration\n46:12 Software Architecture AI Limitations\n51:42 Future Software Engineering Careers\n57:55 Systems Thinking in DevOps\n1:03:23 Pitching Deep Tech Startups\n\nThis talk is perfect for software engineers, AI founders, and technical product managers who want to understand the evolving tech job market and venture landscape. It provides essential insights for anyone looking to build VC-backed AI startups or future-proof their career as AI coding tools become ubiquitous.\n\nConnect with Philip\n- Linkedin - https://www.linkedin.com/in/philipchristos/\n- Twitter - https://x.com/phil_christos\n- Website - https://t.me/stacked_channel\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\n#datatalksclub #dtc #AI #ArtificialIntelligence #VentureCapital #VC #Startups #TechCareers #SoftwareEngineering #LLM #GenerativeAI #DeepTech #AIAgents #SystemDesign #TechInvesting #DevOps #FutureOfWork #MachineLearning #TechStartups #ChatGPT",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "GqMLww3fgQw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:e0rxbWebccI",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "4 reasons why learning Databricks in 2026 is easier then ever for data engineers",
+      "url": "https://www.youtube.com/watch?v=e0rxbWebccI",
+      "published_at": "2026-09-08T18:00:05+00:00",
+      "author": "Andreas Kretz",
+      "summary": "Databricks just made a handful of changes that remove almost every excuse for not learning it, and most people have no idea they exist.\nI have a free two-hour course covering all of it. Check it out here on YouTube!\n#Databricks #DataEngineering #FreeCourse #SQL #ETL #Spark",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "e0rxbWebccI",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    },
+    {
+      "id": "yt:GN31TnYVdgI",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Database Q&A at Mount Charleston",
+      "url": "https://www.youtube.com/watch?v=GN31TnYVdgI",
+      "published_at": "2026-09-08T16:00:29+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "For this episode, I'm up in the mountains just outside Vegas, enjoying the nice cool temperatures, spending the weekend at Mount Charleston. Let's go through your top-voted questions from https://pollgab.com/room/brento.\n\n00:00 Start\n01:41 youAskedForAProblemThatWouldBenefitFromLargerTable: Problem:Table is 100% larger than ideal. Page splits decrease page density to 51% after adding just 1% new records following rebuild with 100% filfactor. Fix:Making table 10% larger w/ FF 90% allows adding 8% new records without decreasing page density or enlarging table further.\n04:59 AndrewG: (I am SaaS support) I see a lot of DBAs utilizing Query Store. Is there any reason I should use this instead of the first responder kit?\n05:55 chris: Hi Brent!  You've shared the RSS feed you use and it's a very lengthy list.  Do you manage to keep up with the entire feed?\n07:30 Jersey: When designing an index that uses included columns, is there a \"sweet spot\" for the number of columns included in the INCLUDE clause, or does it primarily depend on the query workload and performance requirements?\n08:22 PursuitOfExcellenceDBA: Hello Brent. Being a SQL guru yourself, just curious since you always refer others for their area of expertise. Have you ever reached out to Paul Randall or others and/or vice versa to solve a complicated SQL server issue that took you to finish line faster?\n10:47 AlwaysLearningDBA: I have daily index maintenance job per your blog & weekly reindexing job.DB size is around 4TB (will keep increasing). Weekly index maintenance is running over 18 hours.How do I run Ola’s job in parallel for multiple indexes at a time? Looking for a scalable solution. Thank you.",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "GN31TnYVdgI",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:OHyolbCnj7U",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Why Pandas Fails on Big Data",
+      "url": "https://www.youtube.com/watch?v=OHyolbCnj7U",
+      "published_at": "2026-09-08T14:00:38+00:00",
+      "author": "Data with Baraa",
+      "summary": "Huge data will not fit in one machine's memory. Pandas fails. PySpark takes the DataFrame and splits it across machines.\n\n▶ Pandas vs PySpark vs Polars: https://youtu.be/TYnXqVrVz8k\n\n#pandas #pyspark #python #dataengineering",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "OHyolbCnj7U",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
