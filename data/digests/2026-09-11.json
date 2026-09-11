@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-11T10:23:45.678648+00:00",
+  "window": {
+    "since": "2026-09-10T10:23:45.678648+00:00",
+    "until": "2026-09-11T10:23:45.678648+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:nGveS4XiQLY",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Data Engineering on AWS Project Update (including full GitHub step by step repo)",
+      "url": "https://www.youtube.com/watch?v=nGveS4XiQLY",
+      "published_at": "2026-09-10T18:00:07+00:00",
+      "author": "Andreas Kretz",
+      "summary": "Instead of just recording a video walkthrough, I turned the whole AWS pipeline build into a step-by-step GitHub guide with the datasets, repo structure, and instructions laid out for students to follow on their own. I used AI to turn my actual build process into that guide, and I'm curious to see if people like this format better. Would you rather follow a written guide or watch a video walkthrough?\n#AWS #DataEngineering #CloudComputing #TechEducation",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "nGveS4XiQLY",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    },
+    {
+      "id": "yt:ptejz5J4XhU",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AAIF Reading Group - Prompt Injection as Role Confusion: Rethinking Agent Security",
+      "url": "https://www.youtube.com/watch?v=ptejz5J4XhU",
+      "published_at": "2026-09-10T16:12:11+00:00",
+      "author": "AAIF Live",
+      "summary": "Prompt Injection as Role Confusion: Rethinking Agent Security\n\nWhat if prompt injection isn’t just a security problem, but a problem of role confusion?\n\nJoin the Agentic AI Foundation (AAIF) community for an informal reading group exploring the paper “Prompt Injection as Role Confusion.”\n\nWe’ll read through the paper together with a moderator guiding the discussion, unpacking its key ideas, challenging assumptions, and exploring what the role-confusion framing means for building safer AI agents and systems.\n\nThis is not a formal presentation or lecture. It’s a community conversation: bring your questions, interpretations, disagreements, and ideas. We’ll leave plenty of room for open discussion and constructive debate.\n\nIf you’ve read the paper already, come ready to share your perspective. If you haven’t, you’re still welcome, we’ll work through it together.\n\nWe’ll explore:\nWhat prompt injection looks like through the lens of role confusion\nThe core arguments and assumptions in the paper\nHow this framing changes the way we think about agent security\nQuestions and challenges from the community\nWhat this could mean for the design of future AI agents and systems\n\nCome curious. Bring questions. Let’s read the paper together and see where the discussion takes us.\n\nRead the paper: Prompt Injection as Role Confusion: Rethinking Agent Security\n\nAbout the Agentic AI Foundation\n\nThe Agentic AI Foundation (AAIF) is the open, neutral home for the agentic AI ecosystem, bringing together developers, researchers, companies, and communities to build open standards and infrastructure for interoperable AI agents.\n\nLearn more: Agentic AI Foundation\n\nExplore AAIF Events: AAIF Events\n\nJoin the AAIF community: AAIF Community\n\nFollow AAIF: AAIF on LinkedIn",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "ptejz5J4XhU",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
