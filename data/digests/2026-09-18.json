@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-18T10:22:47.317875+00:00",
+  "window": {
+    "since": "2026-09-17T10:22:47.317875+00:00",
+    "until": "2026-09-18T10:22:47.317875+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:ZXF_R-QnNHY",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Next Steps in Your Data Engineering Journey | Modern Data Engineering Pipelines",
+      "url": "https://www.youtube.com/watch?v=ZXF_R-QnNHY",
+      "published_at": "2026-09-17T11:15:11+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | You've completed the course—now what?\n\nCongratulations on finishing this journey from batch to streaming data engineering! You've learned how to build real-time pipelines with Apache Kafka and Apache Flink, but this is just the beginning. Discover next steps to continue your learning, connect with the streaming community, and validate your new skills with Confluent certifications.\n\nWhether you want to dive deeper into event-driven microservices, explore Apache Iceberg for data lakehouses, or connect with other developers building streaming systems, we've got resources to help you keep growing.\n\nTechnologies covered: Apache Kafka, Apache Flink, Real-time Data Streaming, Data Engineering\n\n📚 CHAPTERS:\n\n00:00 - Course Recap\n00:12 - Next Steps and Resources\n00:29 - Join the Community\n00:55 - Thank You\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "ZXF_R-QnNHY",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:bIH3Z35L_sQ",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Why One Data Pipeline Can't Serve Everyone | Modern Data Engineering Pipelines",
+      "url": "https://www.youtube.com/watch?v=bIH3Z35L_sQ",
+      "published_at": "2026-09-17T11:00:18+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://confluent.io | What do you do when three teams show up in the same week, all wanting the same data in three completely different shapes?\n\nYou run the data pipeline at an investment bank. Employees report their personal trades so insider trading can be detected, and the pipeline is pristine — external APIs into Apache Kafka®, through Apache Flink® for enrichment, into Apache Iceberg® tables on S3. Then compliance asks for two years of trades in Tableau, the risk team needs history plus live features for an insider-trading model, and the trading platform wants pre-trade checks in fifty milliseconds. Same data, three completely different needs — and no single physical output can serve all three.\n\nIn this video, Afzal from Confluent breaks down the last mile of the data engineering lifecycle: serving data. You'll learn the three consumer shapes that cover almost every client you'll ever meet — BI, ML, and operational — the two questions that characterize each one, and the single design move that solves all three: shifting compute upstream so you pay at write time, not at query time. Then we wrap the serving layer in observability and contracts — and turn a pipeline into a platform.\n\nTopics covered:\n- The three consumer shapes: BI (pull), ML (hybrid), operational (push)\n- SQL serving and pre-aggregation for BI at scale\n- Training-serving skew and \"\"define once, execute consistently\"\"\n- The latency ladder: 500 ms → 50 ms → 5 ms\n- Reverse ETL and the loop-back on a streaming backbone\n- Multi-tenant observability, schema contracts, SLAs, and failure semantics\n\nTechnologies covered: Apache Kafka®, Apache Flink®, Apache Iceberg®, Apache Pinot®, ClickHouse, Redis, Tableau, PyTorch, Schema Registry\n\n📚 CHAPTERS:\n00:00 - Introduction  \n01:07 - The Pipeline at the Bank  \n02:00 - Consumer 1: Compliance Audit (BI)  \n03:14 - Consumer 2: Insider Trading Model (ML)  \n04:34 - Consumer 3: Pre-Trade Check (Operational)  \n06:18 - Same Data, Three Shapes  \n07:46 - Observability  \n08:46 - Contracts\n\nQuestions or opinions? Drop a comment or find Afzal on the Confluent Community Slack.\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "bIH3Z35L_sQ",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    }
+  ]
+}
