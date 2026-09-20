@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-20T10:24:36.131210+00:00",
+  "window": {
+    "since": "2026-09-19T10:24:36.131210+00:00",
+    "until": "2026-09-20T10:24:36.131210+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:FQDP0Wr6PuA",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Harness, Omnigent meta-harness and the future of AI",
+      "url": "https://www.youtube.com/watch?v=FQDP0Wr6PuA",
+      "published_at": "2026-09-19T13:30:07+00:00",
+      "author": "codebasics",
+      "summary": "In this podcast, we are having a conversation with Elise Gonzales who is  the staff product manager at Databricks. We will discuss what is harness, meta-harness, Omnigent opensource package for meta-harness.\n\nElise's linkedin: https://www.linkedin.com/in/elise-gonzales-3b4a7069/\n\n⭐️ Timestamps ⭐️\n\n00:00 Intro\n00:59 Alice’s Journey: Amazon, Microsoft & Databricks\n02:15 AI Agents and Harnesses Explained\n05:13 What Is a Meta-Harness?\n07:12 Why Meta-Harnesses Could Dominate 2027\n09:10 Guardrails, Security and Agent Control\n10:37 Why Databricks Open-Sourced Omnigen\n12:37 Vibe Coding for Product Managers\n14:10 Skills You Need for an AI Career\n15:19 The Real Cost of AI and Token Usage\n16:18 The Future of Human–Agent Collaboration\n18:48 Agentic Pair Programming\n19:48 How to Contribute to Omnigen\n21:20 Final Career Advice for AI Aspirants\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#️⃣ Social Media #️⃣\n\n\n🧑‍🤝‍🧑 Discord for Community Support:  https://discord.gg/r42Kbuk\n🏫 Skool Community for Support & Networking - https://resources.codebasics.io/6J8mXg\n📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n📝 Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n📱 Dhaval's X handle : https://x.com/dpcodebasics\n\n------\n\n📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalcodebasics\n\n🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "FQDP0Wr6PuA",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    }
+  ]
+}
