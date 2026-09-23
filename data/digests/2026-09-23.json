@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-23T10:35:19.777801+00:00",
+  "window": {
+    "since": "2026-09-22T10:35:19.777801+00:00",
+    "until": "2026-09-23T10:35:19.777801+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:1v9m-RUfaEY",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "100x More Reliable Voice Agents",
+      "url": "https://www.youtube.com/watch?v=1v9m-RUfaEY",
+      "published_at": "2026-09-22T14:00:06+00:00",
+      "author": "AAIF Live",
+      "summary": "Luke and Nico work at SLNG.ai. Today they launch Unmute, an open declarative standard for voice agents, under an MIT license.\n\nThe problem they are attacking: every voice agent platform has its own definition of what an agent is. Build on ElevenLabs, VAPI, Retell or Bolna and your agent stays there. Even across the open frameworks, a Pipecat agent does not port cleanly to LiveKit. You pick a stack, you build inside it, and your voice IP ends up owned by whichever one you started with.\n\n- Three assumptions Unmute argues are wrong: that voice agents are a sequential turn-taking pipeline, that the LLM should be the decision-making spine of the call, and that you must choose between rigid IVR and a long prompt followed by hope\n- Declared execution: tool calls, data flows, step transitions and failure handling are declared and enforced by the compiled package, and the LLM becomes an optional resource that has to earn its place\n- Determinism as a dial, set turn by turn. Lock a regulatory disclosure, leave an open-ended objection generative, in the same call\n- Why single-prompt agents break: the model reads every rule at every turn, goes off topic, picks some rules and ignores others, and nobody can tell which part caused the failure\n- The salon example, built twice. On the left, one agent, one prompt, ten tool descriptions read on every turn, and a section whose only job is telling the model which of four steps it is on. On the right, a concierge with one tool and a separate complaint specialist\n- The measured result in Langfuse: same conversation, same step count, but more than double the token usage on the single-prompt version, plus fewer turns and lower latency on the split one\n- The counterintuitive part: the four split prompts contain nearly double the total text, but you only pay for what sits in front of the model right now. Someone asking what time you open should not pay for the refund policy\n- Structural guarantees over instructions: the booking step is not handed to the model until a confirmed number exists, so a booking without confirmation is impossible rather than merely unlikely\n- Prefetch before the greeting. Most agents spend the first thirty seconds asking things they could have known. A tool that takes no arguments is not a real tool\n- Typed variables with declared scope. A value can appear in exactly one prompt, pasting it elsewhere is a build error, and tools get values injected rather than asking the model to retype them\n- The live build: one paragraph describing the problem, a newly installed skill, Claude Code writing the package, then unmute compile and unmute dev to a working agent you can call\n\nIf you are building voice agents and you have watched a great demo fall apart in production, the argument here is that the prompt was never the specification, and the fix is structural rather than better wording.\n\nLinks and Resources\n- Unmute: https://unmute.ai/\n- Unmute on GitHub: https://github.com/slng-ai/unmute\n- Pipecat: https://www.pipecat.ai/\n- LiveKit Agents: https://livekit.io/agents\n- Langfuse: https://langfuse.com/\n- Agentic AI Foundation: https://agenticaifoundation.org/\n\n#VoiceAI",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "1v9m-RUfaEY",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
