@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-25T10:56:08.936433+00:00",
+  "window": {
+    "since": "2026-09-24T10:56:08.936433+00:00",
+    "until": "2026-09-25T10:56:08.936433+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:X0Wyw__1Flw",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Big Data LDN 2026 - Lakebase & LTAP | Simon Whiteley & Holly Smith",
+      "url": "https://www.youtube.com/watch?v=X0Wyw__1Flw",
+      "published_at": "2026-09-24T13:50:13+00:00",
+      "author": "Advancing Analytics",
+      "summary": "We sat down with Holly Smith from Databricks at Big Data LDN for a chat - hear about Holly's session topic, about Lakebase and LTAP.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "X0Wyw__1Flw",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:1GlRm_djP6U",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Big Data LDN 2026 - what's the vibe like? | Simon Whiteley & Holly Smith",
+      "url": "https://www.youtube.com/watch?v=1GlRm_djP6U",
+      "published_at": "2026-09-24T13:27:05+00:00",
+      "author": "Advancing Analytics",
+      "summary": "We're at Big Data LDN and sat down with Holly Smith from Databricks for a chat - hear her take on what the vibe is this year, and how it's changed from previous years.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "1GlRm_djP6U",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
