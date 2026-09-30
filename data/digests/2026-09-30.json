@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-30T11:43:53.956001+00:00",
+  "window": {
+    "since": "2026-09-29T11:43:53.956001+00:00",
+    "until": "2026-09-30T11:43:53.956001+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:aSI_dxt8KhY",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Building an AI Platform: SDK Design, Model Routing, Vector Search & Evals - Suhas Suresha",
+      "url": "https://www.youtube.com/watch?v=aSI_dxt8KhY",
+      "published_at": "2026-09-30T04:44:20+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with Suhas:\nLinkedIn - https://www.linkedin.com/in/suhas-suresha/\nTwitter - https://x.com/inceptor92\nGithub - https://github.com/suhas1992\nWebsite - https://suhassuresha.com/\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "aSI_dxt8KhY",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:Z8yd4eVP63c",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "\"A Very Special Episode\" of Office Hours",
+      "url": "https://www.youtube.com/watch?v=Z8yd4eVP63c",
+      "published_at": "2026-09-29T15:45:18+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "When we were kids, TV shows would introduce some episodes as \"a very special episode,\" and it meant they were going to tackle a sensitive topic like a family member dying, or drugs, or something heavy. In this episode, I talk about AI and what's happening to tech careers.\n\nHere's the link I talk about in the video: https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/\n\n00:00 Start\n03:56 Index Cobbler: Thorsten compares human coders to Italian shoemakers. Is hand-tuning an index or query destined to become a luxury craft, and if so, who will still pay for it?\n06:53 DROP TABLE Optimist: What permissions, approvals, and blast-radius limits would you require before letting an AI agent make changes directly in a production database?\n08:38 Second-League Sam: If people without enough tokens are temporarily pushed into a “second league,” what career advice would you give a DBA whose employer will not pay for capable AI tools?\n11:52 Legacy System Whisperer: The article predicts a generation-long replacement of old software. Does that give SQL Server DBAs a long career runway, or trap them maintaining systems nobody wants to understand?\n13:26 SSMS Widow: If the terminal and CLI tools are dying, what happens to SSMS, sqlcmd, and Azure Data Studio? Is Management Studio going to turn into a chat window with a query plan hidden somewhere behind it?\n16:13 The One Percent: Thorsten says performance optimization only matters for the 1% of software that actually has users. Isn't that 1% exactly the stuff that lands on my SQL Server? Does this article make DBAs more valuable or less?\n17:21 Compiled But Wrong: He says 900 lines of AI-written C compiled and ran first try, so tests are pointless. How many AI-generated queries have you seen that compiled fine, ran fine, and returned the wrong rows? Isn't SQL the poster child for 'it ran' not meaning 'it's right'?\n20:41 ACID Reflux: How do you reconcile probabilistic AI-generated software with the deterministic guarantees we expect from transactions, constraints, and financial data?\n21:50 Query Store Historian: If agents constantly rewrite queries and database code, how should we baseline performance and prove which generated change caused a regression?\n23:33 Meat Proxy DBA: The article says engineers who merely feed tickets to agents will lose value. What work keeps a DBA from becoming a “meat proxy” for AI-generated scripts?\n25:30 Leading Comma Karen: Thorsten says code style rules like 80 columns exist for humans and agents don't care. Does that mean the T-SQL formatting wars are finally over? Can I stop arguing about leading commas and just let the robot pick?\n27:40 Schema Sommelier: If nobody designs schemas by hand anymore, who teaches the model what a good one looks like? Won't it just learn from every terrible EAV table and GUID clustered key on Stack Overflow?\n29:20 Review Bombed: Thorsten Ball says code review is dead because humans can't find bugs in AI-generated code fast enough. Should I stop reviewing the T-SQL my developers' agents generate, or is the database the one place where somebody still needs to read the query before it hits production?\n31:32 Wrong-Thing Wrangler: If most future bugs are really “you asked for the wrong thing” bugs, are DBAs about to spend more time validating requirements and less time tuning queries?\n33:31 sp_BlitzAutopilot: sp_Blitz and sp_BlitzIndex have AI features now. Given what Thorsten says about nobody reading output anymore, is the next step letting the scripts just fix things themselves? Would you ever ship that?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "Z8yd4eVP63c",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
