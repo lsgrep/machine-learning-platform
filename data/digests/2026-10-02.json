@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-02T11:42:21.539097+00:00",
+  "window": {
+    "since": "2026-10-01T11:42:21.539097+00:00",
+    "until": "2026-10-02T11:42:21.539097+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:2QHE75oWT2w",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The Caveman Prompting Challenge",
+      "url": "https://www.youtube.com/watch?v=2QHE75oWT2w",
+      "published_at": "2026-10-01T14:00:26+00:00",
+      "author": "AAIF Live",
+      "summary": "Caveman prompting has one rule: why use many words when few do the trick? It saves tokens on the way in and on the way out. Push it too far, though, and the output falls apart. So how far is too far? Nobody has benchmarked it yet, and that question opens our conversation with James Barney, Head of Forward Labs at MetLife.\n\nJames spends his days connecting new AI capabilities to old business problems across dozens of regulatory regimes, and he still finds time to push code. He explains how the FinOps Foundation's AI working group took on the most basic question: which model for which workload, and why the answer always comes down to cost, speed, and accuracy. We get into Anthropic's launch pricing for Fable, why a million tokens is easy to price and hard to explain, and why every stakeholder eventually tells you what they really care about once you name the wrong North Star.\n\nFrom there it gets practical. Start with the smartest model, then step down and add harness until quality holds. Treat exploration tokens like local builds and production tokens like pipelines. Govern agents the way you govern people, with proactive blocks, reactive checks, and policy as code an agent can actually read.\n\nWe close on a bigger shift. When a chat window can pull from every dashboard at once, do we still need dashboards? James thinks mostly not, with one catch he calls the latent shopper problem: some insights only come from browsing data you did not know to ask about.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nJames Barney: https://www.linkedin.com/in/james-barney\n\nTimestamps:\n[00:00] Cold open\n[01:03] Meet James from MetLife\n[01:11] What AI enablement means at a global insurer\n[03:27] Inside the FinOps Foundation AI working group\n[05:03] The caveman skill challenge\n[06:37] Why we need a CaveBench\n[07:43] Anthropic's Fable launch pricing\n[09:34] Planning for surprise model releases\n[11:45] Measuring AI value beyond cost\n[12:47] Finding your unit metric\n[14:15] Tying token spend to business outcomes\n[16:35] Explore first, then optimize\n[18:12] AI that tunes itself\n[20:13] Do R&D tokens count\n[23:24] When the experiment becomes the product\n[25:38] Personal agents and daily briefings\n[27:39] Governing agents that run just because they can\n[30:37] The layers of AI governance\n[31:56] Proactive and reactive guardrails\n[32:59] Policy as code for agents\n[34:41] Stop the click ops\n[35:31] Is the modern UI obsolete\n[36:36] MCP apps and chat as the new browser\n[38:07] How AI gathers data differently than humans\n[40:37] The latent shopper problem\n[42:12] Staying close to your data",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "2QHE75oWT2w",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
