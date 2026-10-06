@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-06T12:33:53.863412+00:00",
+  "window": {
+    "since": "2026-10-05T12:33:53.863412+00:00",
+    "until": "2026-10-06T12:33:53.863412+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:2JJIqJ31oSo",
+      "source_id": "geek_narrator",
+      "source_name": "The Geek Narrator",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 1,
+      "title": "Skip Lists Explained: How Coin Flips Make Search Fast",
+      "url": "https://www.youtube.com/watch?v=2JJIqJ31oSo",
+      "published_at": "2026-10-05T16:59:02+00:00",
+      "author": "The Geek Narrator",
+      "summary": "How can coin flips make a linked list fast? In this visual lightboard lesson, Kaivalya Apte explains skip lists—from express-lane intuition to search, insertion, deletion, and the math behind expected O(log n) performance.\n\nWe trace pointer updates, build randomized node heights, and work through the backward-search argument. You'll also see how promotion probability affects memory use and how skip lists compare with balanced trees.\n\nKey takeaway: skip lists give expected O(log n) search, insertion, and deletion, with expected O(n) space for a fixed promotion probability. Individual operations can still take O(n) in the worst case.\n\nChapters:\n00:00 Why sorted linked lists are still slow\n01:45 Express lanes: the skip-list intuition\n05:36 Coin flips and randomized node heights\n07:58 One tower, one node: storing pointers\n08:56 The search rule and update array\n10:02 Search walkthrough\n11:58 Insertion and pointer updates\n13:22 Deletion and empty levels\n14:27 Why expected O(log n)?\n16:49 The backward-search proof\n22:09 Expected O(n) space\n23:13 Tuning the promotion probability\n24:27 Skip lists versus balanced trees\n25:49 The four key ideas\n\nWatch next:\nLSM Trees: How does it all work?\nhttps://youtu.be/CizxYuq-z6E\n\nBloom Filters 101\nhttps://youtu.be/NvCuooCaSUs\n\nFor memberships: join this channel as a member here:\nhttps://www.youtube.com/channel/UC_mGuY4g0mggeUGM6V1osdA/join\n\nDon't forget to like, share, and subscribe for more insights!\n\n=============================================================================\nLike building stuff? Try out CodeCrafters and build amazing real world systems like Redis, Kafka, Sqlite. Use the link below to signup and get 40% off on paid subscription.\n\nhttps://app.codecrafters.io/join?via=geeknarrator\n\n=============================================================================\nDatabase internals series: https://youtu.be/yV_Zp0Mi3xs\n\nPopular playlists:\nRealtime streaming systems: https://www.youtube.com/playlist?list=PLL7QpTxsA4se-mAKKoVOs3VcaP71X_LA-\n\nSoftware Engineering: https://www.youtube.com/playlist?list=PLL7QpTxsA4sf6By03bot5BhKoMgxDUU17\n\nDistributed systems and databases: https://www.youtube.com/playlist?list=PLL7QpTxsA4sfLDUnjBJXJGFhhz94jDd_d\n\nModern databases: https://www.youtube.com/playlist?list=PLL7QpTxsA4scSeZAsCUXijtnfW5ARlrsN\n\nStay Curious! Keep Learning!\n\n#SkipLists #DataStructures #Algorithms",
+      "duration_seconds": null,
+      "tags": [
+        "lsm-tree",
+        "slatedb",
+        "tigerbeetle",
+        "s3-cas",
+        "aurora-dsql",
+        "assertion-density",
+        "simulation-testing"
+      ],
+      "raw": {
+        "channel_id": "UC_mGuY4g0mggeUGM6V1osdA",
+        "video_id": "2JJIqJ31oSo",
+        "playlist_id": "UU_mGuY4g0mggeUGM6V1osdA"
+      }
+    }
+  ]
+}
