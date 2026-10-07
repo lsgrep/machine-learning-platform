@@ -1,0 +1,399 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-07T12:27:02.225311+00:00",
+  "window": {
+    "since": "2026-10-06T12:27:02.225311+00:00",
+    "until": "2026-10-07T12:27:02.225311+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:4S82EDTo5WQ",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "KCP in 90 seconds | Migrating from Apache Kafka® to Confluent Cloud",
+      "url": "https://www.youtube.com/watch?v=4S82EDTo5WQ",
+      "published_at": "2026-10-07T11:00:36+00:00",
+      "author": "Confluent Developer",
+      "summary": "Learn more: https://confluent.io/use-case/kafka-migration/ | Confluent's KCP moves your clients over with no code changes and a cutover window under 30 seconds.\n\nMigrating Kafka clients to Confluent Cloud usually means rewriting client configs, coordinating a big-bang cutover across teams, and hoping the rollback plan works if something breaks. It doesn't have to. KCP, Confluent's open-source CLI, migrates both your Kafka data and Confluent Cloud with zero code changes and a cutover window under 30 seconds. Client apps keep their existing code and credentials: only a bootstrap URL is updated. Cluster Linking replicates topic data and consumer offsets, so consumers pick up in Confluent Cloud exactly where they left off, while producers simply buffer for a few seconds during cutover. KCP groups related topics and clients into \"migration groups,\" so each team migrates on its own schedule instead of a big-bang cutover, and Confluent Cloud Gateway translates credentials behind the scenes so clients keep authenticating the way they always have.\n\nLEARN MORE\n► Learn more about migration: https://confluent.io/use-case/kafka-migration\n► Check out Confluent Developer: https://developer.confluent.io/\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #kcp #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "4S82EDTo5WQ",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:T1R-IfYrRFY",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "AI Platform: Memory, Tools, Guardrails, Observability, Shipping a Production Agent - Dewang Sultania",
+      "url": "https://www.youtube.com/watch?v=T1R-IfYrRFY",
+      "published_at": "2026-10-07T04:44:30+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "T1R-IfYrRFY",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:SnT88UFyfiA",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Feature Store Summit 2026: Feature Stores and Real-time Context for Agents",
+      "url": "https://www.youtube.com/watch?v=SnT88UFyfiA",
+      "published_at": "2026-10-06T22:12:42+00:00",
+      "author": "Hopsworks",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "SnT88UFyfiA",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:HLZuSW7zFQM",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Data & AI Weekly | Ep. 9 | Why Your AI Agents Need Performance Reviews, Too",
+      "url": "https://www.youtube.com/watch?v=HLZuSW7zFQM",
+      "published_at": "2026-10-06T20:08:38+00:00",
+      "author": "Redpanda Data",
+      "summary": "Hiring a person comes with a built-in vetting process — resumes, interviews, reference checks — that gives you real confidence they'll behave predictably once they're on the team. Hiring an \"agent\" skips all of that. You get something capable, sometimes brilliant, with none of the track record.\n\nIn this episode, Redpanda Chief Technology Officer, Tyler Akidau sits down with Head of AI, Marc Millstone, to unpack why the enterprises actually getting production value out of agents aren't the fastest movers — they're the ones who can explain, after the fact, exactly what an agent did and why. Drawing on patterns Tyler's seen across dozens of enterprise conversations, they get into what a real evaluation process for an agent looks like, why it has to go well beyond a traditional audit log, and what to get right from day one if you're just getting started.",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "HLZuSW7zFQM",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:roDg0C6tty0",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "POV: You finally became a senior developer",
+      "url": "https://www.youtube.com/watch?v=roDg0C6tty0",
+      "published_at": "2026-10-06T17:30:14+00:00",
+      "author": "Andreas Kretz",
+      "summary": "Years of grinding through the basics, Linux, Docker, AWS, Kubernetes, and then AI came along and suddenly everybody said we don't need all that anymore. A bit annoying, right? Can you relate to this?\n#DeveloperLife #DataEngineering #AI #TechHumor #SoftwareDeveloper #Claude #ChatGPT #TechCareers",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "roDg0C6tty0",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    },
+    {
+      "id": "yt:P3TP-JXzphM",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Feature Store Summit 2026: Feature Stores and Real-time Context for Agents",
+      "url": "https://www.youtube.com/watch?v=P3TP-JXzphM",
+      "published_at": "2026-10-06T15:33:00+00:00",
+      "author": "Hopsworks",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "P3TP-JXzphM",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:qOLMsBBdQbc",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Confluent X VCARB: Every Second Means Everything",
+      "url": "https://www.youtube.com/watch?v=qOLMsBBdQbc",
+      "published_at": "2026-10-06T15:29:54+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "About Confluent:\n\nNow an IBM company, Confluent was built by the creators of Apache Kafka® to help businesses easily access and use live, streaming data. Its platform manages large flows of data and shares them across an organization in real time. Industries like retail, finance, and manufacturing connect their data, analyze it, and run real-time applications. To learn more, please visit https://confluent.io\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "qOLMsBBdQbc",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    }
+  ]
+}
