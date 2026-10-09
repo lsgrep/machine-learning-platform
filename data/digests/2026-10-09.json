@@ -1,0 +1,287 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-09T12:24:06.054745+00:00",
+  "window": {
+    "since": "2026-10-08T12:24:06.054745+00:00",
+    "until": "2026-10-09T12:24:06.054745+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:H8MNuoxAmNU",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Inside a Game Where AI Agents Never Sleep",
+      "url": "https://www.youtube.com/watch?v=H8MNuoxAmNU",
+      "published_at": "2026-10-08T17:00:37+00:00",
+      "author": "AAIF Live",
+      "summary": "What happens to an MMORPG when half the players never log off? Issac Lee, who runs AI and blockchain experiments at NEXUS, has been testing that idea. His team is filling game worlds with agent players instead of scripted NPCs, so a new title feels alive from day one.\n\nWe get into why agent-generated content could be the next step after studio-made and user-generated games. We also cover how agent populations might solve the chicken-and-egg problem every multiplayer launch faces, and what it means when your fellow players are relentless and never need sleep. Isaac walks through the NEXUS lab: a text-to-3D world builder for Roblox, an AI pipeline that turns ONE store novels into short web dramas, a loop-based tool for natural pixel animation, and Da Vinci, the internal multi-agent framework the team uses to ship.\n\nThen the conversation turns to infrastructure. We talk about why NEXUS went from 200 hand-defined agent roles to a much thinner harness, whether custom harnesses still matter now that Claude and Codex exist, and why the Kimi release pushed the company to start building its own small data center for inference. We close on context: how much of your life you should hand to an AI, what personalized meeting notes could look like, and why shopping agents may force every ecommerce site to rethink who it's designing for.\n\nDemetrios Brinkmann: ⁠https://www.linkedin.com/in/dpbrinkm⁠\nIssac Lee: ⁠https://www.linkedin.com/in/issacley/?locale=ko⁠\n\nTimestamps:\n[0:00] Cold open\n[0:57] AI in gaming at NEXUS\n[2:19] Text to 3D and the last 10 percent\n[4:38] AI companions and coaches\n[6:35] Agent players in MMORPGs\n[8:27] From UGC to agent-generated content\n[11:07] Agents that never sleep\n[12:58] Taming fuzzy prompts\n[19:24] Inside Da Vinci\n[23:10] Undercover QA agents\n[27:14] Do harnesses still matter\n[31:52] Self-hosting open models\n[41:33] Lab experiments and Bob\n[50:42] How much context is too much\n[54:22] Marketing and shopping agents",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "H8MNuoxAmNU",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:FfwHqBPZcI0",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "The Joys of Early Exits",
+      "url": "https://www.youtube.com/watch?v=FfwHqBPZcI0",
+      "published_at": "2026-10-08T16:00:39+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this video, I dive into the concept of early exits in T-SQL code, particularly in stored procedures and triggers. I highlight how early exits can significantly improve query performance by avoiding unnecessary work when no data is found or when certain conditions are not met. By sharing practical examples and demonstrating how to implement these early exits, I aim to help you optimize your code and reduce unnecessary CPU usage. Whether you're a developer, a DBA, or just someone interested in query tuning, this video offers valuable insights that can be applied to your work. Additionally, I discuss the benefits of using free, open-source tools like Code.ErikDarling.com for monitoring SQL Server and PostgreSQL, and I share some exciting speaking engagements I have coming up at Pass Summit West.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:01:31 - Early Exits in Code\n00:04:13 - Practical Examples\n00:06:00 - Early Exits in Triggers\n00:08:06 - Benefits of Early Exits\n00:08:37 - Conclusion\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🕵️‍♂️ FREE SQL SERVER MONITORING & Plan Analysis\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nhttps://github.com/erikdarlingdata/PerformanceMonitor\n\nhttps://github.com/erikdarlingdata/PerformanceStudio\n\nhttps://plans.erikdarling.com/\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n📚 TRAINING & COURSES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nGet AI-Ready With Erik\nhttps://training.erikdarling.com/get-ai-ready-with-erik?coupon=AIREADY\n\nSQL Server Performance Engineering Course\nhttps://training.erikdarling.com/sql-server-performance-engineering?coupon=ENGINEERING\n\nLearn T-SQL with Erik\nhttps://training.erikdarling.com/learn-t-sql-with-erik?coupon=ADVANCEDTSQL\n\nEverything Bundle:\nhttps://training.erikdarling.com/?coupon=SPRINGCLEANING\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛠️ CONSULTING & SERVICES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNeed SQL Server performance help?\nhttps://training.erikdarling.com/sqlconsulting\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n💬 CONNECT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAsk questions at Office Hours\nhttps://erikdarling.com/officehours/\n\nBecome a channel member\nhttps://www.youtube.com/@ErikDarlingData/join",
+      "duration_seconds": null,
+      "tags": [
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "FfwHqBPZcI0",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    },
+    {
+      "id": "yt:aVRjFZM23ak",
+      "source_id": "bytebytego",
+      "source_name": "ByteByteGo",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 2,
+      "title": "How to Test Your Code (Even When AI Writes It)",
+      "url": "https://www.youtube.com/watch?v=aVRjFZM23ak",
+      "published_at": "2026-10-08T15:30:09+00:00",
+      "author": "ByteByteGo",
+      "summary": "Try CodeRabbit for Free: https://coderabbit.link/bytebytego-007\n\nSubscribe to our weekly newsletter to get a Free System Design PDF (368 pages): https://go.bytebytego.com/nl-subscribe",
+      "duration_seconds": null,
+      "tags": [
+        "system-design",
+        "rate-limiting",
+        "load-balancing",
+        "consistent-hashing"
+      ],
+      "raw": {
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "video_id": "aVRjFZM23ak",
+        "playlist_id": "UUZgt6AzoyjslHTC9dz0UoTw"
+      }
+    }
+  ]
+}
