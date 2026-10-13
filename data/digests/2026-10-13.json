@@ -1,0 +1,401 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-13T13:19:08.760555+00:00",
+  "window": {
+    "since": "2026-10-12T13:19:08.760555+00:00",
+    "until": "2026-10-13T13:19:08.760555+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:NBkwDSumv8w",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "DAX Calculated Tables Explained (SUMMARIZE, SUMMARIZECOLUMNS) | Power BI Course 32",
+      "url": "https://www.youtube.com/watch?v=NBkwDSumv8w",
+      "published_at": "2026-10-13T12:45:48+00:00",
+      "author": "Data with Baraa",
+      "summary": "Learn Power BI calculated tables: build a new table at the level you need with SUMMARIZE and SUMMARIZECOLUMNS.\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *SQL Handbook* https://academy.datawithbaraa.com/l/digital_download/1087406/the-sql-handbook\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n*💼 LinkedIn Learning*\n- *Databricks for Data Analysts* https://www.linkedin.com/learning/databricks-for-data-analysts\n- *Claude Code for Data Analysis* https://www.linkedin.com/learning/claude-code-for-data-analysis-build-repeatable-reliable-workflows\n\n📬 *Newsletter for data friends*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Table Functions in DAX\n1:05 What Is a Calculated Table\n2:22 Why Use Calculated Tables\n4:18 SUMMARIZE\n9:18 SUMMARIZECOLUMNS\n11:08 Recap: Which Aggregation to Use\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #dax #dataanalyst #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "NBkwDSumv8w",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:oWVmQDqZ7tw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Building AI Evaluations You Can Actually Trust - Tejas Kumar",
+      "url": "https://www.youtube.com/watch?v=oWVmQDqZ7tw",
+      "published_at": "2026-10-13T10:29:17+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links: \n\n- https://www.youtube.com/watch?v=C_GG5g38vLU\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "oWVmQDqZ7tw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:xC5lqvfSfLU",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Navigating the Maze of Production Machine Learning - Miguel Otero Pedrido @TheNeuralMaze",
+      "url": "https://www.youtube.com/watch?v=xC5lqvfSfLU",
+      "published_at": "2026-10-12T23:41:32+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- https://www.youtube.com/@TheNeuralMaze\n- https://www.theneuralmaze.com/\n\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\n\n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "xC5lqvfSfLU",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:9Ff1QMPLfI4",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "How to Think Like the SQL Server and PostgreSQL Engines",
+      "url": "https://www.youtube.com/watch?v=9Ff1QMPLfI4",
+      "published_at": "2026-10-12T16:43:11+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "You’re a developer or a DBA, and you’re comfortable writing queries to get the data you need. You’re much less comfortable trying to design the right indexes for your database server. In my new totally free How to Think Like the Engines class, you’ll learn how the SQL Server and Postgres database engines look at your indexes and build your query results.\n\nYou’ll learn:\n\nThe differences between nonclustered indexes and clustered indexes (and why Postgres doesn't use clustered indexes at all)\n\nWhich kinds of indexes work better as a starting point for SQL Server, versus which ones work better for Postgres\n\nThe basics of execution plans on both platforms, and how to read them",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "9Ff1QMPLfI4",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:bUSOD3wlHwo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "How to Think Like the SQL Server and PostgreSQL Engines",
+      "url": "https://www.youtube.com/watch?v=bUSOD3wlHwo",
+      "published_at": "2026-10-12T16:41:04+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "You’re a developer or a DBA, and you’re comfortable writing queries to get the data you need. You’re much less comfortable trying to design the right indexes for your database server. In my new totally free How to Think Like the Engines class, you’ll learn how the SQL Server and Postgres database engines look at your indexes and build your query results.\n\nYou’ll learn:\n\nThe differences between nonclustered indexes and clustered indexes (and why Postgres doesn't use clustered indexes at all)\n\nWhich kinds of indexes work better as a starting point for SQL Server, versus which ones work better for Postgres\n\nThe basics of execution plans on both platforms, and how to read them",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "bUSOD3wlHwo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:HglV1_EF7tA",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AAIF Reading Group: Measuring Agent Policy Compliance",
+      "url": "https://www.youtube.com/watch?v=HglV1_EF7tA",
+      "published_at": "2026-10-12T15:14:01+00:00",
+      "author": "AAIF Live",
+      "summary": "Measuring Agent Policy Compliance: Are AI Agents Following Their Intended Policies?\n\nHow do we measure whether an AI agent is actually following its intended policies?\n\nJoin the Agentic AI Foundation (AAIF) community for an informal reading group exploring the paper “Measuring Agent Policy Compliance.”\n\nPaper: https://arxiv.org/abs/2607.25398\n\nWe’ll read through the paper together, unpacking its approach to measuring policy compliance in AI agents, examining its key ideas and assumptions, and discussing the challenges involved in evaluating agent behavior.\n\nThis is not a formal presentation or lecture. It’s a community conversation: bring your questions, interpretations, disagreements, and ideas. We’ll leave plenty of room for open discussion and constructive debate.\n\nWe’ll explore:\n\n- How agent policy compliance can be measured\n- The paper’s methodology and key ideas\n- Challenges in evaluating whether agents follow their intended policies\n- Assumptions and limitations of the proposed approach\n- Questions and perspectives from the community\n- What this could mean for building and evaluating more reliable AI agents\n\nIf you’ve read the paper already, come ready to share your perspective. If you haven’t, you’re still welcome - we’ll work through it together.\n\nCome curious. Bring questions. Let’s read the paper together and see where the discussion takes us.\n\n## About the Agentic AI Foundation\n\nThe Agentic AI Foundation (AAIF) is the open, neutral home for the agentic AI ecosystem, bringing together developers, researchers, companies, and communities to build open standards and infrastructure for interoperable AI agents.\n\nLearn more: Agentic AI Foundation\n\nExplore AAIF Events: AAIF Events\n\nJoin the AAIF community: AAIF Community\n\nFollow AAIF: AAIF on LinkedIn",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "HglV1_EF7tA",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:QnrIyf48MvU",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Bridging the Gap Between AI Builders and Domain Experts",
+      "url": "https://www.youtube.com/watch?v=QnrIyf48MvU",
+      "published_at": "2026-10-12T14:45:27+00:00",
+      "author": "AAIF Live",
+      "summary": "Everyone is racing to build one agent that can do everything. Justin Schroeder, co-founder of Standard Agents, thinks the future looks more like thousands of tiny ones. Ahead of his talk on domain-specific agents at AGNTCon + MCPCon North America, he explains why tightly scoped agents might be the smarter bet, even if it feels like a step back toward the single-purpose machine learning models of a few years ago.\n\nWe dig into standards as metadata you pin to an agent, so that it shows up with everything it needs in its harness. Then we test the idea against the obvious objection: if a big model can already handle the task, why scope down at all? The answer covers forcing functions, a microservices mindset for agent design, and small agents that quietly check issues or unread messages every five minutes. It also covers the surprise $1K bill waiting for anyone who leaves their agents running.\n\nThen it turns into a proper debate. Our host is 99% sure the agent marketplace will never happen, and Justin arrives with a counter that might change his mind (hint: think about where your skills come from). Along the way, we cover agents as tools versus a big-brain router and how anyone keeps track of a thousand agents. We also talk about why the people who know what agents can do and the people who know what they need still have to meet in the middle.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nJustin Shroeder: https://www.linkedin.com/in/jpschroeder\n\nTimestamps:\n[0:00] Cold open\n[1:03] The future is domain specific agents\n[1:51] God models vs specialist agents\n[2:20] The perfect Gmail agent\n[3:14] Why standards are missing\n[3:29] Train the prompt not the model\n[4:30] The harness beats the model\n[6:07] Standards and runtimes for agents\n[8:17] Why scope down at all\n[10:07] Why model routing won't win\n[10:29] The surprise $1K bill\n[11:12] Agents that build agents\n[12:09] Agents as tools\n[13:23] Managing a thousand agents\n[14:24] Agents for Main Street\n[15:37] Agent marketplaces will never happen\n[16:52] Skills are just bad agents\n[18:04] Skills are already a marketplace\n[20:12] Domain experts build the agents\n[22:12] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "QnrIyf48MvU",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
