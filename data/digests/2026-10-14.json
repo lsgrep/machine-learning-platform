@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-14T10:58:52.510603+00:00",
+  "window": {
+    "since": "2026-10-13T10:58:52.510603+00:00",
+    "until": "2026-10-14T10:58:52.510603+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:oWVmQDqZ7tw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Building AI Evaluations You Can Actually Trust - Tejas Kumar",
+      "url": "https://www.youtube.com/watch?v=oWVmQDqZ7tw",
+      "published_at": "2026-10-13T23:45:00+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "In this talk Tejas Kumar AI Engineer at IBM shares his journey from experimenting with early image generation models as an enthusiast to deploying enterprise grade coding agents. We explore the critical practice of building reliable AI evaluations the LLM as a judge architecture and why manual vibe checking is no longer enough to secure production LLM applications.\n\nLinks: \n- AI Evals: How to Build an LLM Judge That Agrees With You - https://tej.as/blog/ai-evals-llm-judge\n- https://www.youtube.com/watch?v=C_GG5g38vLU\n- Evals code, demos, and slides - https://github.com/TejasQ/basically-agent-evals\n- Tejas's Book, Fluent React: https://www.oreilly.com/library/view/fluent-react/9781098138707/\n\nYou will learn about:\n- The exact definition of the modern AI Engineer and how it differs from traditional machine learning roles\n- Why high profile AI agent failures happen like the Meta customer support hack and how proper evaluations prevent them\n- How to source data and build a comprehensive golden dataset for testing non deterministic LLM outputs\n- Implementing the LLM as a judge architecture to evaluate generative AI agents accurately at scale\n- The eighty five percent rule for successfully aligning automated AI judges with human quality standards\n- Managing high severity edge cases using closed hand evaluations that strictly block dangerous or off policy outputs\n- Why you should separate your execution harness testing from your core agent evaluations\n\nTIMECODES:\n00:00 Defining AI Engineering\n12:11 The Importance of AI Evals and Safety\n18:54 How to Build a Comprehensive Eval Set\n24:57 Sourcing Data and Creating a Golden Dataset\n30:45 High Severity Scenarios and Closed Hand Evals\n36:26 Aligning AI Judges with Human Standards\n42:45 Using Evals for Security and Reliability\n48:52 Primary vs Secondary Metrics in Evals\n55:00 Updating Judges and Human Labeling Methods\n01:01:12 Separating Harness Tests from Agent Evals\n\nThis discussion is tailored for software developers data scientists and emerging AI engineers looking to transition generative AI applications from prototype to production. It provides actionable frameworks for technical teams tasked with ensuring the security reliability and accuracy of customer facing AI agents.\n\nConnect with Tejas\n- LinkedIn - https://www.linkedin.com/in/tejasq\n- Twitter - https://x.com/TejasKumar_\n- Github - https://github.com/TejasQ\n- Website - https://tej.as\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\n#datatalksclub #dtc #AIEvals #LLMasAJudge #AIEngineering #AIAgents #GenerativeAI #LLM #ProductionAI #AISecurity #DataScience #TejasKumar #IBM #MachineLearning #ArtificialIntelligence #SoftwareEngineering #GoldenDataset #TechInterview",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "oWVmQDqZ7tw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:NBkwDSumv8w",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "DAX Calculated Tables Explained (SUMMARIZE, SUMMARIZECOLUMNS) | Power BI Course 32",
+      "url": "https://www.youtube.com/watch?v=NBkwDSumv8w",
+      "published_at": "2026-10-13T12:45:48+00:00",
+      "author": "Data with Baraa",
+      "summary": "Learn Power BI calculated tables: build a new table at the level you need with SUMMARIZE and SUMMARIZECOLUMNS.\n- *Free Power BI materials* https://www.datawithbaraa.com/wiki/power-bi\n- *Full free Power BI course* https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *SQL Handbook* https://academy.datawithbaraa.com/l/digital_download/1087406/the-sql-handbook\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n*💼 LinkedIn Learning*\n- *Databricks for Data Analysts* https://www.linkedin.com/learning/databricks-for-data-analysts\n- *Claude Code for Data Analysis* https://www.linkedin.com/learning/claude-code-for-data-analysis-build-repeatable-reliable-workflows\n\n📬 *Newsletter for data friends*\nhttps://www.blog.datawithbaraa.com\n\n*Get 25% OFF DataCamp's Here*\nhttps://datacamp.pxf.io/bOEe66\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 *Table of Content*\n0:00 Table Functions in DAX\n1:05 What Is a Calculated Table\n2:22 Why Use Calculated Tables\n4:18 SUMMARIZE\n9:18 SUMMARIZECOLUMNS\n11:08 Recap: Which Aggregation to Use\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#powerbi #dax #dataanalyst #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "NBkwDSumv8w",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
