@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-16T10:27:46.834305+00:00",
+  "window": {
+    "since": "2026-10-15T10:27:46.834305+00:00",
+    "until": "2026-10-16T10:27:46.834305+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Lvr3u72bzGQ",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Performance Baseline",
+      "url": "https://www.youtube.com/watch?v=Lvr3u72bzGQ",
+      "published_at": "2026-10-15T23:02:10+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Live class registration is open now - $995 for all my live classes for a year straight! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n21:50 Query Store Historian: If agents constantly rewrite queries and database code, how should we baseline performance and prove which generated change caused a regression?\nPerformance Baseline",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "Lvr3u72bzGQ",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:mNY62rPQpUE",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Agents Acting Safely on Our Behalf",
+      "url": "https://www.youtube.com/watch?v=mNY62rPQpUE",
+      "published_at": "2026-10-15T14:00:10+00:00",
+      "author": "AAIF Live",
+      "summary": "What happens to the web when the ones browsing it are no longer people? Sarah Drasner, Area Tech Lead at Google, sits down with us ahead of her Agentic Web keynote at AGNTCon + MCPCon North America. She works through that question from both directions: rebuild the web so agents can use it properly, or build agents smart enough to handle the web as it already exists.\n\nWe get into the split between computer-use and browser-use agents on one side and API and MCP agents on the other. We also watch a real example of the idea in action: an agent pulling speaker photos from Flickr, hunting down company logos, and loading everything into Canva so the human only touches the creative part. From there, Sarah shares the unlikely origin story of WebMCP (and who's to blame for it). We then pressure-test a bold idea: a WebMCP gateway that could cover the huge share of websites that will never ship support on their own.\n\nAlong the way, we cover the instinct that separates senior engineers, the ability to sense which business problems are actually worth solving. We also talk about how thought experiments cut through a pile of competing priorities, the hacky WebMCP workarounds already showing up in the wild, and why the best agent experiences are the ones that delight customers in ways they never saw coming.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nSarah Drasner: https://www.linkedin.com/in/sarahdrasner\n\nTimestamps:\n[0:00] Cold open\n[0:52] The AGNTCon keynote\n[1:23] Change the web or fix agents\n[3:35] Browser agents vs MCP agents\n[5:48] An agent that builds thumbnails\n[7:03] Keeping the creative work human\n[9:12] Agent allowances and engineering instinct\n[13:34] Thought experiments and priorities\n[15:23] The WebMCP origin story\n[17:08] A WebMCP gateway for the web\n[18:53] It works, but it is not ideal\n[19:44] Hacky WebMCP in the wild",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "mNY62rPQpUE",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
