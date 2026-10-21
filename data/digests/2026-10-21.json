@@ -1,0 +1,292 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-21T10:58:47.616356+00:00",
+  "window": {
+    "since": "2026-10-20T10:58:47.616356+00:00",
+    "until": "2026-10-21T10:58:47.616356+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:hwUseyvCubs",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "CoreBreak: What a Real AI Agent Flaw Proves About Where Guardrails Belong",
+      "url": "https://www.youtube.com/watch?v=hwUseyvCubs",
+      "published_at": "2026-10-20T17:44:56+00:00",
+      "author": "Redpanda Data",
+      "summary": "At Black Hat 2026, researchers found one structural flaw running through three of the biggest AI agent platforms out there — AWS, Google, and Vercel — and gave it a name: CoreBreak. All three had built their safety measures around the model itself: prompts, filters, refusal training. CoreBreak proved that if you can skip the model, you skip every one of those protections, too.\n\nTyler Akidau and Marc Millstone walk through how the attack actually worked, why all three vendors landed on the same emergency fix, and what it means that Redpanda had already built that fix into the Agentic Data Plane before the researchers ever published.",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "hwUseyvCubs",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:NQjdEISVN6k",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The World Wild Web & Bots With Buying Power",
+      "url": "https://www.youtube.com/watch?v=NQjdEISVN6k",
+      "published_at": "2026-10-20T14:45:30+00:00",
+      "author": "AAIF Live",
+      "summary": "An AI slips out of its sandbox. A chatbot won’t explain your cat’s stripes. And your next shopping spree might not involve you clicking anything.\n\nThis episode asks whether “dangerously powerful” AI is a security concern, a marketing pitch, or a little of both. Then we put agents to work: booking trips, tackling German paperwork, drawing diagrams, and navigating the chaos of online shopping. Plus: what happens to checkout, advertising, and customer data when your best customer is a bot?\n\nChapters:\n\n[00:00] Is AI Danger the Ultimate Sales Pitch?\n[00:43] Powerful Models, Payments, and Big Questions\n[01:10] Too Dangerous to Release, Too Good to Ignore?\n[03:19] Why Take the Test When You Can Steal the Answers?\n[08:36] A Security Failure or a Marketing Win?\n[11:02] Powerful AI, Forbidden Cat Questions\n[16:00] AI Only Needs to Find One Unlocked Door\n[20:52] Welcome to the World Wild Web\n[22:47] What Happens When You Give AI a Wallet?\n[26:00] Could ChatGPT Become the Next Amazon?\n[29:50] Mum Wants a Holiday. Can AI Handle It?\n[33:38] Can AI Beat German Bureaucracy?\n[36:28] Claude, Draw My Diagram\n[39:39] Why Is Connecting Your Email Still So Hard?\n[44:24] Stop Giving Me Options. Just Buy the Sofa.\n[46:40] When Bots Shop, Who Owns the Customer?",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "NQjdEISVN6k",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:eJu72VV976U",
+      "source_id": "geek_narrator",
+      "source_name": "The Geek Narrator",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 1,
+      "title": "Key Takeways : Building Databases on top of S3",
+      "url": "https://www.youtube.com/watch?v=eJu72VV976U",
+      "published_at": "2026-10-20T14:04:01+00:00",
+      "author": "The Geek Narrator",
+      "summary": "**Building a Database on S3: Why Round Trips Are Everything**\n\nWhat if your database's only durable storage was a plain object storage bucket? In this video I walk through the key ideas behind building systems on top of S3, one idea at a time. We start with the cost math and end with six practical takeaways.\n\nYou'll learn:\n- Why S3 is roughly 10x cheaper than SSD and 100x cheaper than RAM\n- How a write-ahead log and conditional writes give you consistency without a coordinator\n- Why you should count round trips, not bytes\n- How centroid indexes, huge B-tree nodes, and NVMe caching bring cold queries down to hundreds of milliseconds\n- Why S3 can now be the only durable state your system needs\n\n**Chapters**\n0:00 Intro: the cost of RAM, SSD, and S3\n0:32 The catch: latency and round trips\n0:54 The simplest design: a write-ahead log on S3\n1:20 Conditional writes and consistency\n1:34 Write, read, and space amplification\n2:45 Index design for few round trips (HNSW, centroids, B-trees)\n3:56 Cold vs. warm queries and caching on NVMe\n4:22 Multi-tenancy and noisy neighbors\n5:10 Why this is possible now\n5:38 Six takeaways\n\nEnjoy the video? Like and subscribe for more deep dives into how modern systems are built.\n\n#S3 #ObjectStorage #Databases #SystemsDesign #SoftwareEngineering #vectordatabases \n\nWatch next:\nLSM Trees: How does it all work?\nhttps://youtu.be/CizxYuq-z6E\n\nBloom Filters 101\nhttps://youtu.be/NvCuooCaSUs\n\nFor memberships: join this channel as a member here:\nhttps://www.youtube.com/channel/UC_mGuY4g0mggeUGM6V1osdA/join\n\nDon't forget to like, share, and subscribe for more insights!\n\n=============================================================================\nLike building stuff? Try out CodeCrafters and build amazing real world systems like Redis, Kafka, Sqlite. Use the link below to signup and get 40% off on paid subscription.\n\nhttps://app.codecrafters.io/join?via=geeknarrator\n\n=============================================================================\nDatabase internals series: https://youtu.be/yV_Zp0Mi3xs\n\nPopular playlists:\nRealtime streaming systems: https://www.youtube.com/playlist?list=PLL7QpTxsA4se-mAKKoVOs3VcaP71X_LA-\n\nSoftware Engineering: https://www.youtube.com/playlist?list=PLL7QpTxsA4sf6By03bot5BhKoMgxDUU17\n\nDistributed systems and databases: https://www.youtube.com/playlist?list=PLL7QpTxsA4sfLDUnjBJXJGFhhz94jDd_d\n\nModern databases: https://www.youtube.com/playlist?list=PLL7QpTxsA4scSeZAsCUXijtnfW5ARlrsN\n\nStay Curious! Keep Learning!\n\n#SkipLists #DataStructures #Algorithms",
+      "duration_seconds": null,
+      "tags": [
+        "lsm-tree",
+        "slatedb",
+        "tigerbeetle",
+        "s3-cas",
+        "aurora-dsql",
+        "assertion-density",
+        "simulation-testing"
+      ],
+      "raw": {
+        "channel_id": "UC_mGuY4g0mggeUGM6V1osdA",
+        "video_id": "eJu72VV976U",
+        "playlist_id": "UU_mGuY4g0mggeUGM6V1osdA"
+      }
+    }
+  ]
+}
