@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-23T10:50:24.100313+00:00",
+  "window": {
+    "since": "2026-10-22T10:50:24.100313+00:00",
+    "until": "2026-10-23T10:50:24.100313+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Dddv7P_k60o",
+      "source_id": "bytebytego",
+      "source_name": "ByteByteGo",
+      "source_type": "youtube",
+      "category": "cs_foundations",
+      "tier": 2,
+      "title": "Top 5 AI Building Blocks Every Engineer Should Know",
+      "url": "https://www.youtube.com/watch?v=Dddv7P_k60o",
+      "published_at": "2026-10-22T15:30:15+00:00",
+      "author": "ByteByteGo",
+      "summary": "To get better at system design, subscribe to our weekly newsletter: https://newsletter.bytebytego.com\n\nCheckout our bestselling System Design Interview books: \nVolume 1: https://amzn.to/3Ou7gkd\nVolume 2: https://amzn.to/3HqGozy\n\nABOUT US: \nCovering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series.",
+      "duration_seconds": null,
+      "tags": [
+        "system-design",
+        "rate-limiting",
+        "load-balancing",
+        "consistent-hashing"
+      ],
+      "raw": {
+        "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+        "video_id": "Dddv7P_k60o",
+        "playlist_id": "UUZgt6AzoyjslHTC9dz0UoTw"
+      }
+    },
+    {
+      "id": "yt:b84hZzCZzPM",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Token Maxxing Is Over and Here Is What Comes Next",
+      "url": "https://www.youtube.com/watch?v=b84hZzCZzPM",
+      "published_at": "2026-10-22T14:00:26+00:00",
+      "author": "AAIF Live",
+      "summary": "What happens when you give 200 engineers who have barely touched AI a coding assistant and a six-month deadline to rebuild their platform? Pepijn Senders, a principal engineer who previously led AI enablement at HelloFresh, has done exactly that, and he chose Sonnet over Opus on purpose.\n\nHis reasoning is what he calls \"Sonnet maxxing.\" A model that reasons less and stops sooner keeps developers involved, and that matters a lot when the codebase is banking software full of hard business rules. The result was 800,000 lines of code, about 60% of them written by Sonnet, shipped by a team that never stopped thinking for itself. Pep also explains how to justify the spend once the token-maxxing era ends and the CFO starts asking questions. He covers a scatter chart that plots token spend against output, the uncomfortable question of whether a 1% better home screen was worth $20K in tokens, why he measures gains in headcount rather than 2x or 3x multipliers, and where he fell short when trying to prove ROI at HelloFresh.\n\nWe also get into a codebase test you can run yourself, why AI recommendations quietly narrow your choices, and multiplayer refinement sessions where the whole team works through the agent's questions together. Pep shares an experiment where designers and engineers got the same one-shot prompt, and it showed how words like \"scalable\" and \"maintainable\" steer a model. We finish with how his team built a meta harness on top of Claude Code, after finding that 85% of their code followed the same path: refinement, specification, implementation, verification.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nPepijn Senders: https://www.linkedin.com/in/pepijn-senders\n\nTimestamps:\n[0:00] Cold open\n[1:15] Meet Pep\n[2:35] What is Sonnet maxing\n[5:38] Proving the ROI of AI coding\n[7:48] What failing at HelloFresh taught him\n[10:22] Token spend vs output\n[17:41] The function nobody can explain\n[22:15] The recommended option trap\n[23:39] Team refinement sessions with AI\n[27:20] Designers vs engineers one prompt experiment\n[31:32] Inside the company meta harness",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "b84hZzCZzPM",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
