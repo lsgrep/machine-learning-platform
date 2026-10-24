@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-24T10:05:26.731603+00:00",
+  "window": {
+    "since": "2026-10-23T10:05:26.731603+00:00",
+    "until": "2026-10-24T10:05:26.731603+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 1,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:YIDKxCgrRjs",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AI Agents Need a Babysitter",
+      "url": "https://www.youtube.com/watch?v=YIDKxCgrRjs",
+      "published_at": "2026-10-23T17:00:21+00:00",
+      "author": "AAIF Live",
+      "summary": "AI can write your code, choose its own tools, and book your next trip. But who checks that it actually did the job?\n\nIn this episode of Debug Mode, we explore what it takes to give AI agents more responsibility—and how to keep track of what they’re doing. We discuss intent-based tool selection, MCP and WebMCP, and why a convincing demo doesn’t always translate into reliable automation.\n\nWe also get into the personal AI assistant everyone seems to be building: one that manages travel, handles household tasks, and hopefully remembers to order coffee before you run out.\n\nThen it’s back to code: QA agents, automated verification, tests that capture business intent, and the growing challenge of reviewing AI-generated contributions.\n\nTimestamps:\n[00:00] Who gave AI the keys?\n[00:43] A tattoo years in the making\n[02:40] Tell the agent what you want—not which tool\n[06:19] MCP enters the agent harness\n[07:23] Great demo. What do the benchmarks say?\n[09:55] AI builders rediscover machine learning\n[11:50] Can WebMCP make agents more reliable?\n[16:04] Unlocking tools like a video game skill tree\n[18:19] Let an agent try to break your website\n[19:50] Are humans still in the driver’s seat?\n[20:38] Build for the outcome, not the API\n[24:32] Why can’t AI keep my coffee stocked?\n[27:38] A house manager for the rest of us\n[29:23] A travel agent that actually handles things\n[30:49] When your AI chat becomes your workspace\n[34:12] Does superintelligence need a rebrand?\n[35:06] Who checks the code AI writes?\n[36:31] Test why the code exists—not just if it works\n[41:08] Give your coding agent a QA partner\n[43:18] The checks failed. Why submit it anyway?\n[44:33] Open source meets the AI code flood",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "YIDKxCgrRjs",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
