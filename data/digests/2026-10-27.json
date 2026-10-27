@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-27T11:23:05.736838+00:00",
+  "window": {
+    "since": "2026-10-26T11:23:05.736838+00:00",
+    "until": "2026-10-27T11:23:05.736838+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 4,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:ZV37v2pHaW8",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "How to Think Like the Engine: SQL Server & PostgreSQL Edition",
+      "url": "https://www.youtube.com/watch?v=ZV37v2pHaW8",
+      "published_at": "2026-10-26T21:08:37+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "You’re a developer or a DBA, and you’re comfortable writing queries to get the data you need. You’re much less comfortable trying to design the right indexes for your database server. In my new totally free How to Think Like the Engines class, you’ll learn how the SQL Server and Postgres database engines look at your indexes and build your query results.\n\nYou’ll learn:\n\nThe differences between nonclustered indexes and clustered indexes (and why Postgres doesn’t use clustered indexes at all)\n\nWhich kinds of indexes work better as a starting point for SQL Server, versus which ones work better for Postgres\n\nThe basics of execution plans on both platforms, and how to read them\n\nGet the handouts: https://www.brentozar.com/training/think-like-sql-server-engine/",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "ZV37v2pHaW8",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:bUSOD3wlHwo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "How to Think Like the SQL Server and PostgreSQL Engines",
+      "url": "https://www.youtube.com/watch?v=bUSOD3wlHwo",
+      "published_at": "2026-10-26T19:05:39+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "You’re a developer or a DBA, and you’re comfortable writing queries to get the data you need. You’re much less comfortable trying to design the right indexes for your database server. In my new totally free How to Think Like the Engines class, you’ll learn how the SQL Server and Postgres database engines look at your indexes and build your query results.\n\nYou’ll learn:\n\nThe differences between nonclustered indexes and clustered indexes (and why Postgres doesn't use clustered indexes at all)\n\nWhich kinds of indexes work better as a starting point for SQL Server, versus which ones work better for Postgres\n\nThe basics of execution plans on both platforms, and how to read them",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "bUSOD3wlHwo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:irjFdpOtb00",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Tim O’Reilly",
+      "url": "https://www.youtube.com/watch?v=irjFdpOtb00",
+      "published_at": "2026-10-26T15:00:24+00:00",
+      "author": "AAIF Live",
+      "summary": "A large language model knows everything and nothing at the same time. Tim O’Reilly, founder and CEO of O’Reilly Media, joins us ahead of his keynote at AGNTCon + MCPCon North America to talk about what that paradox means for the people building with these models.\n\nWe start with what Tim is bringing to the stage in San Jose, then move to the craft of steering a model. The right words work almost like spells that open up new regions of latent space. Something as small as telling a model to use a computer can unlock a new tier of capability, where agents go off and do real work.\n\nFrom there, the conversation turns philosophical. Tim makes the case for mechanism design: shaping the rules of a system so the outcomes we want become the natural ones. We connect it to a book, The Score, and the question of which game we are really playing. In Risk, everyone fights over the board. In charades, everyone plays together. We close on Tim’s view that AI should be an ecosystem rather than a product that sucks the air out of the room, so that everyone can build on top of it and flourish.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nTim O’Reilly: https://www.linkedin.com/in/timo3\n\nTimestamps:\n[0:00] Cold open\n[1:02] Grappling with the bitter lesson\n[2:22] The value of human expertise\n[4:54] Why AI needs us\n[5:37] Culture is what remains\n[6:23] The toil audit story\n[8:26] AI knows everything and nothing\n[8:57] Magic words and runaway agents\n[11:18] Brute force vs human context\n[12:32] Turning scar tissue into infrastructure\n[14:12] Google and the first bitter lesson\n[16:25] Silicon Valley's sad turn\n[17:43] Artificial volition\n[19:08] Casting spells in latent space\n[20:46] The peaceful atom lesson\n[22:15] Sharing value with creators\n[24:54] No jobs means no customers\n[25:43] Mechanism design explained\n[26:35] Unix and the architecture of participation\n[28:45] The missing mechanisms of the AI economy\n[29:36] What game are you playing\n[30:43] The game of human flourishing\n[32:04] Big labs vs open source AI\n[33:47] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "irjFdpOtb00",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:OPXtZU9WXQo",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Why NFL stats are about to get way more insane",
+      "url": "https://www.youtube.com/watch?v=OPXtZU9WXQo",
+      "published_at": "2026-10-26T15:00:13+00:00",
+      "author": "Andreas Kretz",
+      "summary": "AWS invited me to my first NFL game in Munich. As an engineer, I’m just as curious about the game as I am about the data behind it, from the sensors tracking every player to the live Next Gen Stats powered by AWS created from them.\n\nNFL fans: what’s the one thing a first-timer should watch for? Drop your tips below, and follow along for the rest of my NFL journey.\n\nSee more here: https://go.learndataengineering.com/t9cwudf4\n\nThanks to @amazonwebservices for partnering on this video!\n\n#NFL #NFLMunich #AWS #NextGenStats #AmericanFootball #DataEngineering #Sponsored",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "OPXtZU9WXQo",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    }
+  ]
+}
