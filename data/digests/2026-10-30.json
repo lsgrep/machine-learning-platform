@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-30T11:57:24.723502+00:00",
+  "window": {
+    "since": "2026-10-29T11:57:24.723502+00:00",
+    "until": "2026-10-30T11:57:24.723502+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 10,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 8,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:JVb4koqjRrQ",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Chime: How to Know You’ve Outgrown Your Real-Time Feature Store",
+      "url": "https://www.youtube.com/watch?v=JVb4koqjRrQ",
+      "published_at": "2026-10-29T17:30:46+00:00",
+      "author": "Hopsworks",
+      "summary": "Real-time feature stores rarely fail all at once. Teams see persistent signals such as training-serving skew, stale near-real-time features and growing complexity in online writes. Aaryan presents a practical framework for spotting when those signals point to a structural platform problem, and a phased migration that validates old and new systems in parallel with feature parity, prediction parity and latency gates. You’ll leave with a maturity checklist and a migration playbook.\n\nAbout the speaker: \nAaryan Gupta is a Senior Software Engineer at Chime.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "JVb4koqjRrQ",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:NvUnZMgSTbU",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "RedHat: Feast vs Chronon: Why Not Both?",
+      "url": "https://www.youtube.com/watch?v=NvUnZMgSTbU",
+      "published_at": "2026-10-29T17:17:02+00:00",
+      "author": "Hopsworks",
+      "summary": "Feast and Chronon are often treated as rival paths. Francisco shows how to use them together in one workflow, with a Feast integration for Chronon and a checkout-risk demo. Chronon serves live purchase and return aggregates, and Feast registers them as FeatureViews, packages them into a FeatureService and retrieves them through the standard SDK. The result is a more modular feature platform with less custom glue.\n\nAbout the speaker: \nFrancisco Arceo is a Senior Principal Software Engineer at Red Hat and a maintainer of the open-source Feast feature store.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "NvUnZMgSTbU",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:RUPyjv1c4vM",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Mloda: Online, Offline, n-Chaos: From Stored Features to Executable Definitions",
+      "url": "https://www.youtube.com/watch?v=RUPyjv1c4vM",
+      "published_at": "2026-10-29T17:02:32+00:00",
+      "author": "Hopsworks",
+      "summary": "Feature stores keep online and offline features consistent inside their boundary, but the same feature often lives in n more versions across an organization, each with slightly different semantics. Tom asks what reliability looks like outside that boundary, borrowing from how coding agents work. He presents a handover layer pattern in which producers publish transformations as plugins with explicit contracts and a runtime computes them on demand, with a live demo on mloda (Apache-2.0).\n\nAbout the speaker: \nTom Kaltofen is an AI Engineer at mloda, based in Berlin. He has a background building data infrastructure at the intersection of data engineering and data science, including in-house feature stores, ML pipelines and RAG systems.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "RUPyjv1c4vM",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:RKO64zarTDw",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "From AI Slop to Software Factories ft. Dexter Horthy",
+      "url": "https://www.youtube.com/watch?v=RKO64zarTDw",
+      "published_at": "2026-10-29T17:00:13+00:00",
+      "author": "AAIF Live",
+      "summary": "Two people, one tandem bike, and a lot of near misses along Amsterdam’s canals. Dexter Horthy, CEO and co-founder of HumanLayer and the person who coined “context engineering,” climbs on the back to talk about a problem every AI-heavy engineering team eventually hits: code that runs today that nobody understands three months later.\n\nThe ride starts with an old joke from the Claude 3.7 days: ship the slop, it’ll be GPT 7’s problem. That joke is aging badly now that GPT 6 is out and still can’t design clean abstractions. From there it becomes a tour of how agents are actually used right now. Computer use checks in for flights and books government appointments. Two hours of raw footage became a rough but promising product demo through Opus 4.8 and the Palmier MCP while Dex was out for a run. And the best MCP tools turn out to be the ones that mirror what Claude Code and Codex were trained to call.\n\nOff the bike, over pour-over coffee, the questions get bigger. Are browser agents a bandaid until everything goes headless? What happens to ad-funded websites and upsells when an agent does the shopping? Why does chat still feel like such a low-bandwidth way to work with models? And why is every principal engineer quietly building their own software factory, then getting buried in the sync, streaming and approval plumbing that HumanLayer wants to turn into building blocks, the way GitHub Actions did for CI?\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nDexter Horthy: https://www.linkedin.com/in/dexterihorthy\n\nTimestamps\n[0:00] Intro\n[1:38] The GPT 7 will fix it joke\n[3:03] GPT 6 still writes spaghetti\n[6:21] If it runs, does it matter\n[7:28] Computer use that fills out your forms\n[11:57] Editing a demo with Palmier MCP\n[13:16] Why most MCP servers are bad\n[14:32] Mirror the tools models were trained on\n[16:57] Hill climbing a demo while out running\n[23:49] Are browser agents a band-aid\n[32:23] Why chat needs richer interfaces\n[40:30] Every engineer is building a software factory\n[45:13] The GitHub Actions moment for agents",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "RKO64zarTDw",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:V4DAh-w_BpU",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Hopsworks: Real-Time Features without Streaming using RonDB",
+      "url": "https://www.youtube.com/watch?v=V4DAh-w_BpU",
+      "published_at": "2026-10-29T15:52:56+00:00",
+      "author": "Hopsworks",
+      "summary": "Real-time feature stores have historically relied on streaming pipelines. Mikael shows how Hopsworks computes real-time features natively in RonDB, so you no longer have to operate a Flink pipeline. Rolling aggregations and more are computed at request time in single-digit milliseconds using pushdown aggregations. He also introduces new SQL support in RonDB (common table expressions) and the database changes made for feature store workloads.\n\nAbout the speaker: \nMikael Ronström is Head of Data at Hopsworks and works on RonDB, the online database used by Hopsworks. He has a background in building highly available database systems.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "V4DAh-w_BpU",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:-IQLnd2y2CU",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Zalando: Feature Store Isolation at Scale",
+      "url": "https://www.youtube.com/watch?v=-IQLnd2y2CU",
+      "published_at": "2026-10-29T15:19:11+00:00",
+      "author": "Hopsworks",
+      "summary": "A single shared feature store is the right call for most teams starting out. As ML adoption grows, one team’s high-volume writes can hurt query latency for everyone else, and the platform team ends up in the critical path of every change. Zalando moved to dedicated, isolated Hopsworks clusters per team, with thirteen in production today. Olamilekan covers when a shared setup stops working, what isolation buys and costs, how they manage a fleet of clusters and where the model breaks.\n\nAbout the speaker: \nOlamilekan Wahab is an Engineering Manager on Zalando’s Machine Learning Platform team, based in Berlin.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "-IQLnd2y2CU",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:lejPqeQ7kqE",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Zomato: Designing an Efficient Real-Time Feature Store at Zomato",
+      "url": "https://www.youtube.com/watch?v=lejPqeQ7kqE",
+      "published_at": "2026-10-29T14:57:10+00:00",
+      "author": "Hopsworks",
+      "summary": "Zomato’s real-time feature store powers its recommendation and personalization models. It was redesigned to handle about 40 million requests per minute with lower cost and latency. Nilotpal and Yash walk through the engineering behind it: Protocol Buffer optimization, DynamoDB storage and network efficiency, caching-layer tuning and request coalescing, plus the trade-offs and lessons from running it in production.\n\nAbout the speakers: \nNilotpal Pramanik is a Software Development Engineer III at Zomato, where he designs large-scale distributed systems and real-time ML feature stores for personalization and recommendations. \nYash Shukla is a Software Development Engineer II at Zomato.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "lejPqeQ7kqE",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:xgYVudglLlE",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Delivery Hero: Feature Serving Beyond RAM",
+      "url": "https://www.youtube.com/watch?v=xgYVudglLlE",
+      "published_at": "2026-10-29T14:45:29+00:00",
+      "author": "Hopsworks",
+      "summary": "The long tail of online features often sits in Redis at RAM prices even though it’s rarely read. Roman introduces Murrdb, an open-source columnar cache that keeps hot features in RAM, warm ones on NVMe and cold ones on S3, under whichever feature store you already run. On 100M rows with 1,000-key batch reads, a Python client got answers in 1.1 ms, versus 2.5 ms for Redis packed blobs. He is also candid about where in-memory still wins.\n\nAbout the speaker: Roman Grebennikov is a Principal ML Engineer at Delivery Hero and a former startup CTO working on modern search and recommendation problems. He is a pragmatic fan of open-source software, functional programming, LLMs and performance engineering.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "xgYVudglLlE",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:HHBmGVskwo8",
+      "source_id": "hopsworks",
+      "source_name": "Hopsworks",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Hopsworks: Beyond Feature Retrieval: Transformations and Composition in Feature Views",
+      "url": "https://www.youtube.com/watch?v=HHBmGVskwo8",
+      "published_at": "2026-10-29T14:45:19+00:00",
+      "author": "Hopsworks",
+      "summary": "Most feature stores stop at storing and retrieving individual features, but models need a complete, model-ready feature vector. Jim explains why features are not metrics, and how Hopsworks Feature Views compose reusable features using star or snowflake data models, point-in-time joins and transformation DAGs. He also covers external feature computation, pipelines running in Hopsworks and request-time computation in RonDB.\n\nAbout the speaker: \nJim Dowling is CEO and Co-Founder of Hopsworks and an Associate Professor at KTH Royal Institute of Technology. He is the lead architect of the open-source Hopsworks Feature Store platform.",
+      "duration_seconds": null,
+      "tags": [
+        "feature-store",
+        "feature-pipeline",
+        "great-expectations",
+        "pandas",
+        "feature-groups"
+      ],
+      "raw": {
+        "channel_id": "UCtuK0GKJl8TVLqj2702y_Fg",
+        "video_id": "HHBmGVskwo8",
+        "playlist_id": "UUtuK0GKJl8TVLqj2702y_Fg"
+      }
+    },
+    {
+      "id": "yt:F5lZj1bQyUw",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "How I Use Claude Code as a Data Engineer (After 17 Years in Data)",
+      "url": "https://www.youtube.com/watch?v=F5lZj1bQyUw",
+      "published_at": "2026-10-29T13:05:51+00:00",
+      "author": "Data with Baraa",
+      "summary": "This video is sponsored by Anthropic (@claude).\n► Claude Code https://clau.de/DataWithBaraa\nGet started with Claude Code, the AI tool I use every day as a data engineer.\n ► Git Repo: https://github.com/DataWithBaraa/claude-code-data-engineering-skills\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *SQL Handbook* https://academy.datawithbaraa.com/l/digital_download/1087406/the-sql-handbook\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n*💼 LinkedIn Learning*\n- *Databricks for Data Analysts* https://www.linkedin.com/learning/databricks-for-data-analysts\n- *Claude Code for Data Analysis* https://www.linkedin.com/learning/claude-code-for-data-analysis-build-repeatable-reliable-workflows\n\n📬 *Newsletter for data friends*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\nUse Claude Code as a data engineer: profile new sources, investigate incidents, and turn the work into skills.\n\n📖 *Table of Content*\n0:00 Introduction\n1:22 The Setup: CLAUDE.md and Skills\n3:02 Data Profiling\n7:42 Making a Claude Code Skill\n9:04 Incidents and the Knowledge Layer\n10:52 Investigating the Incident\n15:32 Scheduling Skills with Routines\n16:37 Building the Metadata\n20:38 The Engineering Toolkit\n24:56 Data Products\n26:32 PR Reviews and the Big Review\n28:16 Final Thoughts\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#claude #claudecode #dataengineering #ad",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "F5lZj1bQyUw",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
