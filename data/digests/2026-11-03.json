@@ -1,0 +1,294 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-03T13:25:51.216714+00:00",
+  "window": {
+    "since": "2026-11-02T13:25:51.216714+00:00",
+    "until": "2026-11-03T13:25:51.216714+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:tAXAZsR7gLU",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "GraphRAG in Real-Life Use Cases - Daan Di Scala",
+      "url": "https://www.youtube.com/watch?v=tAXAZsR7gLU",
+      "published_at": "2026-11-03T00:41:09+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\nConnect with Daan:\nLinkedIn: https://www.linkedin.com/in/daan-di-scala/\nWebsite: https://daandiscala.nl/",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "tAXAZsR7gLU",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:0_JtfuXVI10",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "How Stanford Teaches AI Coding Now",
+      "url": "https://www.youtube.com/watch?v=0_JtfuXVI10",
+      "published_at": "2026-11-02T21:03:45+00:00",
+      "author": "AAIF Live",
+      "summary": "What does it take to build AI agents that deliver useful, reliable work?\n\nStanford lecturer and Monaco Head of AI Mihail Eric joins Demetrios for a conversation inside a Waymo about how AI is changing software development - and what it takes to put agents into production.\n\nMihail explains why he rebuilt most of his Modern Software Developer course, how he teaches students to avoid shipping AI slop, and why research, planning, and verification still matter as coding agents become more capable.\n\nThey discuss Claude Code, agent loops, context engineering, memory and compaction, and how to design MCP tools around what an agent needs to accomplish. Then they go inside Monaco’s approach to sales agents, from turning meetings and emails into useful insights to building a custom agent harness.\n\nAlong the way: lessons from Boris and Lee Robinson’s guest lectures, why company traces are becoming valuable assets, and Monaco’s unusual approach to brand building.\n\nWhat’s the biggest bottleneck in your agent workflows: context, tools, or verification? Let us know in the comments.\n\nTimestamps:\n\n[00:00] Meet Mihail Eric\n[00:16] Teaching AI Coding at Stanford\n[02:42] Avoiding AI Slop\n[04:48] Research, Plan, Build, Test\n[06:19] Verifying Agent Work\n[09:16] Lessons from Claude Code’s Creator\n[12:40] Proactive AI Assistants\n[16:13] Agent Memory & Context\n[17:41] Rethinking Git for Agents\n[19:32] AI Startup Pitches\n[22:51] Why Traces Matter\n[24:09] Better MCP Tools\n[26:01] Monaco’s Sales Agents\n[29:40] Turning Conversations into Insights\n[33:33] AI Meets Human Expertise\n[35:03] Poker & Brand Building\n[36:46] Inside Monaco’s Agent Stack\n[38:44] Designing Tools Around Intent\n[40:12] Building an AI Advantage\n[42:53] Wrapping Up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "0_JtfuXVI10",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:H7Nigb6ixYM",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "What SQL I Use In My Projects? (I Let Claude Analyze 17 Years of My Code)",
+      "url": "https://www.youtube.com/watch?v=H7Nigb6ixYM",
+      "published_at": "2026-11-02T13:51:17+00:00",
+      "author": "Data with Baraa",
+      "summary": "My recommended courses to learn SQL hands-on:\n► DataCamp | SQL Fundamentals https://datacamp.pxf.io/KBmVNz\n► DataCamp | Associate Data Engineer in SQL https://datacamp.pxf.io/7Xq4NO\n► DataCamp | SQL Associate Certification https://datacamp.pxf.io/L0BJNO\n► Get 25% OFF DataCamp's Here https://datacamp.pxf.io/rErVPB\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *SQL Handbook* https://academy.datawithbaraa.com/l/digital_download/1087406/the-sql-handbook\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n*💼 LinkedIn Learning*\n- *Databricks for Data Analysts* https://www.linkedin.com/learning/databricks-for-data-analysts\n- *Claude Code for Data Analysis* https://www.linkedin.com/learning/claude-code-for-data-analysis-build-repeatable-reliable-workflows\n\n📬 *Newsletter for data friends*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\nSee which SQL real data projects use every day, counted by AI across all my projects, so you know what to master first.\n\n📖 *Table of Content*\n0:00 Intro\n2:04 WHERE\n2:28 Joins\n4:36 DataCamp\n5:59 The extreme join query\n6:49 GROUP BY and aggregations\n8:14 CTEs\n10:32 CASE WHEN\n11:16 String functions\n12:45 NULL handling\n13:22 Window functions\n15:49 Subqueries vs CTEs\n18:17 UNION and set operators\n21:24 Date and time functions\n22:20 CAST, DISTINCT and HAVING\n23:27 The whole list\n24:16 Claude's summary of my SQL\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#sql #learnsql #dataengineering #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "H7Nigb6ixYM",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    }
+  ]
+}
