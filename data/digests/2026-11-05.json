@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-05T13:50:01.042573+00:00",
+  "window": {
+    "since": "2026-11-04T13:50:01.042573+00:00",
+    "until": "2026-11-05T13:50:01.042573+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 6,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:FAIhzRn9FvM",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Intro | Building a Streamhouse",
+      "url": "https://www.youtube.com/watch?v=FAIhzRn9FvM",
+      "published_at": "2026-11-04T21:31:46+00:00",
+      "author": "Confluent Developer",
+      "summary": "https://developer.confluent.io/learn/streamhouse/ | More and more software acts on the state of the business: querying it continuously, acting immediately, with no human in the loop to notice that an answer is six hours old. When that happens, the failure isn't a stale dashboard. It's a confident, wrong action.\n\nThe Streamhouse is a new category of software architecture built for this. It keeps the business's current state up to date as events arrive, governs it once, and serves the same data to apps, agents, and the lakehouse.\n\nThis video traces how we got here, from the data warehouse to the lakehouse, introduces the five layers of a Streamhouse, and shows one running: a delivery fleet whose trucks, parcels, weather, and traffic are kept as one current state.\n\nLEARN MORE\n► Confluent Developer: https://developer.confluent.io\n\nHistory: 0:00\nFrom BI to AI: 3:10\nHow Agents Get Their Data: 3:54\nStreamhouse Architecture: 5:35\nDemo: 6:29\nConclusion: 11:12\n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#apachekafka #apacheflink #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "FAIhzRn9FvM",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:ihOBJKhZYWo",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Lightning Tables on Confluent Cloud",
+      "url": "https://www.youtube.com/watch?v=ihOBJKhZYWo",
+      "published_at": "2026-11-04T16:00:31+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how Lightning Tables in Confluent Cloud serves the current state of of the business as a fully managed read-only layer—so AI agents and applications can query fresh context at low latency and high concurrency, without ETL, separate databases, or caches. The demo shows how to enable Lightning Tables on Kafka topics for instant querying.\n\nLEARN MORE\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n► Lightning Tables docs: https://docs.confluent.io/cloud/current/lightning-tables/overview.html\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "ihOBJKhZYWo",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:4pzIwuhAG2s",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Streamhouse for AI and Analytics with Confluent's Data Streaming Platform",
+      "url": "https://www.youtube.com/watch?v=4pzIwuhAG2s",
+      "published_at": "2026-11-04T16:00:12+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how an airline company can use Confluent to build a Streamhouse that powers a real-time flight operations dashboard and AI agents to rebook passengers using current flight and hotel data. Explore Lightning Tables, Confluent Intelligence (Streaming Agents), and Tableflow.\n\nLEARN MORE\n► Launch blog: https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/\n► Lightning Tables docs: https://docs.confluent.io/cloud/current/lightning-tables/overview.html\n► Tableflow docs: https://docs.confluent.io/cloud/current/topics/tableflow/overview.html\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "4pzIwuhAG2s",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:CiNCuosxiUg",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Tableflow Demo: Kafka to BigQuery Without ETL Pipelines",
+      "url": "https://www.youtube.com/watch?v=CiNCuosxiUg",
+      "published_at": "2026-11-04T16:00:11+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how Confluent Tableflow makes Apache Kafka® data available in Google BigQuery as open Apache Iceberg™ tables with 5-minute freshness, without ETL pipelines. Follow a payments processor as it brings streaming data into BigQuery, explores native Debezium CDC support (Early Access), and uses Gemini-powered Conversational Analytics to identify operational risks in plain English, helping teams get answers and act sooner.\n\nThis is Streamhouse for analytics in action: fresh, continuously updated business data that helps teams spot operational risks and act sooner, without another pipeline to manage.\n\nLEARN MORE\n► Launch blog: https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/\n► Docs: https://docs.confluent.io/cloud/current/topics/tableflow/overview.html\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "CiNCuosxiUg",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:p6bILBXWpEY",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Hybrid Demo: USM, Hybrid Connectors, and Confluent Gateway",
+      "url": "https://www.youtube.com/watch?v=p6bILBXWpEY",
+      "published_at": "2026-11-04T16:00:11+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how USM, hybrid connectors, and Confluent Gateway help govern Apache Kafka® across on-premises and cloud environments while keeping sensitive data within your perimeter. Follow a payments processor as it traces data lineage, manages on-premises connectors from the cloud, and enforces encryption and schema validation for legacy clients without code changes, simplifying operations and demonstrating compliance. Hybrid connector management and Gateway advanced governance capabilities shown are in Early Access.\n\nLEARN MORE\n► Launch blog: https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/\n► USM docs: https://docs.confluent.io/usm/current/overview.html\n► Gateway docs: https://docs.confluent.io/platform/current/gateway/overview.html\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "p6bILBXWpEY",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:YWR2EUuVRlo",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Hybrid Demo: Confluent Platform (CP) Flink and Confluent Assistant",
+      "url": "https://www.youtube.com/watch?v=YWR2EUuVRlo",
+      "published_at": "2026-11-04T16:00:01+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how RiverPay, a fictitious payments processor, uses Confluent Platform for Apache Flink® to detect payment exceptions in real time, with an AI model running in-cluster so data stays on premises. Confluent Assistant turns natural language into Flink SQL, helping teams explore flagged payments and prioritize cases for human review without a data engineering ticket.\n\nLEARN MORE\n► Launch blog: https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/\n► CP Flink docs: https://docs.confluent.io/cp-flink/current/overview.html\n► Confluent Assistant docs: https://docs.confluent.io/cloud/current/release-notes/cflt-assistant.html\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "YWR2EUuVRlo",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:OxZM_bM9PnQ",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Hybrid Demo: Confluent Private Cloud (CPC) Multi-tenancy and Gateway Disaster Recovery-Failover",
+      "url": "https://www.youtube.com/watch?v=OxZM_bM9PnQ",
+      "published_at": "2026-11-04T16:00:00+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how RiverPay, a fictitious payments processor, uses Confluent Private Cloud (CPC) multi-tenancy to run isolated payment, settlement, and FX workloads on one shared Kafka cluster. When a broker drops during a traffic surge, Confluent Gateway fails over to a standby without client reconfiguration, helping keep payments flowing.\n\nLEARN MORE\n► Launch blog: https://www.confluent.io/blog/2026-q4-confluent-bundle-launch/\n► CPC docs: https://docs.confluent.io/platform/current/private-cloud/overview.html\n► Gateway docs: https://docs.confluent.io/platform/current/gateway/overview.html\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "OxZM_bM9PnQ",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    }
+  ]
+}
