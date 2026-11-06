@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-06T13:34:25.326143+00:00",
+  "window": {
+    "since": "2026-11-05T13:34:25.326143+00:00",
+    "until": "2026-11-06T13:34:25.326143+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 4,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:GuTZPy2zmis",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AI Agents should have a runtime",
+      "url": "https://www.youtube.com/watch?v=GuTZPy2zmis",
+      "published_at": "2026-11-06T10:06:30+00:00",
+      "author": "AAIF Live",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "GuTZPy2zmis",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:s5gv46DcRSs",
+      "source_id": "codebasics",
+      "source_name": "Codebasics",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Build a Production Pipeline Live: Raw Files to a Medallion Lakehouse in 60 Minutes",
+      "url": "https://www.youtube.com/watch?v=s5gv46DcRSs",
+      "published_at": "2026-11-06T02:23:31+00:00",
+      "author": "codebasics",
+      "summary": "Raw data rarely arrives ready for analysis. The medallion architecture gives your data pipeline a clear structure, moving data step by step from raw ingestion to clean, business-ready tables.\n\nIn this live session, we will explain what the bronze, silver and gold layers are and why the split exists. We will show you how to build bronze and silver layers with Delta tables in Databricks, then build gold tables and make your pipeline safe to re-run.\n\nMeet the panel:\n\nHarun Raseed Basheer: https://www.linkedin.com/in/harunraseed/\nKirandeep Marala: https://www.linkedin.com/in/kirandeepmarala/\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building AI, data solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#️⃣ Social Media #️⃣\n\n\n🧑‍🤝‍🧑 Discord for Community Support:  https://discord.gg/r42Kbuk\n🏫 Skool Community for Support & Networking - https://resources.codebasics.io/6J8mXg\n📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n📝 Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n📱 Dhaval's X handle : https://x.com/dpcodebasics\n\n------\n\n📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalcodebasics\n\n🔗 Patreon: https://www.patreon.com/codebasics?fan_landing=true",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark",
+        "data-warehouse"
+      ],
+      "raw": {
+        "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "video_id": "s5gv46DcRSs",
+        "playlist_id": "UUh9nVJoWXmFb7sLApWGcLPQ"
+      }
+    },
+    {
+      "id": "yt:2T3PyeY36WA",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Current 2026 Keynote | Introducing Streamhouse: Data Architecture for the Age of AI",
+      "url": "https://www.youtube.com/watch?v=2T3PyeY36WA",
+      "published_at": "2026-11-05T23:37:05+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "Learn how a Streamhouse data architecture powers agents, applications, and lakehouses with the always current state of your business. Speakers across a diverse set of industries dove into real-world examples from Together AI, Accenture, and Indeed, along with demos and new product launches that leave you with a practical approach to solving the toughest data challenges.\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "2T3PyeY36WA",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:_ctB0shWyL4",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Cut One AI Cost and Two More Grow Back",
+      "url": "https://www.youtube.com/watch?v=_ctB0shWyL4",
+      "published_at": "2026-11-05T17:30:19+00:00",
+      "author": "AAIF Live",
+      "summary": "What does AI really cost once thousands of people inside a company start using it? Ioannis Zempekakis, Director of AI at Prosus, has been running agents in production since 2024. We put that question to him on a tandem bike ride from a favorite Amsterdam cafe to Vondelpark.\n\nIoannis explains the decision to stop relying purely on cloud APIs, and why that approach breaks down at the scale of a large company. He covers why agent harnesses and sandboxes are as greedy as software gets, and why agents scheduled to run every five minutes repeat a lesson the data world already learned about freshness. He also explains how the habit of throwing away a codebase and prompting again quietly adds up. His bigger point is that even if model progress froze tomorrow, there would still be about two years of value left to squeeze out. The cheapest wins come from controlling context and running a basic model router, while ten new features a month keep sprouting like hydra heads.\n\nFrom there we get into when fine-tuning small models pays off for repetitive work like data analytics, and the eval suites that come as a byproduct of building in-house. Ioannis explains how owning the stack let Prosus grow a GPT-3 Slack bot into a full agent harness. He also explains why committing to a single vendor or open source project is a bigger bet than it looks, and how to balance top-down priorities with bottom-up building across the company. We close on hiring. Ioannis looks for system design over syntax, a nose for the over-engineered code AI models love to produce, and enough agent intuition to know when to build something yourself and when to let the agent decide.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nIoannis Zempekakis: https://www.linkedin.com/in/zempekakis\n\nTimestamps:\n[0:00] AI total cost of ownership on a bike\n[0:48] The million dollar decision\n[4:26] When everyone can build with AI\n[6:51] Which use cases are worth the tokens\n[10:46] Benchmarking every model on every task\n[12:18] Total cost of ownership and AI ROI\n[15:12] Context control and model routing\n[16:39] Training and fine-tuning your own models\n[19:41] Is the juice worth the squeeze\n[25:26] Optionality and vendor lock-in\n[27:30] From Slack bot to agent harness\n[30:12] Top-down vs bottom-up AI adoption\n[32:19] What AI engineer even means\n[35:13] What knowing AI really means\n[37:47] The hardest part of hiring",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "_ctB0shWyL4",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
