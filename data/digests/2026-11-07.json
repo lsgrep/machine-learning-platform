@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-07T12:14:19.095357+00:00",
+  "window": {
+    "since": "2026-11-06T12:14:19.095357+00:00",
+    "until": "2026-11-07T12:14:19.095357+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:QbZkd3SVO3U",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Why Are People Excited About Jev?",
+      "url": "https://www.youtube.com/watch?v=QbZkd3SVO3U",
+      "published_at": "2026-11-06T16:30:21+00:00",
+      "author": "AAIF Live",
+      "summary": "What happens when you keep a bear in a cage built for a bunny? That’s our analogy for AI agent security: the agents aren’t the problem, the cages are. OAuth was designed to stop people handing their passwords to third parties, not to fence in agents.\n\nIn this catch-up episode of Debug Mode, one of us is just back from Japan and from AgentCon and MCPCon EU in Amsterdam. We get into why loading more skills can make an agent worse, and what is actually new about Jev, the fast classifier API, when classifiers have been around for years. Think support bots that bring in a human before the customer loses patience, or a math tutor that can quickly tell whether a seven-year-old is still asking about math. Then we take on a question from Amsterdam: is computer use just a stopgap until everything goes headless?\n\nWhich service do you think will never ship an MCP server? Tell us in the comments, and subscribe for the next episode.\n\nTimestamps:\n\n[00:00] Back From Japan\n[07:28] Skills Over MCP\n[11:26] Why More Skills Can Backfire\n[14:43] What's Actually New in Jev\n[19:58] Human Handoffs and Voice Agents\n[23:16] Math Tutor for a 7-Year-Old\n[26:44] Guardrails and Tool Selection\n[29:30] Amsterdam and WebMCP\n[33:13] Why OAuth Isn't Enough\n[37:24] A Bear in a Bunny Cage\n[43:05] Is Computer Use a Stopgap?\n[45:32] Why We Won't Go Headless\n[52:41] Watching Your Agent Browse\n[54:30] Taylor Swift and Web Design\n[1:00:08] Chat, Social Media and Bloat",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "QbZkd3SVO3U",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:QlKT4XOVGmk",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Databricks MemCurrent, Genie Agents, Azure MPC Server & Feature Views | AI Newsround - October 2026",
+      "url": "https://www.youtube.com/watch?v=QlKT4XOVGmk",
+      "published_at": "2026-11-06T14:48:09+00:00",
+      "author": "Advancing Analytics",
+      "summary": "AI agents that actually remember you. Faster Genie. A big Azure MCP update. And enough new models to make keeping up feel like a full-time job.\n\nIn this month’s AAI Newsround, we’re breaking down some of the biggest AI, Databricks and machine learning updates from October, starting with a pretty big one: persistent memory for AI agents.\n\nDatabricks Agent Memory, powered by MemCurrent, is designed to help agents carry useful information from one interaction to the next, without simply stuffing every previous conversation back into the prompt. And the early results are interesting: on an internal Databricks benchmark using more than 12,000 real Genie sessions, query-answering pass rates jumped from 22.3% without memory to 68.4% with MemCurrent enabled.\n\nWe also take a look at Genie Flash, a faster option for Agent Mode; Azure MCP Server 3.0 and the governance questions that come with giving agents access to more tools; and Databricks Feature Views, which are now generally available.\n\nAnd because October apparently wasn't busy enough already, we finish with a rundown of the latest model releases, including Claude Haiku 5.5, Mistral Large 4, Gemini 4 Argon and Carbon, and Microsoft's new System One-style model, Decision One.\n\nIn this video you'll learn:\n\n• How Databricks Agent Memory gives AI agents persistent memory\n • How MemCurrent decides what an agent should remember, rather than throwing everything into the context window\n • Why Genie Flash could make Genie agents considerably more practical for faster workflows\n • What's changed with Azure MCP Server 3.0, and why permissions still matter\n • How Databricks Feature Views can help keep training and serving logic in sync\n • What's new across Claude Haiku 5.5, Mistral Large 4, Gemini 4 and Microsoft Decision One\n • Why AI and model sovereignty could become a bigger consideration for organisations in Europe\n\nChapters:\n\n00:00 What's new in AI this month?\n00:40 Why do AI agents need memory?\n01:15 What is Databricks MemCurrent?\n02:07 How does Agent Memory actually work?\n03:31 Does persistent agent memory make a difference?\n04:33 Databricks Agent Memory enters beta\n05:20 What is Genie Flash?\n07:06 What's new in Azure MCP Server 3.0?\n08:30 The MCP governance question we still need to ask\n09:08 Databricks Feature Views are now generally available\n10:58 A very busy month for AI models\n11:44 Databricks AI Transcribe\n12:17 Mistral Large 4 and the AI sovereignty question\n13:12 Mistral's time-series foundation models\n13:41 Gemini 4 Argon and Gemini 4 Carbon\n14:57 Microsoft Decision One joins the System One crowd\n15:56 The October roundup\n16:31 What should we cover next?\n\nTechnologies & concepts covered:\n\nDatabricks Agent Memory, MemCurrent, persistent agent memory, episodic memory, derived memory, Databricks Genie, Genie Flash, Agent Mode, Azure MCP Server 3.0, Model Context Protocol (MCP), Feature Views, Unity Catalog, feature engineering, Claude Haiku 5.5, Databricks AI Transcribe, Mistral Large 4, Gemini 4 Argon, Gemini 4 Carbon, Microsoft Decision One, System One models and AI sovereignty.\n\nCheck out the Advancing Analytics blog for more deep dives on AI, Databricks and machine learning: https://www.advancinganalytics.co.uk/blog  \n\n💬 What caught your eye this month? Persistent agent memory? Faster Genie? Microsoft getting into System One models? Or are you just trying to keep up with all the model releases at this point?\n\nAnd we're curious: as more European models arrive, how much does AI sovereignty actually influence the models your organisation chooses?\n\nAbout Advancing Analytics\n\nAdvancing Analytics is a leading Databricks consultancy helping organisations unlock the full potential of their data through modern platforms, advanced analytics and artificial intelligence. As a strategic Databricks partner, we combine deep technical expertise with innovative accelerators to deliver scalable, production-ready solutions that drive measurable business value.\n\n#AI #Databricks #GenAI",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "QlKT4XOVGmk",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    }
+  ]
+}
