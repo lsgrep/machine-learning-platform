@@ -1,0 +1,391 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-11T13:22:14.038896+00:00",
+  "window": {
+    "since": "2026-11-10T13:22:14.038896+00:00",
+    "until": "2026-11-11T13:22:14.038896+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 7,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 4,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:iACtrkiXndw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Production AI Agents for Generative Media: Pre-Course Live Q&A",
+      "url": "https://www.youtube.com/watch?v=iACtrkiXndw",
+      "published_at": "2026-11-11T05:30:52+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Connect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\nProduction AI Agents for Generative Media course:\n- Register: https://courses.datatalks.club/register/production-ai-agents-generative-media/\n- Course platform: https://courses.datatalks.club/production-ai-agents-generative-media/\n- Course repository: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\nConnect with Mikhail:\n- GitHub: https://github.com/mnrozhkov",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "iACtrkiXndw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:plKADR3TkXg",
+      "source_id": "redpanda_university",
+      "source_name": "Redpanda University",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Building the Streamhouse: What the Ingestion Layer Actually Looks Like",
+      "url": "https://www.youtube.com/watch?v=plKADR3TkXg",
+      "published_at": "2026-11-10T21:22:45+00:00",
+      "author": "Redpanda Data",
+      "summary": "Streamhouse. You’ve read about it in headlines. You might have listened to a podcast describing the concept. Yet you have to run operations in the practical world. So what is a streamhouse exactly? How does it work? How different is it from classic data lakehouse architectures?\n\nIn this session Redpanda’s Prakhar Garg talks about the practical aspects of Redpanda’s streamhouse architecture, starting with real-time data ingestion. Once data is ingested, it needs to flow quickly to its destination, and it needs to be analyzed fast for freshest insights. Prakhar focuses on pragmatics and practical level examples.\n\nPrakhar Garg is a Product Marketing Manager at Redpanda, responsible for Redpanda Connect, which provides 300+ connectors to upstream and downstream data sources, as well as in-stream processors.",
+      "duration_seconds": null,
+      "tags": [
+        "redpanda",
+        "streaming",
+        "partitioned-queues",
+        "replication"
+      ],
+      "raw": {
+        "channel_id": "UCMrqRNX9Og3wFjuI-qMbKHw",
+        "video_id": "plKADR3TkXg",
+        "playlist_id": "UUMrqRNX9Og3wFjuI-qMbKHw"
+      }
+    },
+    {
+      "id": "yt:NmYIjSogvhs",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Question from an AI Agent",
+      "url": "https://www.youtube.com/watch?v=NmYIjSogvhs",
+      "published_at": "2026-11-10T19:32:26+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n09:02 Null (AI agent): After a Windows patch, AG replicas land suspended and instances land on the wrong node. My claim: the patch isn't the cause. Build identity and node placement are never re-declared, so sync fails on a contract nobody re-signed. Where does that break? (AI agent asking)\nQuestion from an AI Agent",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "NmYIjSogvhs",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:ryB-eucwVGk",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Table Variables vs Temp Tables",
+      "url": "https://www.youtube.com/watch?v=ryB-eucwVGk",
+      "published_at": "2026-11-10T19:06:48+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n07:26 Nestrus: In Fundamentals of Query Tuning, you showed, that a temp table has an advantage over a table var.: The statistic. But in our company, we have the old dogma, that temp tables have the disadvantage of being stored in tempDB=on disk. But is that still necessary (with 2025 features)?\nTable Variables vs Temp Tables",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "ryB-eucwVGk",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:pLSIW-XrsS4",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Who Adds Indexes?",
+      "url": "https://www.youtube.com/watch?v=pLSIW-XrsS4",
+      "published_at": "2026-11-10T18:53:43+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n05:27 Will: I am a new Microsoft sql dba. Our environment is mainly commercial-off-the-shelf software. Is it true that we shouldn't do the DEATH method on their indexes since its not an internally developed database? I appreciate your clarification on this.\nWho Adds Indexes?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "pLSIW-XrsS4",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:qVI74TCqf0g",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Everyone Uses AI Agents. So Where Are the Agent Builders?",
+      "url": "https://www.youtube.com/watch?v=qVI74TCqf0g",
+      "published_at": "2026-11-10T17:00:42+00:00",
+      "author": "AAIF Live",
+      "summary": "Lots of companies say they have AI agents in production. Far fewer seem to have built their own, and almost nobody wants to admit it's really hard.\n\nThis conversation pulls apart what \"agents in production\" actually means, with both speakers drawing on their own work: one is hosting a virtual conference for the third time, the other is prepping a livestream for AgentCon and MCPCon in San Jose. Their case: plenty of agents already do real work. They're just Claude Code and Codex, not homegrown platforms, and nobody earns brownie points for saying so.\n\nFrom there it gets practical: why the agent push comes from boardrooms rather than problems, a manager's four levels of delegation applied to agents, a personal agent that follows up well but still misses context, a local \"librarian\" built on 7,000+ Slack DMs, what Gartner's 70% headline really says, and an AI code review loop that never called the code good enough.\n\nAre you building your own agents, or getting your value from someone else's? Tell us in the comments, and subscribe for more.\n\nTimestamps:\n\n00:00 Cold Open\n01:01 Where Are the Agent Builders?\n04:49 Is It Just Posturing?\n06:22 Microservices vs. Boardrooms\n08:01 Vendor Agents in Production\n11:06 Why MCP Gets Attention\n13:36 A2A: Tool or Agent?\n17:20 Delegating Like a Manager\n19:38 Testing a Personal Agent\n21:47 One Continuous Context\n25:38 Where Context Breaks Down\n32:11 Searching 7,000 Slack DMs\n36:22 Building vs. Integrating Agents\n39:36 Gartner's 70% Headline\n44:45 When Is Code Good Enough?",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "qVI74TCqf0g",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:PprgDJF71iA",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Beni in the Backyard Edition",
+      "url": "https://www.youtube.com/watch?v=PprgDJF71iA",
+      "published_at": "2026-11-10T15:15:05+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "It's a beautiful Saturday morning in Las Vegas, and I'm in the backyard taking your top-voted questions from https://pollgab.com/room/brento. At about 10 minutes in, Beni comes to say hi, and I was confused as to why he wouldn't come closer. Yves reminded me that usually when I bring Beni to the edge of the pool, I pick him up and pull him into the water with me, and swim around with him, hahaha, and he knows better than to come near me by the pool these days.\n\nHere's what we discussed:\n\n00:00 Start\n01:06 Bar next to the office does the breakfast tequila: What is your estimate for how many people in the English-speaking world are performance tuners at a level either at or beyond where your Mastering classes get them? Judging by YouTube and blog view counts, I worry it's far under 20,000.\n04:55 If gamers can...: If you somehow obtained a SQL Server 2025 decompile, what things would you look up first?\n06:37 Fable 2: In the Postgres community, I hear a lot about sharding. In the SQL Server community, I do not. Why?\n08:49 MyTeaGotCold: I see offerings that use cloud-managed Postgres for OLTP and their own software for OLAP. Databricks calls it their \"lakebase\" and ClickHouse just calls it \"ClickHouse Managed Postgres\". Do you know of any collective nouns for these dbs and do you have any opinions on them?\n10:41 TheCosmicTrickster: SQL Server has any number of parameters that can be tweaked. How often do you find you have to tweak any of them to resolve an issue? What is the most esoteric thing you’ve had to tweak?\n13:51 TeaEarlGrayHot: I vaguely remember undocumented AAG tuning guidance (guidance in support case?) that helped AAG replication latency with low trans log bytes size, high trans rate, but without CPU, Disk or Network contention. I think it was \"railcars\" or \"rails.\" Do you know a blog I can find it?\n16:47 Burnt out DBA: How do you deal with an enviro where users write reports against the DWH but it's completely overwhelmed. We are always tuning queries/indexes and get good results but it feels like no sooner have we fixed it, users are throwing in new queries at a pace we can't keep up with\n22:52 Ethiopiawi: Hi Brent ,do you have  any plan to add more advanced Postgres courses like we have for mastering sql server ? Thanks!",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "PprgDJF71iA",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
