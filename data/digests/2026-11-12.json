@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-12T14:27:14.012728+00:00",
+  "window": {
+    "since": "2026-11-11T14:27:14.012728+00:00",
+    "until": "2026-11-12T14:27:14.012728+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 5,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:6HjTuZwNrbo",
+      "source_id": "data_with_baara",
+      "source_name": "Data with Baara",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "What Python do you need to learn for Data Engineers - (I Let Claude Analyze 17 Years of My Code)",
+      "url": "https://www.youtube.com/watch?v=6HjTuZwNrbo",
+      "published_at": "2026-11-12T13:30:12+00:00",
+      "author": "Data with Baraa",
+      "summary": "My recommended courses to learn Python hands-on:\n► DataCamp | Python Data Fundamentals https://datacamp.pxf.io/MKLWj3\n► DataCamp | Data Engineer in Python https://datacamp.pxf.io/xJGRbd\n► DataCamp | Python Data Associate Certification https://datacamp.pxf.io/PzDWkX\n► Get 25% OFF DataCamp's Here https://datacamp.pxf.io/1GNVOa\n\n━━━━━━━━━━━━━━━━━━━━\n\n*🏆 My Academy (recommended)*\n- *SQL* https://www.datawithbaraa.com/course/sql-full-course-for-beginners\n- *SQL Handbook* https://academy.datawithbaraa.com/l/digital_download/1087406/the-sql-handbook\n- *Python* https://www.datawithbaraa.com/course/the-ultimate-python-mastery\n- *Python Handbook* https://academy.datawithbaraa.com/l/digital_download/998313/the-python-handbook\n- *Tableau* https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners\n\n*🎓 Udemy*\n- *SQL* https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?referralCode=D20781228C2EB8B98339\n- *Python* https://www.udemy.com/course/the-complete-python-bootcamp-13hours-go-from-zero-to-hero/?referralCode=776491A4119FF8AF41CA\n- *Tableau* https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/?referralCode=6544726FDC491A6B25EC\n\n*💼 LinkedIn Learning*\n- *Databricks for Data Analysts* https://www.linkedin.com/learning/databricks-for-data-analysts\n- *Claude Code for Data Analysis* https://www.linkedin.com/learning/claude-code-for-data-analysis-build-repeatable-reliable-workflows\n\n📬 *Newsletter for data friends*\nhttps://www.blog.datawithbaraa.com\n\n━━━━━━━━━━━━━━━━━━━━\n\nSee which Python topics I use every day in real data projects, counted by AI, so you know what to master first.\n\n📖 *Table of Content*\n0:00 Intro\n1:37 Strings\n4:00 DataCamp\n5:34 f-strings over the years\n6:54 Data structures\n9:36 Functions\n12:11 Conditions\n14:01 Loops\n15:39 Errors and logging\n17:46 Classes\n19:49 The whole list\n20:27 Configuration, code and tests\n20:56 SQL vs Python over the years\n22:39 How often vs how hard\n\n━━━━━━━━━━━━━━━━━━━━\n\n*CONNECT WITH ME*\n💬 Discord https://discord.gg/gsVJbMxKcA\n👨‍💻 LinkedIn https://www.linkedin.com/in/baraa-khatib-salkini/\n📸 Instagram https://www.instagram.com/datawithbaraa/\n🎥 TikTok https://www.tiktok.com/@datawithbaraa\n🧭 Notion Roadmaps https://www.notion.com/@datawithbaraa\n\nNote: some links above are affiliates. I may earn a small commission\nif you enroll. Thank you for supporting the channel.\n\n#python #learnpython #dataengineering #datawithbaraa",
+      "duration_seconds": null,
+      "tags": [
+        "snowflake",
+        "databricks",
+        "pyspark"
+      ],
+      "raw": {
+        "channel_id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "video_id": "6HjTuZwNrbo",
+        "playlist_id": "UU8_RSKwbU1OmZWNEoLV1tQg"
+      }
+    },
+    {
+      "id": "yt:_eVN1KotehQ",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Does Good Code Even Matter Anymore?",
+      "url": "https://www.youtube.com/watch?v=_eVN1KotehQ",
+      "published_at": "2026-11-11T18:31:45+00:00",
+      "author": "AAIF Live",
+      "summary": "Joe Maionchi (Co-founder & COO) and Rod Christensen (Co-founder & Chief Architect) of RocketRide join the MLOps Community to walk through AIDE — the AI Integrated Development Environment.\n\nCatch the full episode: \nhttps://www.youtube.com/watch?v=3xZ78HHdqAk\nhttps://open.spotify.com/episode/6Bq7CRyDVrWJNyf2wDeYig?si=O8v2sPCUQGazcnUgu5DGjg",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "_eVN1KotehQ",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:7zfFSSAw5rU",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Coding isn't the Bottleneck Anymore",
+      "url": "https://www.youtube.com/watch?v=7zfFSSAw5rU",
+      "published_at": "2026-11-11T18:31:19+00:00",
+      "author": "AAIF Live",
+      "summary": "Joe Maionchi (Co-founder & COO) and Rod Christensen (Co-founder & Chief Architect) of RocketRide join the MLOps Community to walk through AIDE — the AI Integrated Development Environment.\n\nCatch the full episode: \nhttps://www.youtube.com/watch?v=3xZ78HHdqAk\nhttps://open.spotify.com/episode/6Bq7CRyDVrWJNyf2wDeYig?si=O8v2sPCUQGazcnUgu5DGjg",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "7zfFSSAw5rU",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:qqCVMflQKc4",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "MS Data API Builder",
+      "url": "https://www.youtube.com/watch?v=qqCVMflQKc4",
+      "published_at": "2026-11-11T16:49:42+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n15:02 Eric Dycus: I am researching the SQL 2025 Data API Builder DAB. Have you had the chance to use it? Do you recommend it? What is it's best use case? \nMS Data API Builder",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "qqCVMflQKc4",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:xxoviev4XYE",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Unified Semantic Layer and Data Harness for AI with Zetaris (full 2-hour course)",
+      "url": "https://www.youtube.com/watch?v=xxoviev4XYE",
+      "published_at": "2026-11-11T14:30:03+00:00",
+      "author": "Andreas Kretz",
+      "summary": "Most AI projects inside a company don't get stuck on the model. They get stuck on the data. It's spread over several systems, nobody agrees on what revenue means, and security won't let an AI tool anywhere near production.\n\nIn this free course, I show you how to fix that with Zetaris. We deploy Zetaris Cloud into our own AWS account, connect three sources (Postgres, S3 and Databricks) without copying a single row, and build a unified semantic layer on top: business names, descriptions, data quality rules and access control in one place. Then we put the same layer into Tableau and connect Claude Code, Cursor, Codex and Google Antigravity to it, and ask all of them the same business question.\n\nEverything we do is also written down in the GitHub repository for this course: the dataset, every step and every command. So you can follow along at your own pace or look something up when you get stuck.\n\n▶️ GitHub repository for this course: https://go.learndataengineering.com/sjndbauw\n▶️  Start with Zetaris for free: https://go.learndataengineering.com/77pgmscr\n\n🎁 Giveaway: win 1 of 10 memberships to my Data Engineering Academy! Answer a few questions about the course until November 22nd. Everything you need is in the course video. \n▶️ Quiz link: https://go.learndataengineering.com/a34ffxvk\n\n#dataengineering #semanticlayer #ai #zetaris #claudecode \n\nTimestamps:\n\n0:00 Course Intro: Make Your Data AI-Ready\n3:36 The Gap Between Your AI Tools and Your Data\n7:37 The Data Harness\n11:18 Sign Up and Deploy Your Cluster\n22:03 Tour the Platform and Set Auto-Suspend\n25:44 Set Up Your Sample Data\n31:22 Connect Postgres and S3 to Zetaris\n39:10 Set Up and Connect Databricks\n44:21 What a Data Product Actually Is\n47:43 Set Up the Semantic Layer by Bringing the Sources Together\n52:56 Query with Query Director\n57:12 Configure the Semantic Layer So AI Can Actually Understand It\n1:01:31 Govern What the AI Is Allowed to See\n1:08:19 Bring the Semantic Layer to Your BI Tool\n1:12:57 What's Possible With Your AI Tools\n1:16:27 Connect Claude Code to Zetaris\n1:24:28 Connect Cursor to Zetaris\n1:33:09 Connect Codex to Zetaris\n1:40:58 Bonus: Connect Google Antigravity to Zetaris\n1:48:18 What You Built, and Where Zetaris Goes Next",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "xxoviev4XYE",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    }
+  ]
+}
