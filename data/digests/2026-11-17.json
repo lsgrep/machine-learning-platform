@@ -1,0 +1,383 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-17T15:20:10.478069+00:00",
+  "window": {
+    "since": "2026-11-16T15:20:10.478069+00:00",
+    "until": "2026-11-17T15:20:10.478069+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:xDzvE8EbmEk",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AAIF Reading Group: Scaling Discovery Requires Forgetting",
+      "url": "https://www.youtube.com/watch?v=xDzvE8EbmEk",
+      "published_at": "2026-11-17T14:51:56+00:00",
+      "author": "AAIF Live",
+      "summary": "Can forgetting help AI agents discover better solutions? And why do agents sometimes stop making progress, even when given more time, compute, and opportunities to experiment?\n\nJoin the Agentic AI Foundation (AAIF) community for an informal reading group exploring the paper “Scaling Discovery Requires Forgetting.”\n\nPaper: https://www.alphaxiv.org/abs/2610.20563\n\nEvent page: https://home.mlops.community/public/events/aaif-reading-group-scaling-discovery-requires-forgetting-pg1zmi4qzx\n\nIn this session, Sparsh Jain walks us through the paper's approach to improving long-running discovery and research tasks by periodically resetting agent sessions and search history while preserving the best candidate discovered so far.\n\nWe'll explore how agents can become stuck in repetitive patterns, why simply adding more parallel agents or compute may not be enough, and how strategically forgetting previous attempts can help renew exploration and improve results.\n\nThis is not just about the paper's proposed approach. It's a community conversation about agent memory, context management, autonomous research, and the challenges of scaling agent systems in practice. Following the presentation, Arthur Coleman leads an open discussion, bringing in questions, practical experiences, and different perspectives from the community.\n\nWe'll explore:\n\nWhy AI agents plateau during long-running discovery and research tasks\n\nHow periodically resetting agent context can improve exploration and results\n\nThe role of parallel agents and collaboration in scaling discovery\n\nWhat agents should remember, what they should forget, and when they should reset\n\nThe importance of memory reduction, evaluation, and context management\n\nPractical challenges and limitations of applying this approach to real-world agent systems\n\nIf you've read the paper already, come ready to share your perspective. If you haven't, you're still welcome – we'll work through the ideas together.\n\nCome curious. Bring questions. Let's explore whether sometimes, forgetting is exactly what makes AI agents better.\n\nAbout the Agentic AI Foundation\n\nThe Agentic AI Foundation (AAIF) is the open, neutral home for the agentic AI ecosystem, bringing together developers, researchers, companies, and communities to build open standards and infrastructure for interoperable AI agents.\n\nWebsite: https://aaif.io/\n\nAAIF Events: https://aaif.io/events\n\nAAIF Community: https://aaif.live/\n\nLinkedIn: https://www.linkedin.com/company/agentic-ai-foundation/",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "xDzvE8EbmEk",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:PPS3PK5JDlk",
+      "source_id": "confluent_developer",
+      "source_name": "Confluent Developer",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Did we just solve AI’s stale data problem?",
+      "url": "https://www.youtube.com/watch?v=PPS3PK5JDlk",
+      "published_at": "2026-11-17T12:00:02+00:00",
+      "author": "Confluent Developer",
+      "summary": "Info: https://developer.confluent.io/learn/streamhouse | Stale data makes your agents confidently wrong, which can be frustrating... But that’s not a model problem, it’s a data problem. Luckily, Sandon Jacobs (Developer Advocacy, Confluent) may have the solution. Join him at the lightboard to break down Streamhouse, an exciting new open, vendor-neutral category for data architectures.\n\nStreamhouse is designed to keep the current state of a business continuously available for production applications, analytics, and AI agents. Capture, transport, transform, and serve governed data products for your mission-critical agents & applications.\n\nLEARN MORE\n► Learn about Streamhouse https://developer.confluent.io/learn/streamhouse/ \n► Official Streamhouse site: https://streamhouse.com\n► Confluent Developer: https://developer.confluent.io \n\nCONNECT\nSubscribe, if you dare: https://www.youtube.com/@ConfluentDeveloper?sub_confirmation=1\nCommunity Slack: https://confluentcommunity.slack.com\nX: https://x.com/confluentinc\nLinkedin: https://www.linkedin.com/company/confluent\nGitHub: https://github.com/confluentinc\nSite: https://developer.confluent.io\n\nABOUT CONFLUENT DEVELOPER\nConfluent Developer provides comprehensive resources for developers looking to learn about Apache Kafka®, Apache Flink®, Confluent Cloud, Confluent Platform, and any other technology related to the broader Data Streaming Platform. Content on Confluent Developer includes courses, getting started guides, topical deep-dives, patterns, tutorials, and listings of community events. Learn more at https://developer.confluent.io. \n\n#streamhouse #agenticai #confluent",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "kafka-streams",
+        "flink",
+        "ksqldb",
+        "kraft",
+        "schema-registry",
+        "iceberg",
+        "watermarks"
+      ],
+      "raw": {
+        "channel_id": "UCmTK4CrCaDXpuZ-Evl5-b5Q",
+        "video_id": "PPS3PK5JDlk",
+        "playlist_id": "UUmTK4CrCaDXpuZ-Evl5-b5Q"
+      }
+    },
+    {
+      "id": "yt:Y5__PUmOTdg",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Production AI Agents for Generative Media: Course Launch",
+      "url": "https://www.youtube.com/watch?v=Y5__PUmOTdg",
+      "published_at": "2026-11-16T19:32:57+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Course: https://courses.datatalks.club/production-ai-agents-generative-media/\n- Repo: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n- Builder program: https://dev.nebius.com/builders#benefits\n- Logistics: https://datatalksclub.github.io/docs/courses/zoomcamp-logistics/\n- Course docs: https://datatalksclub.github.io/docs/courses/production-ai-agents-generative-media/\n\n\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\nConnect with Mikhail:\n\n- GitHub: https://github.com/mnrozhkov",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "Y5__PUmOTdg",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:xQ0jdTakNdk",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Demo: Managed Model Inference for real-time AI/ML on Confluent Cloud",
+      "url": "https://www.youtube.com/watch?v=xQ0jdTakNdk",
+      "published_at": "2026-11-16T18:58:39+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "See how Managed Model Inference on Confluent Cloud enables you to run AI/ML inference directly from Flink SQL on live streaming data (such as for fraud detection or forecasting) with zero configuration - no need to manage model servers, credential setup, or external serving infrastructure.\n\nLEARN MORE\n► Managed Model Inference docs: https://docs.confluent.io/cloud/current/ai/ai-model-inference.html\n► Confluent Intelligence docs: https://docs.confluent.io/cloud/current/ai/confluent-intelligence/overview.html\n► Streamhouse Quickstart: https://github.com/confluentinc/quickstart-streamhouse\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "xQ0jdTakNdk",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:MvYApjjGsv0",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "First Media Generation in a Few Minutes",
+      "url": "https://www.youtube.com/watch?v=MvYApjjGsv0",
+      "published_at": "2026-11-16T18:04:57+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Deploy an open text-to-image model on a serverless GPU, call it from a notebook and save your first generated image.\n\nCourse: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\n0:00 Introduction\n0:41 Two ways to run the lesson\n1:26 Open the notebook and set up the environment\n2:07 Create an endpoint with Serverless AI\n4:18 Connect the notebook to the endpoint\n5:41 Generate your first image\n7:39 Why images differ: prompts and seeds\n9:41 Characters and scenes\n11:17 More examples\n12:26 Your turn: greeting card factory\n13:15 Summary and cleanup\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "MvYApjjGsv0",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:Rmtq-CRex4M",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "What Happens When Engineers Stop Reading Their Own Code?",
+      "url": "https://www.youtube.com/watch?v=Rmtq-CRex4M",
+      "published_at": "2026-11-16T17:00:12+00:00",
+      "author": "AAIF Live",
+      "summary": "In this episode, we sit down with Matt Carey and Scott Crooks, engineers at Cloudflare and Miro, to look at how two very different companies are building their own AI software factories, and what happens to engineering when the code mostly writes and reviews itself.\n\nWe start with the AI gateway: why a model call is no longer simple when the same model is served across multiple regions, multiple clouds, and direct from the provider, and how Miro pools rate limits and data residency rules (like EU-only models for German customers) into a single routing layer that also powers Miro’s Sidekicks. Matt walks through Cloudflare’s agent stack, from the AI gateway and Agents SDK to Flue, a JavaScript agent framework from the makers of Astro, and Cloudflare OS, an open source agent office suite he even runs at home for grocery shopping.\n\nThe heart of the conversation is code review. Matt describes what he calls the best AI code reviewer he’s ever used, built on Flue and powered by an internal engineering codex written only for agents. Scott breaks down Miro’s three-layer setup, including Easel, a bot that reads production logs overnight and opens fix PRs before anyone wakes up, and explains why only about half of those PRs get merged, and how that signal is fed back to teach the system what people care about.\n\nAlong the way, we cover agent experience as a new discipline, how open source maintainers are handling a flood of cheap AI pull requests, Astro reaching zero open issues, when companies should open source internal tools and how to retire them gracefully, plus a few hot takes on chocolate and nuts. We close on the rise of the “scholarly engineer,” and why understanding ideas may matter more than reading every line of code.\n\nDemetrios Brinkmann: https://www.linkedin.com/in/dpbrinkm\nMatt Carey: https://www.linkedin.com/in/mattzcarey\nScott Crooks: https://www.linkedin.com/in/jshcrooks\n\nTimestamps:\n[00:00] Cold open\n[01:03] Meet Matt and Scott\n[01:20] What an AI gateway really is\n[02:28] Multi region multi cloud model routing\n[05:00] Cloudflare’s agent stack and Cloudflare OS\n[06:43] The Flue framework from the Astro team\n[07:32] The best AI code reviewer\n[09:29] An engineering codex written for agents\n[11:48] Agent experience and evals\n[12:44] Miro’s Easel bot and three layers of review\n[15:55] Software factories and Astro hitting zero issues\n[18:58] Companies open sourcing internal tools\n[22:59] Hot takes\n[25:03] The scholarly engineer\n[28:50] Wrap up",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "Rmtq-CRex4M",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
