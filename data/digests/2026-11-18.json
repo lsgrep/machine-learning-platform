@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-18T14:55:09.471872+00:00",
+  "window": {
+    "since": "2026-11-17T14:55:09.471872+00:00",
+    "until": "2026-11-18T14:55:09.471872+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:TmJTmul7HxE",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The future of AI Agents",
+      "url": "https://www.youtube.com/watch?v=TmJTmul7HxE",
+      "published_at": "2026-11-18T09:06:19+00:00",
+      "author": "AAIF Live",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "TmJTmul7HxE",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:ABErOuWPCfE",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "AI isn't Replacing Developers",
+      "url": "https://www.youtube.com/watch?v=ABErOuWPCfE",
+      "published_at": "2026-11-17T16:04:05+00:00",
+      "author": "AAIF Live",
+      "summary": "Joe Maionchi (Co-founder & COO) and Rod Christensen (Co-founder & Chief Architect) of RocketRide join the MLOps Community to walk through AIDE — the AI Integrated Development Environment.\n\nCatch the full episode: \nhttps://www.youtube.com/watch?v=3xZ78HHdqAk\nhttps://open.spotify.com/episode/6Bq7CRyDVrWJNyf2wDeYig?si=O8v2sPCUQGazcnUgu5DGjg",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "ABErOuWPCfE",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:hjMdBoutVLg",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours After the PASS Summit",
+      "url": "https://www.youtube.com/watch?v=hjMdBoutVLg",
+      "published_at": "2026-11-17T15:30:16+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I'm back from the annual PASS Data Community Summit, so let's talk industry news before we dive into your 3 top-voted questions from https://pollgab.com/room/brento.\n\n00:00 Start\n00:05 News: the vibe at the PASS Summit in Seattle this week\n03:27 News: Microsoft's open Q&A about competing with PostgreSQL\n07:13 News: Microsoft demoing GPU usage in SQL Server query plans\n09:04 News: Patch Tuesday and bugs in SQL Server\n11:29 News: Microsoft Purview deprecated\n13:11 DBA_ReflectingHisCareerChoice: Microsoft retired Database Watchers. If your company used only Azure SQL DBs (incl. elastic pools), what would be your go-to monitoring tool? The open-source tools I know seem focused on on-prem SQL Server, not Azure SQL DB.\n14:51 MyTeaGotCold: How frequently do you need to go beyond what is shown in an actual execution plan? The only such methods I know of are sys.dm_exec_session_wait_stats, Windows Performance Recorder, and Trace Flag 2363. I don't recall seeing them in Mastering Query Tuning but it has been a while.\n16:03 DataBarbieAdministrator: In your opinion, why is the Failover Cluster Instance feature so rarely used in SQL Server? What do you think about that technology?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "hjMdBoutVLg",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
