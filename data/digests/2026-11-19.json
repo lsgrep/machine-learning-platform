@@ -1,0 +1,382 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-19T15:01:12.702086+00:00",
+  "window": {
+    "since": "2026-11-18T15:01:12.702086+00:00",
+    "until": "2026-11-19T15:01:12.702086+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 3,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:EGlpNZNo4V0",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Sub-agents",
+      "url": "https://www.youtube.com/watch?v=EGlpNZNo4V0",
+      "published_at": "2026-11-19T13:20:54+00:00",
+      "author": "AAIF Live",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "EGlpNZNo4V0",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:5U3WfeMQK5g",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "S2 Ep5: All About Creativity with SEGA | Francis Hart",
+      "url": "https://www.youtube.com/watch?v=5U3WfeMQK5g",
+      "published_at": "2026-11-19T10:45:12+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Can you use data to make better video games without taking the creativity out of them? This week, Francis Hart, VP of Data & AI at SEGA Europe, is in the hotseat! With host Paul McComish, they chat about how SEGA uses Databricks and AI to understand its players, manage massive amounts of gameplay data and make smarter decisions. Plus, they explore what happens when AI meets creativity, and whether data can really tell us what makes a game fun.",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "5U3WfeMQK5g",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:s56Oo8zBXok",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Measuring Startup, Load and Generation Costs",
+      "url": "https://www.youtube.com/watch?v=s56Oo8zBXok",
+      "published_at": "2026-11-19T08:57:46+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Measuring Startup, Load and Generation Costs. Part of the Production AI Agents for Generative Media course: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "s56Oo8zBXok",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:BTr2Df4FlJw",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Serving vs Batch Inference: the Same Generation for Different Use Cases",
+      "url": "https://www.youtube.com/watch?v=BTr2Df4FlJw",
+      "published_at": "2026-11-19T08:57:24+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Serving vs Batch Inference: the Same Generation for Different Use Cases. Part of the Production AI Agents for Generative Media course: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "BTr2Df4FlJw",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:WiaAO-c2arU",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Containers for Generative AI",
+      "url": "https://www.youtube.com/watch?v=WiaAO-c2arU",
+      "published_at": "2026-11-19T08:56:56+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Containers for Generative AI: part of the Production AI Agents for Generative Media course. Course: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "WiaAO-c2arU",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:NbeWX4eFVfE",
+      "source_id": "erik_darling",
+      "source_name": "Erik Darling Data",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "SQL Server Performance Office Hours Episode 96",
+      "url": "https://www.youtube.com/watch?v=NbeWX4eFVfE",
+      "published_at": "2026-11-18T22:00:09+00:00",
+      "author": "Erik Darling (Erik Darling Data)",
+      "summary": "In this belated Office Hours (travel delays kept me away for 10 or 11 days after PASS Summit West), I answer five questions: why replacing WHERE EXISTS semi-joins with CROSS APPLY can be so effective for query tuning, the last time I used sp_tableoption, how to design indexing strategies that scale as data grows, why SQL Server sometimes behaves irrationally under pressure, and the hardest performance problems I've ever debugged, which for me are usually parallelism problems that are hard to reproduce. If you have a question for a future episode, the link to submit it is in the video description too.\n\nCHAPTERS\n\n00:00:00 - Introduction\n00:06:46 - Replacing EXISTS Semi-Joins With CROSS APPLY\n00:07:58 - The Last Time I Used sp_tableoption\n00:08:37 - Indexing Strategies That Scale as Data Grows\n00:11:34 - Why SQL Server Behaves Irrationally Under Pressure\n00:13:04 - The Hardest Performance Problems I've Debugged\n00:16:14 - Wrap-Up\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🤖 AI-ENABLEMENT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAI for Database Teams Workshop\nhttps://training.erikdarling.com/ai-for-database-teams-workshop\n\nWork With Your Databases the Way I Do \n$250 Pre-sale!\nhttps://training.erikdarling.com/work-with-your-databases-the-way-i-do\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🕵️‍♂️ FREE SQL SERVER MONITORING & PLAN ANALYSIS\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nhttps://github.com/erikdarlingdata/PerformanceMonitor\nhttps://github.com/erikdarlingdata/PerformanceStudio\nhttps://plans.erikdarling.com/\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n📚 TRAINING & COURSES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nGet AI-Ready With Erik\nhttps://training.erikdarling.com/get-ai-ready-with-erik?coupon=AIREADY\n\nSQL Server Performance Engineering Course\nhttps://training.erikdarling.com/sql-server-performance-engineering?coupon=ENGINEERING\n\nLearn T-SQL with Erik\nhttps://training.erikdarling.com/learn-t-sql-with-erik?coupon=ADVANCEDTSQL\n\nEverything Bundle:\nhttps://training.erikdarling.com/?coupon=SPRINGCLEANING\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛠️ CONSULTING & SERVICES\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nNeed SQL Server performance help?\nhttps://training.erikdarling.com/sqlconsulting\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n💬 CONNECT\n━━━━━━━━━━━━━━━━━━━━━━━━━━\nAsk questions at Office Hours\nhttps://erikdarling.com/officehours/\n\nBecome a channel member\nhttps://www.youtube.com/@ErikDarlingData/join",
+      "duration_seconds": null,
+      "tags": [
+        "query-tuning",
+        "performance-profiling"
+      ],
+      "raw": {
+        "channel_id": "UCGKoa4FuG7kI3rKnzhgGPeQ",
+        "video_id": "NbeWX4eFVfE",
+        "playlist_id": "UUGKoa4FuG7kI3rKnzhgGPeQ"
+      }
+    }
+  ]
+}
