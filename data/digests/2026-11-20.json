@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-20T14:43:33.433872+00:00",
+  "window": {
+    "since": "2026-11-19T14:43:33.433872+00:00",
+    "until": "2026-11-20T14:43:33.433872+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:ClPwZ58CL9U",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "3 Major Updates: Databricks Intelligent Document Processing",
+      "url": "https://www.youtube.com/watch?v=ClPwZ58CL9U",
+      "published_at": "2026-11-20T10:13:55+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Getting Intelligent Document Processing (IDP) into production is one thing. Making it scalable, cost-effective and compliant? That's where things get interesting.\n\nDatabricks has rolled out three updates that tackle some of the practical challenges of enterprise IDP, and Gavi, our Chief AI Officer, is joined by Sepi, AI product Specialist at Databricks, to break them down.\n\nThey walk through the new document parsing task in Lakeflow Jobs, which makes ingesting and processing documents at scale much simpler. Then there's AI Gateway, where new budget controls give teams a better handle on AI spending. And finally, expanded UK South support for AI functions, an important step for organisations navigating data residency requirements.\n\nThis essentially means there'll be less friction getting documents into your pipelines, more control over what you're spending, and greater flexibility over where your data is processed. All good news for anyone trying to make IDP work in the real world.\n\nIn this video you'll learn:\n\n- How to deploy Intelligent Document Processing using the new document parsing task in Databricks Lakeflow Jobs\n- How to automate document ingestion using connectors for SharePoint, Google Drive, Salesforce and more\n- How to set budgets for Databricks AI functions using AI Gateway\n- How AI Gateway helps organisations monitor and control AI spending across teams and projects\n- What UK South regional support means for AI Parse, AI Extract, AI Classify and AI Decide\n- Why regional AI processing matters for data residency, compliance and regulated industries\n\nChapters:\n\n00:00 Introduction: Three updates to Databricks Intelligent Document Processing\n01:06 Update 1: Document parsing in Lakeflow Jobs\n02:44 How do you automate document ingestion at scale?\n04:03 Update 2: AI function budgets in AI Gateway\n05:08 Demo: Setting AI budgets for teams and projects\n06:30 How were AI function costs controlled previously?\n07:44 Managing enterprise AI costs with AI Gateway\n08:34 Update 3: UK South regional support for AI functions\n09:03 Why does regional AI processing matter for regulated industries?\n10:18 What do these updates mean for production IDP?\n10:39 Recap: Three updates making Databricks IDP more enterprise-ready\n11:02 What's next for Databricks AI Gateway?\n\nFeaturing:\n\nDr Gavita Regunath, Chief AI Officer, Advancing Analytics\nSepideh Ebrahimi, AI Product Specialist, Databricks\n\nTechnologies & concepts covered: \n\nDatabricks, Intelligent Document Processing (IDP), Lakeflow Jobs, AI Gateway, Unity Catalog, AI Functions, AI Parse Document, AI Extract, AI Classify, AI Decide, Document Ingestion, Data Residency, UK South, Azure Databricks, GDPR, AI Cost Management\n\nResources:\n\nExplore more Databricks insights on our blog: https://www.advancinganalytics.co.uk/blog\n\n💬 Which of these three updates will make the biggest difference to your organisation: easier document ingestion, better AI cost controls or UK regional processing?\n\nAbout Advancing Analytics: Advancing Analytics is a leading Data and AI consultancy helping organisations unlock the full potential of their data through modern platforms, advanced analytics and artificial intelligence. As a strategic Databricks partner, we combine deep technical expertise with innovative accelerators to deliver scalable, production-ready solutions that drive measurable business value.\n\n#Databricks #IntelligentDocumentProcessing #DataAI",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "ClPwZ58CL9U",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:3j2jWyNCmLM",
+      "source_id": "confluent",
+      "source_name": "Confluent",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 2,
+      "title": "Hemut built an AI operating system for trucking carriers using Confluent Cloud",
+      "url": "https://www.youtube.com/watch?v=3j2jWyNCmLM",
+      "published_at": "2026-11-19T20:45:42+00:00",
+      "author": "Confluent, an IBM Company",
+      "summary": "Hemut provides an AI operating system for carriers and brokers, combining a full ERP and TMS into a platform where much of the work runs itself. This powers the Internet of Freight, where fleets operate on a connected network that allows efficiency gains to compound and benefit everyone the industry touches, including carriers whose costs fall, drivers who get paid faster, and consumers who pay less for the goods trucks deliver.\n\nBut none of that works if the underlying picture of the business is not current. An AI system acting on stale information can make matters worse rather than better. That is why Hemut built a real-time data foundation for its platform with Confluent Cloud.\n\nLEARN MORE\n► Hemut blog: https://www.confluent.io/blog/hemut-building-the-internet-of-freight-on-real-time-data/\n► More details: https://www.ibm.com/new/product-blog/how-hemut-connects-fleet-operations-and-ai-with-ibm-confluent\n► Diginomica article: https://diginomica.com/how-hemut-using-confluent-automate-truckings-back-office\n\n\nABOUT CONFLUENT\nConfluent is pioneering a fundamentally new category of data infrastructure focused on data in motion. Confluent’s cloud-native offering is the foundational platform for data in motion – designed to be the intelligent connective tissue enabling real-time data, from multiple sources, to constantly stream across the organization. With Confluent, organizations can meet the new business imperative of delivering rich, digital front-end customer experiences and transitioning to sophisticated, real-time, software-driven backend operations. To learn more, please visit https://www.confluent.io/\n\n#confluent #apachekafka #kafka",
+      "duration_seconds": null,
+      "tags": [
+        "kafka",
+        "event-streaming",
+        "cluster-scaling",
+        "telemetry"
+      ],
+      "raw": {
+        "channel_id": "UCmZz-Gj3caLLzEWBtbYUXaA",
+        "video_id": "3j2jWyNCmLM",
+        "playlist_id": "UUmZz-Gj3caLLzEWBtbYUXaA"
+      }
+    },
+    {
+      "id": "yt:NTLBGHsdD7c",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "He Used 100 Billion Tokens in a Month - Waymo Talks",
+      "url": "https://www.youtube.com/watch?v=NTLBGHsdD7c",
+      "published_at": "2026-11-19T17:15:16+00:00",
+      "author": "AAIF Live",
+      "summary": "What happens when your AI coding agent gets better at finding bugs - but never knows when to stop?\n\nJesse Vincent, creator of Superpowers and founder of Prime Radiant, joins us to explore what it actually takes to get useful work out of AI agents.\n\nWe start with a tiny Playdate game console turned into a voice-controlled client for his coding agent. Then we dig into why agents ignore skills, what goes wrong when code review becomes an endless loop, and Jesse’s experience using 100 billion tokens in a month - including turning 30 years of email into a searchable personal knowledge base.\n\nJesse also walks through his custom coding agent, Evener, his approach to preserving context, and why asking an agent for a video proving its work can reveal what tests miss.\n\nFinally, we explore AI colleagues with ongoing jobs: project managers and developers that coordinate work, ship fixes, and run postmortems.\n\nIf you use Claude Code, Codex, Superpowers, or other AI coding tools, this conversation offers practical ideas for moving from generated code to software you can actually ship.\n\nTimestamps:\n\n[00:00] A coding agent on a tiny game console\n[04:31] Why Superpowers still matters\n[08:58] Why agents ignore your skills\n[11:54] When instructions look like prompt injection\n[14:36] The endless code review problem\n[16:22] 100 billion tokens and 30 years of email\n[20:13] Local models and the future of AI costs\n[23:23] RoboRev and knowing when to ship\n[26:06] Inside Evener, Jesse’s custom coding agent\n[30:10] Giving subagents structured task lists\n[31:07] Helping agents remember and improve their tools\n[34:10] Proving software works—with a video\n[35:57] When chasing test coverage goes wrong\n[37:05] AI colleagues that ship and run postmortems\n[39:09] An AI project manager, daily check-ins, and Agent School",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "NTLBGHsdD7c",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    }
+  ]
+}
