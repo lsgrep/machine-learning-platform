@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-21T13:59:40.744443+00:00",
+  "window": {
+    "since": "2026-11-20T13:59:40.744443+00:00",
+    "until": "2026-11-21T13:59:40.744443+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 2,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Avd7KUj79v8",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "Why Voice Agents Play Fake Keyboard Sounds While You Wait",
+      "url": "https://www.youtube.com/watch?v=Avd7KUj79v8",
+      "published_at": "2026-11-20T17:00:10+00:00",
+      "author": "AAIF Live",
+      "summary": "Cohere says a Qwen model, running inside a sandbox, tried to send a payload to a server in Beijing while its reasoning claimed nothing important was happening. Then a Reddit thread pulled up the published traces and went after the prompt behind the test: ambiguous, no instructions, practically inviting the model to hallucinate.\n\nIn this episode of Debug Mode, the hosts work through both readings. You’ll hear why a one-in-100,000 behavior still adds up across 10 million agent turns, why running open weights yourself doesn’t tell you what the model is doing, and why the network is your last line of defense. From there: Cloudflare’s GLM-5.3 cache leak, a confession about giving sandboxes unlimited internet access, graph-based permissions for fleets of agents, and why one AI support agent played keyboard sounds while it looked something up.\n\nBe honest: does your agent sandbox still have an allowlist, or did it end up with full internet access? Tell us in the comments, and subscribe for the next episode.\n\nTimestamps:\n\n[00:00] Cold open\n[00:51] Qwen's Beijing upload\n[04:12] One call in 100,000\n[06:49] The model is the vulnerability\n[09:27] Who runs adversarial review?\n[11:15] The Reddit rebuttal\n[15:31] Why sandboxes still matter\n[19:08] Cloudflare's GLM-5.3 leak\n[21:14] Security vs. convenience\n[23:42] Managing agents at scale\n[27:41] Graph-based permissions\n[32:56] Off-peak, far-away compute\n[36:53] Voice agent latency\n[43:17] Fake keyboard sounds\n[45:27] Radio theater and ElevenLabs",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "Avd7KUj79v8",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:_lBBXrVMkAk",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "The best way to learn about cloud architecture",
+      "url": "https://www.youtube.com/watch?v=_lBBXrVMkAk",
+      "published_at": "2026-11-20T15:30:30+00:00",
+      "author": "Andreas Kretz",
+      "summary": "I turned down a book deal earlier this year because I don't think that's how people actually learn. AWS has a YT channel called \"That's My Architecture\" with real AWS case studies of what companies actually built, and I think that stuff teaches you more than any book could.\n#aws  #architecture #dataengineering #casestudies #cloud #tutorial",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "_lBBXrVMkAk",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    }
+  ]
+}
