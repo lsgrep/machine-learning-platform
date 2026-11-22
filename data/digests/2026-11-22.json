@@ -1,0 +1,309 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-22T13:53:08.364584+00:00",
+  "window": {
+    "since": "2026-11-21T13:53:08.364584+00:00",
+    "until": "2026-11-22T13:53:08.364584+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 4,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 3,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:oR2d7hXXrHs",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "How Many Data Pros?",
+      "url": "https://www.youtube.com/watch?v=oR2d7hXXrHs",
+      "published_at": "2026-11-22T11:38:19+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n01:06 Bar next to the office does the breakfast tequila: What is your estimate for how many people in the English-speaking world are performance tuners at a level either at or beyond where your Mastering classes get them? Judging by YouTube and blog view counts, I worry it's far under 20,000.\nHow Many Data Pros?",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "oR2d7hXXrHs",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:QjwrFestMWo",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Make SQL Server Faster",
+      "url": "https://www.youtube.com/watch?v=QjwrFestMWo",
+      "published_at": "2026-11-22T11:19:15+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "QjwrFestMWo",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:KLEtmDEpmFk",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "When to Use Sequences",
+      "url": "https://www.youtube.com/watch?v=KLEtmDEpmFk",
+      "published_at": "2026-11-22T10:07:20+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n16:53 LucaCarraroDBSometin': Hi Brent, besides a numeric series shared between multiple tables, in which cases, if any, is it advisable to use a sequence instead of an identity column, and why?\nWhen to Use Sequences",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "KLEtmDEpmFk",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:VEMI54KF8u0",
+      "source_id": "seattle_data_guy",
+      "source_name": "Seattle Data Guy",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 4,
+      "title": "Why Your Data Warehouse Is Still Failing - Why The Business Still Can't Answer Key Questions",
+      "url": "https://www.youtube.com/watch?v=VEMI54KF8u0",
+      "published_at": "2026-11-21T17:17:13+00:00",
+      "author": "Seattle Data Guy",
+      "summary": "Many companies have successfully “centralized” their data without actually integrating it.\n\nCentralization is not integration!\n\nIntegrating data across systems, teams, and business units remains a challenge. It’s also where a lot of the value of building a data warehouse comes from.\n\nA warehouse is not integrated just because all the tables are in the same place, and that’s where many companies end up. They have a Salesforce set of customer tables and a product database customer table, but they don’t connect.\n\nNow, many businesses want it all unified and integrated…but it’s just not where things end up.\n\nFor one reason or another, many businesses end up with a jumble of tables. So let’s talk about how many companies get there and how to avoid it.\n\nIf you'd like to watch and learn more about data engineering, check out the videos below.\n\nCommon Data Pipeline Patterns You’ll See in the Real World - Types Of Data Pipelines You'll Build\nhttps://youtu.be/htAipJ6yYFs\n\nWhat Is BigQuery - Breaking Down What BigQuery Is And Diving Into A Hands On Walkthrough\nhttps://youtu.be/pud-vuNE15g\n\nIf you're looking for help ingesting your data in batch or real time, then you need to check out Estuary - https://bit.ly/4eQC3oQ\n\nIf you'd like to read up on my updates about the data field, then you can sign up for our newsletter here.\n\nhttps://seattledataguy.substack.com/​​\n\nOr check out my blog\nhttps://www.theseattledataguy.com/\n\nAnd if you want to support the channel, then you can become a paid member of my newsletter\nhttps://seattledataguy.substack.com/subscribe\n\n\nTags: Data engineering projects, Data engineer project ideas, data project sources, data analytics project sources, data project portfolio\n\n_____________________________________________________________\nSubscribe: https://www.youtube.com/channel/UCmLGJ3VYBcfRaWbP6JLJcpA?sub_confirmation=1\n_____________________________________________________________\nAbout me:\nI  have spent my career focused on all forms of data. I have focused on developing algorithms to detect fraud, reduce patient readmission and redesign insurance provider policy to help reduce the overall cost of healthcare. I have also helped develop analytics for marketing and IT operations in order to optimize limited resources such as employees and budget. I privately consult on data science and engineering problems both solo as well as with a company called Acheron Analytics. I have experience both working hands-on with technical problems as well as helping leadership teams develop strategies to maximize their data.\n\n*I do participate in affiliate programs, if a link has an \"*\" by it, then I may receive a small portion of the proceeds at no extra cost to you.",
+      "duration_seconds": null,
+      "tags": [
+        "dbt",
+        "trino",
+        "airflow",
+        "consulting",
+        "career"
+      ],
+      "raw": {
+        "channel_id": "UCmLGJ3VYBcfRaWbP6JLJcpA",
+        "video_id": "VEMI54KF8u0",
+        "playlist_id": "UUmLGJ3VYBcfRaWbP6JLJcpA"
+      }
+    }
+  ]
+}
