@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-24T16:49:38.623641+00:00",
+  "window": {
+    "since": "2026-11-23T16:49:38.623641+00:00",
+    "until": "2026-11-24T16:49:38.623641+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 4,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:Bl5_35gyzRs",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Production AI Agents for Generative Media: Office Hours Week 2",
+      "url": "https://www.youtube.com/watch?v=Bl5_35gyzRs",
+      "published_at": "2026-11-24T15:57:09+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Course: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n- Docs: https://datatalksclub.github.io/docs/courses/production-ai-agents-generative-media/getting-started/\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "Bl5_35gyzRs",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:FMQSTtizWiE",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Office Hours: Recapping Ignite in Cabo San Lucas",
+      "url": "https://www.youtube.com/watch?v=FMQSTtizWiE",
+      "published_at": "2026-11-24T15:00:30+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "I discuss the surprisingly light database news coming out of the Microsoft Ignite conference, then answer your top-voted questions from https://pollgab.com/room/brento.\n\n00:00 Start\n01:16 News: Microsoft Ignite didn't have much database news\n02:00 News: Cross-database query support in Azure SQL DB Hyperscale\n03:55 News: SSMS Copilot experience reworked again\n06:51 Stewpeas: Hi Brent, I'm mid twenties and 3 years into my DBA journey. I love my job and geek out over SQL Server internals and performance tuning. I'm terrified that in 5-10 years there will be no need for a DBA other than a feeling of safety for HA/DR. Any advice about what to learn next?\n08:48 flyboy91901: With SQL Server 2025 Microsoft has mentioned this is the last version with SSIS.  What is the direction one should look at for ETLs for on-prem use? MSFT response is unclear.\n10:48 database: As a large enterprise, we are looking to slowly migrate towards PostgreSQL (e.g. Strangler Pattern) and away from SQL Server. Is PostgreSQL on Azure still a \"meme\" product compared to Aurora? What is your personal experience and what should we consider going into our research?\n12:40 Ozzie1527: Glad to hear that you enjoyed this years PASS Summit. How should you compare it against this years SQL Bits and what are the prons and cons of both of them?\n15:51 Nestrus: What would be your rough outline for a DB2DB interface? E.g., would you use RSCI or table hints for the communication table to minimize waiting on locks and would you \"just\" use Linked Server or would you prefer to access the remote table via a own, separate tool (to avoid DTC)?\n17:30 Asking_for_a_friend: Is there a reason t sql will not take a hint to use an index to create a clustered index. A unique nonclustered index 'Tmp' was created in six hours to test run time & resource load. Creating a unique clustered index 'PKCl', the real goal, it skipped 'Tmp' & ran from scratch",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "FMQSTtizWiE",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:6PCY--7-VNA",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Databricks Unity Gateway in Five Minutes",
+      "url": "https://www.youtube.com/watch?v=6PCY--7-VNA",
+      "published_at": "2026-11-24T14:49:34+00:00",
+      "author": "Advancing Analytics",
+      "summary": "How do you manage multiple AI models, control costs and apply governance without making everything more complicated? Unity Gateway is the answer!\n\nIn this quick-fire demo, Gavi and Sepi walk through Databricks Unity Gateway, showing how to manage AI models, configure guardrails and control access to the tools your AI agents use. All in around five minutes.\n\nFrom switching between LLM providers to setting budgets and configuring model fallbacks, here's a practical look at what Unity Gateway can do.\n\nIn this video, you'll learn:\n- Model providers: How to connect external LLM providers like Anthropic and Azure alongside Databricks-hosted models.\n- Model routing: How to switch between models without changing your application code.\n- Fallbacks & budgets: How to manage costs, split traffic and configure fallback models.\n- AI guardrails: How to apply policies for PII detection, jailbreak protection and other safeguards.\n- MCP governance: How to control which tools your AI agents can access, including granular read/write permissions.\n- Unity Catalog integration: How to govern agent skills alongside your other assets.\n\nChapters:\n\n00:00 Introduction to Databricks Unity Gateway\n00:59 Getting started with Unity Gateway\n01:13 Connecting external model providers\n02:25 Configuring Databricks-hosted and external models\n03:19 Model routing and switching between LLMs\n04:11 Managing model fallbacks and budgets\n04:38 Setting up AI guardrails and policies\n05:06 Governing MCP tools and permissions\n06:16 Managing AI agent skills with Unity Catalog\n07:05 Unity Gateway vs AI Gateway: What's changed?\n08:00 Favourite features: Budgets and model fallbacks\n09:11 Wrap-up and what's next\n\nGot questions?\n\nWant a deeper dive into a particular Unity Gateway feature? Drop your questions in the comments and let us know what you'd like us to cover next.\n\nAbout Advancing Analytics\n\nWe're a data and AI consultancy helping organisations get more from Databricks, from building modern data platforms to putting AI into production.\n\n🌐 Explore more: https://www.advancinganalytics.co.uk/\n\nSubscribe for practical Databricks tutorials, technical demos and conversations about data and AI.\n\n#Databricks #UnityGateway #AIGovernance #GenerativeAI #AIAgents",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "6PCY--7-VNA",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:uCGpO9si6is",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Vendor Lock-In",
+      "url": "https://www.youtube.com/watch?v=uCGpO9si6is",
+      "published_at": "2026-11-23T18:45:49+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n08:49 MyTeaGotCold: I see offerings that use cloud-managed Postgres for OLTP and their own software for OLAP. Databricks calls it their \"lakebase\" and ClickHouse just calls it \"ClickHouse Managed Postgres\". Do you know of any collective nouns for these dbs and do you have any opinions on them?\nVendor Lock-In",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "uCGpO9si6is",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:nAKU3AD7n9g",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Sharding MSSQL",
+      "url": "https://www.youtube.com/watch?v=nAKU3AD7n9g",
+      "published_at": "2026-11-23T18:38:49+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n06:37 Fable 2: In the Postgres community, I hear a lot about sharding. In the SQL Server community, I do not. Why?\nSharding MSSQL",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "nAKU3AD7n9g",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:YKBFjmym5Hc",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "MSSQL Source Code",
+      "url": "https://www.youtube.com/watch?v=YKBFjmym5Hc",
+      "published_at": "2026-11-23T18:27:37+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n04:55 If gamers can...: If you somehow obtained a SQL Server 2025 decompile, what things would you look up first?\nMSSQL Source Code",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "YKBFjmym5Hc",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    }
+  ]
+}
