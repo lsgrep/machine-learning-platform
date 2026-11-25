@@ -1,0 +1,297 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-25T16:37:42.021279+00:00",
+  "window": {
+    "since": "2026-11-24T16:37:42.021279+00:00",
+    "until": "2026-11-25T16:37:42.021279+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 3,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:vUz-AV1RiGk",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "How many agents is the creator of Claude Code running?",
+      "url": "https://www.youtube.com/watch?v=vUz-AV1RiGk",
+      "published_at": "2026-11-25T09:00:39+00:00",
+      "author": "AAIF Live",
+      "summary": null,
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "vUz-AV1RiGk",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:LbYIihDYkhs",
+      "source_id": "advancing_analytics",
+      "source_name": "Advancing Analytics",
+      "source_type": "youtube",
+      "category": "stream_processing",
+      "tier": 3,
+      "title": "Jev Decision Models: Fast, Cheap AI Judgements",
+      "url": "https://www.youtube.com/watch?v=LbYIihDYkhs",
+      "published_at": "2026-11-25T09:00:17+00:00",
+      "author": "Advancing Analytics",
+      "summary": "Welcome to the first episode of AI Changed. Again?! Tori is back (briefly) from maternity leave to get caught up with Gavi on the AI shift she kept seeing everywhere: Jev, a new “decision model” that does not generate text, but makes fast, fixed-choice judgements. They unpack why Jev is being described as a large classification model, what “system one” thinking means in practice, and where these models shine, from scoring and evaluation to model routing for cheaper agentic workflows. Gavi also covers why accuracy claims are debated, how TypeSafe positions reinforcement learning for calibrated decisions, and how Databricks and Microsoft are already responding with their own decision APIs.\n\n- TypeSafe AI: https://typesafe.ai\n- Thinking, Fast and Slow (Daniel Kahneman): https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow\n\nFind out more about the Advancing Analytics: https://www.advancinganalytics.co.uk/\n\nLearn more about our people:\nGavi Regunath: https://www.linkedin.com/in/gavitaregunath/\nTori Tompkins: https://www.linkedin.com/in/tompkinstori/\n\nIf you enjoyed this episode then please either:\nFollow, rate, and review on Apple Podcasts\nFollow and rate on Spotify\nWatch our videos on our YouTube Channel! \n\nChapters:\n00:00 Intro  \n01:30 Why this podcast exists  \n08:10 What is Jev?  \n11:00 Jev vs neural nets  \n12:40 Real-world use cases  \n14:35 Why it’s called Jev  \n16:05 System 1 vs System 2  \n17:35 Prompting and evaluation  \n22:00 Industry impact and routing  \n28:00 Databricks and Microsoft alternatives  \n30:25 How to try Jev  \n33:05 Governance and wrap-up",
+      "duration_seconds": null,
+      "tags": [
+        "databricks",
+        "delta-live-tables",
+        "structured-streaming",
+        "unity-catalog",
+        "automl",
+        "ganglia"
+      ],
+      "raw": {
+        "channel_id": "UCmRI-X6XoeH2dQE4BShRU9Q",
+        "video_id": "LbYIihDYkhs",
+        "playlist_id": "UUmRI-X6XoeH2dQE4BShRU9Q"
+      }
+    },
+    {
+      "id": "yt:Bl5_35gyzRs",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Production AI Agents for Generative Media: Office Hours Week 2",
+      "url": "https://www.youtube.com/watch?v=Bl5_35gyzRs",
+      "published_at": "2026-11-25T05:06:30+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Links:\n\n- Course: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n- Docs: https://datatalksclub.github.io/docs/courses/production-ai-agents-generative-media/getting-started/\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club\n\nConnect with Mikhail Rozhkov:\n- GitHub - https://github.com/mnrozhkov",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "Bl5_35gyzRs",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    }
+  ]
+}
