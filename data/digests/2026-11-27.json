@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-27T15:56:30.754271+00:00",
+  "window": {
+    "since": "2026-11-26T15:56:30.754271+00:00",
+    "until": "2026-11-27T15:56:30.754271+00:00",
+    "spec": "24h"
+  },
+  "source_count": 34,
+  "item_count": 6,
+  "categories": [
+    {
+      "id": "mlops_feature_stores",
+      "label": "Enterprise ML Platforms & Feature Stores"
+    },
+    {
+      "id": "stream_processing",
+      "label": "Stream Processing, Event Brokerage & Real-Time"
+    },
+    {
+      "id": "db_internals",
+      "label": "Database Internals, Storage Engines & Consensus"
+    },
+    {
+      "id": "big_data_analytics",
+      "label": "Big Data Systems, Analytics Engineering & Foundations"
+    },
+    {
+      "id": "career_interview",
+      "label": "Career Development & Interview Strategy"
+    },
+    {
+      "id": "cs_foundations",
+      "label": "CS Foundations, Visualization & Productivity"
+    }
+  ],
+  "sources_status": [
+    {
+      "source_id": "mlops_community",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "tecton",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hopsworks",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "iquantconsult",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent_developer",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "confluent",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "decodable",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "advancing_analytics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "redpanda_university",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "cmu_db_group",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "martin_kleppmann",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "geek_narrator",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "hussein_nasser",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "brent_ozar",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "erik_darling",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "practically_perfect_plsql",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "devmastersdb",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theoretical_cs",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "datatalksclub",
+      "items": 2,
+      "error": null
+    },
+    {
+      "source_id": "data_with_zach",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "seattle_data_guy",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "andreas_kretz",
+      "items": 1,
+      "error": null
+    },
+    {
+      "source_id": "darshil_parmar",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "elearning_bridge",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "mehdio",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "codebasics",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "data_with_baara",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "karolina_sowinska",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "nullqueries",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "bytebytego",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "jon_gjengset",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "theprimeagen",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "reducible",
+      "items": 0,
+      "error": null
+    },
+    {
+      "source_id": "three_blue_one_brown",
+      "items": 0,
+      "error": null
+    }
+  ],
+  "items": [
+    {
+      "id": "yt:69VzYsGWwPI",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "Tuning AG Speed",
+      "url": "https://www.youtube.com/watch?v=69VzYsGWwPI",
+      "published_at": "2026-11-27T15:52:39+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale is on! Live class registration is open now - $995 for all my live classes for a year straight! https://www.brentozar.com/classes/\n\nBlack Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n13:51 TeaEarlGrayHot: I vaguely remember undocumented AAG tuning guidance (guidance in support case?) that helped AAG replication latency with low trans log bytes size, high trans rate, but without CPU, Disk or Network contention. I think it was \"railcars\" or \"rails.\" Do you know a blog I can find it?\nTuning AG Speed",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "69VzYsGWwPI",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:5wkToxVNMNU",
+      "source_id": "brent_ozar",
+      "source_name": "Brent Ozar Unlimited",
+      "source_type": "youtube",
+      "category": "db_internals",
+      "tier": 2,
+      "title": "So Many Settings",
+      "url": "https://www.youtube.com/watch?v=5wkToxVNMNU",
+      "published_at": "2026-11-27T15:28:27+00:00",
+      "author": "Brent Ozar Unlimited",
+      "summary": "Black Friday sale! Learn database performance tuning from just $295! https://www.brentozar.com/classes/\n\n #sqlserver #sql #dba #database #azure #microsoft #tips #brentozar #pollgab #computerscience #computerconsulting #database #databaseadministrator #careergoals\n\n10:41 TheCosmicTrickster: SQL Server has any number of parameters that can be tweaked. How often do you find you have to tweak any of them to resolve an issue? What is the most esoteric thing you’ve had to tweak?\nSo Many Settings",
+      "duration_seconds": null,
+      "tags": [
+        "execution-plans",
+        "index-tuning",
+        "performance"
+      ],
+      "raw": {
+        "channel_id": "UC5B27ZdPle33KaQqsisR3mQ",
+        "video_id": "5wkToxVNMNU",
+        "playlist_id": "UU5B27ZdPle33KaQqsisR3mQ"
+      }
+    },
+    {
+      "id": "yt:uipMy9uKWtM",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Creating the Media Agent",
+      "url": "https://www.youtube.com/watch?v=uipMy9uKWtM",
+      "published_at": "2026-11-26T20:11:07+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Build a PydanticAI media generation agent with Nebius Token Factory that calls image and video tools, logs tool calls, and inspects generated images before creating videos.\n\n\nCourse: https://datatalks.club/docs/courses/production-ai-agents-generative-media/\nGitHub: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\n\n0:00 Introduction: from manual workflow to media agent\n1:57 Setting up Nebius Token Factory API key and OpenAI client\n4:33 Configuring PydanticAI with Nebius Token Factory\n7:09 Building a simple agent with tools and instructions\n11:37 Giving the agent image and video generation tools\n15:12 Tracking tool calls with an event stream handler\n17:48 Adding an image inspection tool (view_image) before video generation\n23:54 Summary and next steps\n\n\n\n\nConnect with DataTalks.Club:- Join the community - https://datatalks.club/slack.html- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ- Check other upcoming events - https://lu.ma/dtc-events- GitHub: https://github.com/DataTalksClub- LinkedIn - https://www.linkedin.com/company/datatalks-club/ - Twitter - https://twitter.com/DataTalksClub - Website - https://datatalks.club/ Connect with Alexey- Twitter - https://twitter.com/Al_Grigor - Linkedin - https://www.linkedin.com/in/agrigorev/ Check our free online courses:- ML Engineering course - http://mlzoomcamp.com- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp - LLM course - https://github.com/DataTalksClub/llm-zoomcamp - Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html 👋🏼 Support/inquiriesIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev If you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "uipMy9uKWtM",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:EWFMDi9p7sk",
+      "source_id": "datatalksclub",
+      "source_name": "DataTalksClub",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "Environment Preparation",
+      "url": "https://www.youtube.com/watch?v=EWFMDi9p7sk",
+      "published_at": "2026-11-26T20:10:44+00:00",
+      "author": "DataTalksClub ⬛",
+      "summary": "Set up a Python project and serverless Nebius endpoints for Sana (text-to-image) and Wan2.2 (image-to-video) to generate an ad video clip.\n\nCourse: https://datatalks.club/docs/courses/production-ai-agents-generative-media/\nGitHub: https://github.com/DataTalksClub/production-ai-agents-for-media-generation\n\n0:00 Introduction: module 2 goal and ad video task\n2:06 Creating the Sana image and Wan2.2 video endpoints\n4:07 Configuring environment variables and project setup\n5:47 Reviewing the ImageGenerator and VideoGenerator code\n6:53 Generating the seed image with Sana\n8:10 Animating the image into a video clip with Wan2.2\n9:59 Why we need an agent for prompting and verification\n\nConnect with DataTalks.Club:\n- Join the community - https://datatalks.club/slack.html\n- Subscribe to our Google calendar to have all our events in your calendar - https://calendar.google.com/calendar/r?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\n- Check other upcoming events - https://lu.ma/dtc-events\n- GitHub: https://github.com/DataTalksClub\n- LinkedIn - https://www.linkedin.com/company/datatalks-club/ \n- Twitter - https://twitter.com/DataTalksClub \n- Website - https://datatalks.club/ \n\nConnect with Alexey\n- Twitter - https://twitter.com/Al_Grigor \n- Linkedin - https://www.linkedin.com/in/agrigorev/ \n\nCheck our free online courses:\n- ML Engineering course - http://mlzoomcamp.com\n- Data Engineering course - https://github.com/DataTalksClub/data-engineering-zoomcamp\n- MLOps course - https://github.com/DataTalksClub/mlops-zoomcamp \n- LLM course - https://github.com/DataTalksClub/llm-zoomcamp \n- Open-source LLM course: https://github.com/DataTalksClub/open-source-llm-zoomcamp\n- AI Dev Tools course: https://github.com/DataTalksClub/ai-dev-tools-zoomcamp\n\n👉🏼 Read about all our courses in one place - https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html \n\n👋🏼 Support/inquiries\nIf you want to support our community, use this link - https://github.com/sponsors/alexeygrigorev \n\nIf you’re a company, reach us at alexey@datatalks.club",
+      "duration_seconds": null,
+      "tags": [
+        "zoomcamp",
+        "terraform",
+        "kestra",
+        "dbt",
+        "bigquery",
+        "spark",
+        "kafka",
+        "mlflow",
+        "rag",
+        "pgvector"
+      ],
+      "raw": {
+        "channel_id": "UCDvErgK0j5ur3aLgn6U-LqQ",
+        "video_id": "EWFMDi9p7sk",
+        "playlist_id": "UUDvErgK0j5ur3aLgn6U-LqQ"
+      }
+    },
+    {
+      "id": "yt:HGvkJfOlJ_A",
+      "source_id": "mlops_community",
+      "source_name": "MLOps Community",
+      "source_type": "youtube",
+      "category": "mlops_feature_stores",
+      "tier": 2,
+      "title": "The Danger of Closed Models",
+      "url": "https://www.youtube.com/watch?v=HGvkJfOlJ_A",
+      "published_at": "2026-11-26T20:07:27+00:00",
+      "author": "AAIF Live",
+      "summary": "Karan Malhotra, Co-founder of Nous Research, discusses the risks of a fully closed AI ecosystem. He explains how closed models and harnesses favor attackers over defenders, and why he sees open science, open weights and open harnesses as the safest approach.\nFollow for more on the agentic stack.\n\n#AgenticAI #AIAgents #OpenSource #AISafety #NousResearch",
+      "duration_seconds": null,
+      "tags": [
+        "mlops",
+        "agents",
+        "tool-calling",
+        "model-context-protocol",
+        "durable-execution",
+        "temporal",
+        "context-engineering"
+      ],
+      "raw": {
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "video_id": "HGvkJfOlJ_A",
+        "playlist_id": "UUG6qpjVnBTTT8wLGBygANOQ"
+      }
+    },
+    {
+      "id": "yt:ElHf6VU-CLQ",
+      "source_id": "andreas_kretz",
+      "source_name": "Andreas Kretz / Plumbers of Data Science",
+      "source_type": "youtube",
+      "category": "big_data_analytics",
+      "tier": 3,
+      "title": "My First NFL Game, and the Data You Never See on TV",
+      "url": "https://www.youtube.com/watch?v=ElHf6VU-CLQ",
+      "published_at": "2026-11-26T16:00:15+00:00",
+      "author": "Andreas Kretz",
+      "summary": "I went to my first NFL game in Munich and now I can’t stop looking at the tracking data. 🏈 There’s a stat for literally everything, from top speed to completion probability.\n\nNFL fans, what’s the first stat you check after a game?\n\nThanks to @amazonwebservices for partnering on this video and for making this experience possible! Explore more here: https://go.learndataengineering.com/3q8fx6pv\n\n#NFL #NFLMunich #NextGenStats #AWS #DataEngineering #SportsAnalytics #AmericanFootball",
+      "duration_seconds": null,
+      "tags": [
+        "aws",
+        "lambda",
+        "sqs",
+        "spark",
+        "architecture-review"
+      ],
+      "raw": {
+        "channel_id": "UCY8mzqqGwl5_bTpBY9qLMAA",
+        "video_id": "ElHf6VU-CLQ",
+        "playlist_id": "UUY8mzqqGwl5_bTpBY9qLMAA"
+      }
+    }
+  ]
+}
